@@ -6,18 +6,18 @@ Thraben Inspector
 Usher of the Fallen
 Adanto Vanguard
 Containment Priest
-Eidolon of Obstruction
 Leonin Relic-Warder
+Loyal Warhound
 Seasoned Hallowblade
 Selfless Spirit
 Soulfire Grand Master
-Spirit of the Labyrinth
 Stoneforge Mystic
 Thalia, Guardian of Thraben
 Tithe Taker
 Wall of Omens
 Blade Splicer
 Brimaz, King of Oreskos
+Elite Spellbinder
 Flickerwisp
 Monastery Mentor
 Porcelain Legionnaire
@@ -27,11 +27,13 @@ Skyclave Apparition
 Vryn Wingmare
 Hero of Bladehold
 Linvala, Keeper of Silence
+Palace Jailer
 Restoration Angel
 Archangel Avacyn
 Baneslayer Angel
 Lyra Dawnbringer
 Reveillark
+Solitude
 Sun Titan
 Elesh Norn, Grand Cenobite
 Iona, Shield of Emeria
@@ -46,26 +48,22 @@ Path to Exile
 Swords to Plowshares
 Disenchant
 Unexpectedly Absent
-Lapse of Certainty
-Oust
 Balance
 Winds of Abandon
 Council's Judgment
 Lingering Souls
 Armageddon
-Day of Judgment
 Ravages of War
 Wrath of God
 Spectral Procession
-Emeria's Call
 Mox Pearl
 Land Tax
 Legion's Landing
+Paladin Class
 Honor of the Pure
 Banishing Light
 Oblivion Ring
 Faith's Fetters
-Felidar Retreat
 Parallax Wave
 Elspeth Conquers Death
 Karakas
@@ -78,7 +76,6 @@ Snapcaster Mage
 Thassa's Oracle
 Thieving Skydiver
 Brazen Borrower
-Cosima, God of the Voyage
 Deceiver Exarch
 Emry, Lurker of the Loch
 Pestermite
@@ -122,6 +119,7 @@ Fact or Fiction
 Turnabout
 Force of Will
 Gush
+Mystic Confluence
 Commit // Memory
 Dig Through Time
 Ancestral Vision
@@ -140,9 +138,9 @@ Time Spiral
 Upheaval
 Treasure Cruise
 Mox Sapphire
+The Blackstaff of Waterdeep
 Control Magic
 Opposition
-The Mirari Conjecture
 Treachery
 Shark Typhoon
 Academy Ruins
@@ -151,9 +149,9 @@ Tolarian Academy
 Putrid Imp
 Dark Confidant
 Kitesail Freebooter
-Nullpriest of Oblivion
 Oona's Prowler
 Pack Rat
+Scrapheap Scrounger
 Valki, God of Lies
 Bone Shredder
 Midnight Reaper
@@ -161,34 +159,35 @@ Murderous Rider
 Nighthawk Scavenger
 Ophiomancer
 Opposition Agent
-Phyrexian Rager
 Rotting Regisaur
 Woe Strider
+Ebondeath, Dracolich
 Gonti, Lord of Luxury
 Ravenous Chupacabra
-Sling-Gang Lieutenant
 Yawgmoth, Thran Physician
 Shriekmaw
 Grave Titan
 Massacre Wurm
 Tasigur, the Golden Fang
 Sheoldred, Whispering One
+Archon of Cruelty
 Griselbrand
 Liliana of the Veil
+Liliana, the Last Hope
 Liliana, Death's Majesty
 Dark Ritual
 Entomb
 Fatal Push
 Vampiric Tutor
 Cabal Ritual
-Heartless Act
-Liliana's Triumph
+Power Word Kill
 Shallow Grave
 Corpse Dance
 Dismember
 Hero's Downfall
 Makeshift Mannequin
 Bloodchief's Thirst
+Bone Shards
 Duress
 Imperial Seal
 Inquisition of Kozilek
@@ -204,7 +203,6 @@ Agadeem's Awakening
 Toxic Deluge
 Yawgmoth's Will
 Damnation
-Languish
 Mastermind's Acquisition
 Tendrils of Agony
 Dark Petition
@@ -219,19 +217,21 @@ Necromancy
 Recurring Nightmare
 Yawgmoth's Bargain
 Bomat Courier
+Dragon's Rage Channeler
 Goblin Guide
 Goblin Welder
 Grim Lavamancer
 Monastery Swiftspear
+Ragavan, Nimble Pilferer
 Soul-Scar Mage
-Zurgo Bellstriker
 Abbot of Keral Keep
 Dire Fleet Daredevil
 Dreadhorde Arcanist
 Eidolon of the Great Revel
 Embereth Shieldbreaker
-Krark, the Thumbless
+Flametongue Yearling
 Magda, Brazen Outlaw
+Robber of the Rich
 Runaway Steam-Kin
 Young Pyromancer
 Birgi, God of Storytelling
@@ -240,15 +240,14 @@ Imperial Recruiter
 Rampaging Ferocidon
 Seasoned Pyromancer
 Avalanche Riders
-Flametongue Kavu
 Hazoret the Fervent
 Hellrider
 Pia and Kiran Nalaar
 Glorybringer
-Goblin Dark-Dwellers
 Goldspan Dragon
 Kiki-Jiki, Mirror Breaker
 Siege-Gang Commander
+Thundermaw Hellkite
 Zealous Conscripts
 Inferno Titan
 Chandra, Torch of Defiance
@@ -256,6 +255,7 @@ Daretti, Scrap Savant
 Koth of the Hammer
 Burst Lightning
 Lightning Bolt
+Unholy Heat
 Abrade
 Ancient Grudge
 Desperate Ritual
@@ -270,16 +270,13 @@ Banefire
 Chain Lightning
 Faithless Looting
 Firebolt
-Flame Slash
 Mizzium Mortars
 Pyroclasm
-Shatterskull Smashing
 Light Up the Stage
 Wheel of Fortune
+Wheel of Misfortune
 Empty the Warrens
 Past in Flames
-Burning of Xinye
-Wildfire
 Mox Ruby
 Mana Flare
 Sulfuric Vortex
@@ -288,7 +285,6 @@ Splinter Twin
 Arbor Elf
 Avacyn's Pilgrim
 Birds of Paradise
-Elves of Deep Shadow
 Elvish Mystic
 Fyndhorn Elves
 Gilded Goose
@@ -305,17 +301,19 @@ Scavenging Ooze
 Sylvan Caryatid
 Wall of Blossoms
 Wall of Roots
+Circle of Dreams Druid
 Courser of Kruphix
-Dryad of the Ilysian Grove
 Eternal Witness
 Nissa, Vastwood Seer
 Ramunap Excavator
 Reclamation Sage
+Rift Sower
 Tireless Tracker
-Yavimaya Elder
+Magus of the Order
 Oracle of Mul Daya
 Polukranos, World Eater
 Questing Beast
+Toski, Bearer of Secrets
 Acidic Slime
 Biogenic Ooze
 Deranged Hermit
@@ -330,7 +328,6 @@ Terastodon
 Woodfall Primus
 Garruk Relentless
 Garruk Wildspeaker
-Freyalise, Llanowar's Fury
 Nissa, Who Shakes the World
 Nature's Claim
 Beast Within
@@ -341,18 +338,17 @@ Regrowth
 Cultivate
 Search for Tomorrow
 Eureka
-Harmonize
 Natural Order
 Plow Under
 Primal Command
 Turntimber Symbiosis
 Mox Emerald
-Birthing Pod
 Fastbond
 Oath of Druids
 Survival of the Fittest
 Sylvan Library
 Heartbeat of Spring
+Court of Bounty
 Gaea's Cradle
 Azorius Signet
 Geist of Saint Traft
@@ -363,7 +359,7 @@ Yorion, Sky Nomad
 Baleful Strix
 Dimir Signet
 Ashiok, Nightmare Weaver
-Thief of Sanity
+Master of Death
 Fallen Shinobi
 The Scarab God
 Angrath's Rampage
@@ -384,24 +380,25 @@ Kitchen Finks
 Knight of Autumn
 Knight of the Reliquary
 Mirari's Wake
+Damn
 Orzhov Signet
 Tidehollow Sculler
 Anguished Unmaking
 Kaya, Orzhov Usurper
 Vindicate
 Ashen Rider
+Expressive Iteration
 Goblin Electromancer
 Izzet Signet
 Dack Fayden
-Fire // Ice
 Expansion // Explosion
 Thousand-Year Storm
 Assassin's Trophy
 Golgari Signet
+Grist, the Hunger Tide
 Maelstrom Pulse
 Pernicious Deed
-Sarulf, Realm Eater
-Casualties of War
+Vraska, Golgari Queen
 Figure of Destiny
 Boros Signet
 Lightning Helix
@@ -409,16 +406,16 @@ Wear // Tear
 Nahiri, the Harbinger
 Showdown of the Skalds
 Hydroid Krasis
+Lonis, Cryptozoologist
 Simic Signet
 Oko, Thief of Crowns
 Trygon Predator
 Uro, Titan of Nature's Wrath
-Prime Speaker Vannifar
 Sphinx of the Steel Wind
+Ignoble Hierarch
 Leovold, Emissary of Trest
 Omnath, Locus of Creation
 Golos, Tireless Pilgrim
-Niv-Mizzet Reborn
 Progenitus
 Hangarback Walker
 Stonecoil Serpent
@@ -474,6 +471,7 @@ Batterskull
 Gilded Lotus
 Memory Jar
 Mindslaver
+Kaldra Compleat
 Celestial Colonnade
 Flooded Strand
 Hallowed Fountain
@@ -527,9 +525,10 @@ Tropical Island
 Ancient Tomb
 Bazaar of Baghdad
 Blast Zone
+Cave of the Frost Dragon
+Den of the Bugbear
 Field of Ruin
 Library of Alexandria
-Maze of Ith
 Mishra's Factory
 Mishra's Workshop
 Mutavault
@@ -537,4 +536,5 @@ Nykthos, Shrine to Nyx
 Prismatic Vista
 Rishadan Port
 Strip Mine
+Urza's Saga
 Wasteland
