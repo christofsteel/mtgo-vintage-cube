@@ -1,9 +1,9 @@
-Benevolent Bodyguard
 Giver of Runes
 Kytheon, Hero of Akros
 Mother of Runes
 Student of Warfare
 Thraben Inspector
+Usher of the Fallen
 Adanto Vanguard
 Containment Priest
 Eidolon of Obstruction
@@ -78,11 +78,11 @@ Snapcaster Mage
 Thassa's Oracle
 Thieving Skydiver
 Brazen Borrower
+Cosima, God of the Voyage
 Deceiver Exarch
 Emry, Lurker of the Loch
 Pestermite
 Spellseeker
-Thada Adel, Acquisitor
 Trinket Mage
 Vendilion Clique
 Glen Elendra Archmage
@@ -151,10 +151,10 @@ Tolarian Academy
 Putrid Imp
 Dark Confidant
 Kitesail Freebooter
-Mesmeric Fiend
 Nullpriest of Oblivion
 Oona's Prowler
 Pack Rat
+Valki, God of Lies
 Bone Shredder
 Midnight Reaper
 Murderous Rider
@@ -228,12 +228,13 @@ Zurgo Bellstriker
 Abbot of Keral Keep
 Dire Fleet Daredevil
 Dreadhorde Arcanist
-Earthshaker Khenra
 Eidolon of the Great Revel
 Embereth Shieldbreaker
 Krark, the Thumbless
+Magda, Brazen Outlaw
 Runaway Steam-Kin
 Young Pyromancer
+Birgi, God of Storytelling
 Goblin Rabblemaster
 Imperial Recruiter
 Rampaging Ferocidon
@@ -245,9 +246,9 @@ Hellrider
 Pia and Kiran Nalaar
 Glorybringer
 Goblin Dark-Dwellers
+Goldspan Dragon
 Kiki-Jiki, Mirror Breaker
 Siege-Gang Commander
-Thundermaw Hellkite
 Zealous Conscripts
 Inferno Titan
 Chandra, Torch of Defiance
@@ -282,7 +283,6 @@ Wildfire
 Mox Ruby
 Mana Flare
 Sulfuric Vortex
-Experimental Frenzy
 Sneak Attack
 Splinter Twin
 Arbor Elf
@@ -322,8 +322,8 @@ Deranged Hermit
 Elder Gargaroth
 Thragtusk
 Whisperwood Elemental
-Carnage Tyrant
 Primeval Titan
+Vorinclex, Monstrous Raider
 Avenger of Zendikar
 Craterhoof Behemoth
 Terastodon
@@ -400,14 +400,14 @@ Assassin's Trophy
 Golgari Signet
 Maelstrom Pulse
 Pernicious Deed
-Vraska, Golgari Queen
+Sarulf, Realm Eater
 Casualties of War
 Figure of Destiny
 Boros Signet
 Lightning Helix
 Wear // Tear
-Ajani Vengeant
 Nahiri, the Harbinger
+Showdown of the Skalds
 Hydroid Krasis
 Simic Signet
 Oko, Thief of Crowns
