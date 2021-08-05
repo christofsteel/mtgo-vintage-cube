@@ -1,27 +1,27 @@
-Elite Vanguard
+Dragon Hunter
 Isamaru, Hound of Konda
+Mardu Woe-Reaper
 Mother of Runes
-Savannah Lions
 Soldier of the Pantheon
 Student of Warfare
 Weathered Wayfarer
-Accorder Paladin
-Containment Priest
-Imposing Sovereign
-Kami of Ancient Law
 Leonin Arbiter
 Leonin Relic-Warder
+Seeker of the Way
+Soulfire Grand Master
 Spirit of the Labyrinth
 Stoneforge Mystic
 Thalia, Guardian of Thraben
 Wall of Omens
-Aven Mindcensor
+War Priest of Thune
 Banisher Priest
 Blade Splicer
 Brimaz, King of Oreskos
+Fiend Hunter
 Flickerwisp
 Hallowed Spiritkeeper
 Mirran Crusader
+Monastery Mentor
 Porcelain Legionnaire
 Silverblade Paladin
 Emeria Angel
@@ -40,14 +40,15 @@ Iona, Shield of Emeria
 Ajani, Caller of the Pride
 Ajani Goldmane
 Elspeth, Knight-Errant
-Elspeth Tirel
 Gideon Jura
 Elspeth, Sun's Champion
 Enlightened Tutor
 Mana Tithe
 Path to Exile
+Secure the Wastes
 Swords to Plowshares
 Disenchant
+Momentary Blink
 Unexpectedly Absent
 Balance
 Council's Judgment
@@ -57,7 +58,6 @@ Day of Judgment
 Ravages of War
 Wrath of God
 Spectral Procession
-Terminus
 Mox Pearl
 Spear of Heliod
 Land Tax
@@ -69,28 +69,21 @@ Faith's Fetters
 Moat
 Parallax Wave
 Karakas
-Windbrisk Heights
 Delver of Secrets
 Augur of Bolas
 Looter il-Kor
 Phantasmal Image
 Snapcaster Mage
-Spellskite
 Deceiver Exarch
-Grand Architect
-Kira, Great Glass-Spinner
-Old Man of the Sea
+Man-o'-War
 Pestermite
-Serendib Efreet
 Thada Adel, Acquisitor
 Trinket Mage
 True-Name Nemesis
 Vendilion Clique
-Dungeon Geists
 Glen Elendra Archmage
 Phyrexian Metamorph
 Sower of Temptation
-Talrand, Sky Summoner
 Venser, Shaper Savant
 Meloku the Clouded Mirror
 Mulldrifter
@@ -107,15 +100,16 @@ Tezzeret the Seeker
 Ancestral Recall
 Brainstorm
 Force Spike
+Mental Misstep
 Mystical Tutor
 Repeal
+Spell Pierce
 Brain Freeze
 Counterspell
 Daze
 Impulse
 Mana Drain
 Mana Leak
-Memory Lapse
 Remand
 Frantic Search
 Thirst for Knowledge
@@ -124,7 +118,10 @@ Fact or Fiction
 Gifts Ungiven
 Turnabout
 Force of Will
+Gush
+Dig Through Time
 Ancestral Vision
+Gitaxian Probe
 Ponder
 Preordain
 Time Walk
@@ -136,18 +133,16 @@ Bribery
 Mind's Desire
 Time Spiral
 Upheaval
+Treasure Cruise
 Mox Sapphire
 Control Magic
 Opposition
 Treachery
 Academy Ruins
+Shelldock Isle
 Tolarian Academy
 Bloodsoaked Champion
-Carnophage
-Diregraf Ghoul
-Gravecrawler
 Putrid Imp
-Vampire Lacerator
 Bloodghast
 Brain Maggot
 Dark Confidant
@@ -161,9 +156,7 @@ Bone Shredder
 Geralf's Messenger
 Hypnotic Specter
 Lifebane Zombie
-Master of the Feast
 Ophiomancer
-Phyrexian Negator
 Vampire Nighthawk
 Bloodline Keeper
 Braids, Cabal Minion
@@ -171,9 +164,13 @@ Desecration Demon
 Nekrataal
 Phyrexian Obliterator
 Skinrender
+Puppeteer Clique
 Shriekmaw
+Sidisi, Undead Vizier
 Grave Titan
 Massacre Wurm
+Tasigur, the Golden Fang
+Gurmag Angler
 Sheoldred, Whispering One
 Griselbrand
 Tombstalker
@@ -184,9 +181,12 @@ Entomb
 Vampiric Tutor
 Diabolic Edict
 Go for the Throat
+Shallow Grave
 Ultimate Price
+Corpse Dance
 Dismember
 Hero's Downfall
+Makeshift Mannequin
 Murderous Cut
 Duress
 Imperial Seal
@@ -203,7 +203,6 @@ Tendrils of Agony
 Living Death
 Unburial Rites
 Mox Jet
-Sarcomancy
 Animate Dead
 Bitterblossom
 Necromancy
@@ -215,21 +214,20 @@ Yawgmoth's Bargain
 Urborg, Tomb of Yawgmoth
 Volrath's Stronghold
 Firedrinker Satyr
-Frenzied Goblin
 Goblin Guide
-Goblin Vandal
 Goblin Welder
 Grim Lavamancer
 Jackal Pup
-Spikeshot Elder
+Monastery Swiftspear
 Stromkirk Noble
-Borderland Marauder
+Zurgo Bellstriker
 Eidolon of the Great Revel
 Gore-House Chainwalker
 Kargan Dragonlord
 Lightning Mauler
 Torch Fiend
 Young Pyromancer
+Alesha, Who Smiles at Death
 Chandra's Phoenix
 Dualcaster Mage
 Guttersnipe
@@ -253,11 +251,13 @@ Daretti, Scrap Savant
 Koth of the Hammer
 Sarkhan, the Dragonspeaker
 Burst Lightning
+Firestorm
 Lightning Bolt
 Ancient Grudge
 Incinerate
 Lightning Strike
 Magma Jet
+Punishing Fire
 Searing Blaze
 Searing Spear
 Smash to Smithereens
@@ -271,9 +271,7 @@ Chain Lightning
 Crater's Claws
 Faithless Looting
 Firebolt
-Arc Trail
 Mizzium Mortars
-Molten Rain
 Rift Bolt
 Wheel of Fortune
 Empty the Warrens
@@ -281,10 +279,9 @@ Burning of Xinye
 Wildfire
 Mox Ruby
 Sulfuric Vortex
+Outpost Siege
 Sneak Attack
 Splinter Twin
-Ghitu Encampment
-Teetering Peaks
 Arbor Elf
 Avacyn's Pilgrim
 Birds of Paradise
@@ -317,6 +314,7 @@ Acidic Slime
 Deranged Hermit
 Indrik Stomphowler
 Thragtusk
+Whisperwood Elemental
 Wolfir Silverheart
 Primeval Titan
 Avenger of Zendikar
@@ -341,13 +339,12 @@ Search for Tomorrow
 Eureka
 Harmonize
 Natural Order
-Plow Under
 Primal Command
 Stunted Growth
 Tooth and Nail
 Mox Emerald
 Birthing Pod
-Rancor
+Fastbond
 Oath of Druids
 Survival of the Fittest
 Sylvan Library
@@ -358,52 +355,52 @@ Pattern of Rebirth
 Gaea's Cradle
 Treetop Village
 Azorius Signet
-Detention Sphere
 Geist of Saint Traft
 Sphinx's Revelation
+Narset Transcendent
 Supreme Verdict
 Venser, the Sojourner
 Baleful Strix
 Dimir Signet
 Ashiok, Nightmare Weaver
-Nightveil Specter
 Shadowmage Infiltrator
 Tezzeret, Agent of Bolas
+Dragonlord Silumgar
 Rakdos Cackler
 Dreadbore
 Rakdos Signet
+Rakdos's Return
 Terminate
-Falkenrath Aristocrat
 Olivia Voldaren
-Burning-Tree Emissary
 Gruul Signet
 Domri Rade
 Bloodbraid Elf
 Huntmaster of the Fells
 Xenagos, the Reveler
+Dragonlord Atarka
 Gaddock Teeg
 Qasali Pridemage
 Selesnya Signet
 Voice of Resurgence
 Kitchen Finks
 Mirari's Wake
-Gerrard's Verdict
 Orzhov Signet
 Tidehollow Sculler
 Sin Collector
 Vindicate
 Sorin, Lord of Innistrad
-Goblin Electromancer
+Utter End
+Izzet Charm
 Izzet Signet
 Dack Fayden
 Electrolyze
 Fire // Ice
 Ral Zarek
+Deathrite Shaman
 Abrupt Decay
 Golgari Signet
 Maelstrom Pulse
 Pernicious Deed
-Vraska the Unseen
 Garruk, Apex Predator
 Figure of Destiny
 Boros Charm
@@ -411,21 +408,26 @@ Boros Signet
 Lightning Helix
 Boros Reckoner
 Ajani Vengeant
-Kiora's Follower
 Simic Signet
 Edric, Spymaster of Trest
 Shardless Agent
 Trygon Predator
 Kiora, the Crashing Wave
+Mystic Snake
 Sphinx of the Steel Wind
 Nicol Bolas, Planeswalker
+Siege Rhino
+Jeskai Ascendancy
+Villainous Wealth
 Progenitus
 Phyrexian Revoker
+Spellskite
 Metalworker
 Lodestone Golem
 Masticore
-Molten-Tail Masticore
 Solemn Simulacrum
+Kuldotha Forgemaster
+Duplicant
 Wurmcoil Engine
 Myr Battlesphere
 Blightsteel Colossus
@@ -434,6 +436,7 @@ Kozilek, Butcher of Truth
 Sundering Titan
 Ulamog, the Infinite Gyre
 Karn Liberated
+Ugin, the Spirit Dragon
 Black Lotus
 Chrome Mox
 Everflowing Chalice
@@ -441,29 +444,24 @@ Lion's Eye Diamond
 Lotus Bloom
 Mana Crypt
 Mox Diamond
-Aether Vial
-Cursed Scroll
+Zuran Orb
 Mana Vault
 Pithing Needle
-Relic of Progenitus
 Sensei's Divining Top
 Skullclamp
 Sol Ring
-Voltaic Key
 Grim Monolith
 Isochron Scepter
 Lightning Greaves
-Manriki-Gusari
-Null Rod
 Pentad Prism
 Scroll Rack
 Shrine of Burning Rage
-Time Vault
 Umezawa's Jitte
 Winter Orb
 Basalt Monolith
 Coalition Relic
 Crucible of Worlds
+Staff of Domination
 Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
@@ -478,6 +476,7 @@ Thran Dynamo
 Batterskull
 Gilded Lotus
 Memory Jar
+Mindslaver
 Adarkar Wastes
 Flooded Strand
 Glacial Fortress
@@ -493,12 +492,12 @@ Blood Crypt
 Bloodstained Mire
 Dragonskull Summit
 Sulfurous Springs
-Karplusan Forest
+Grove of the Burnwillows
 Rootbound Crag
 Stomping Ground
 Taiga
 Wooded Foothills
-Brushland
+Horizon Canopy
 Savannah
 Sunpetal Grove
 Temple Garden
@@ -531,6 +530,7 @@ Yavimaya Coast
 Ancient Tomb
 Bazaar of Baghdad
 Library of Alexandria
+Mana Confluence
 Maze of Ith
 Mishra's Factory
 Mishra's Workshop
