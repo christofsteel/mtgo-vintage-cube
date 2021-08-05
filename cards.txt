@@ -27,7 +27,6 @@ Hero of Bladehold
 Linvala, Keeper of Silence
 Restoration Angel
 Angel of Invention
-Angel of Sanctions
 Archangel Avacyn
 Baneslayer Angel
 Lyra Dawnbringer
@@ -37,7 +36,7 @@ Angel of Serenity
 Elesh Norn, Grand Cenobite
 Iona, Shield of Emeria
 Gideon Blackblade
-Elspeth, Knight-Errant
+Elspeth, Sun's Nemesis
 Gideon, Ally of Zendikar
 Gideon Jura
 Elspeth, Sun's Champion
@@ -68,13 +67,14 @@ Oblivion Ring
 Faith's Fetters
 Moat
 Parallax Wave
+Elspeth Conquers Death
 Karakas
-Pteramander
 Baral, Chief of Compliance
 Jace, Vryn's Prodigy
 Looter il-Kor
 Phantasmal Image
 Snapcaster Mage
+Thassa's Oracle
 Thing in the Ice
 Arcane Artisan
 Brazen Borrower
@@ -273,7 +273,6 @@ Flame Slash
 Mizzium Mortars
 Pyroclasm
 Light Up the Stage
-Sweltering Suns
 Wheel of Fortune
 Empty the Warrens
 Fiery Confluence
@@ -281,6 +280,7 @@ Past in Flames
 Burning of Xinye
 Wildfire
 Mox Ruby
+Underworld Breach
 Mana Flare
 Sulfuric Vortex
 Sneak Attack
@@ -291,13 +291,13 @@ Birds of Paradise
 Elves of Deep Shadow
 Elvish Mystic
 Fyndhorn Elves
+Gilded Goose
 Joraga Treespeaker
 Llanowar Elves
 Noble Hierarch
 Den Protector
 Devoted Druid
 Fauna Shaman
-Incubation Druid
 Lotus Cobra
 Rofellos, Llanowar Emissary
 Sakura-Tribe Elder
@@ -306,6 +306,7 @@ Sylvan Caryatid
 Wall of Blossoms
 Wall of Roots
 Courser of Kruphix
+Dryad of the Ilysian Grove
 Eternal Witness
 Ramunap Excavator
 Reclamation Sage
@@ -326,7 +327,6 @@ Avenger of Zendikar
 Craterhoof Behemoth
 Terastodon
 Woodfall Primus
-Vivien, Champion of the Wilds
 Garruk Relentless
 Garruk Wildspeaker
 Garruk, Primal Hunter
@@ -367,9 +367,9 @@ Thief of Sanity
 Fallen Shinobi
 The Scarab God
 Angrath's Rampage
+Kroxa, Titan of Death's Hunger
 Rakdos Signet
 Rakdos's Return
-Terminate
 Daretti, Ingenious Iconoclast
 Kolaghan's Command
 Gruul Signet
@@ -412,8 +412,8 @@ Hydroid Krasis
 Simic Signet
 Edric, Spymaster of Trest
 Oko, Thief of Crowns
-Shardless Agent
 Trygon Predator
+Uro, Titan of Nature's Wrath
 Sphinx of the Steel Wind
 Nicol Bolas, Dragon-God
 Leovold, Emissary of Trest
