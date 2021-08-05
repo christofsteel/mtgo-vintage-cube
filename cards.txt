@@ -1,3 +1,4 @@
+Benevolent Bodyguard
 Giver of Runes
 Kytheon, Hero of Akros
 Mother of Runes
@@ -40,7 +41,6 @@ Gideon, Ally of Zendikar
 Gideon Jura
 Elspeth, Sun's Champion
 Condemn
-Fight as One
 Mana Tithe
 Path to Exile
 Swords to Plowshares
@@ -82,6 +82,7 @@ Deceiver Exarch
 Emry, Lurker of the Loch
 Pestermite
 Spellseeker
+Thada Adel, Acquisitor
 Trinket Mage
 Vendilion Clique
 Glen Elendra Archmage
@@ -96,7 +97,6 @@ Frost Titan
 Torrential Gearhulk
 Palinchron
 Inkwell Leviathan
-Jace, Mirror Mage
 Narset, Parter of Veils
 Jace, the Mind Sculptor
 Tezzeret the Seeker
@@ -160,8 +160,8 @@ Midnight Reaper
 Murderous Rider
 Nighthawk Scavenger
 Ophiomancer
+Opposition Agent
 Phyrexian Rager
-Plaguecrafter
 Rotting Regisaur
 Woe Strider
 Gonti, Lord of Luxury
@@ -231,6 +231,7 @@ Dreadhorde Arcanist
 Earthshaker Khenra
 Eidolon of the Great Revel
 Embereth Shieldbreaker
+Krark, the Thumbless
 Runaway Steam-Kin
 Young Pyromancer
 Goblin Rabblemaster
@@ -275,7 +276,6 @@ Shatterskull Smashing
 Light Up the Stage
 Wheel of Fortune
 Empty the Warrens
-Fiery Confluence
 Past in Flames
 Burning of Xinye
 Wildfire
@@ -378,7 +378,7 @@ Wrenn and Six
 Bloodbraid Elf
 Huntmaster of the Fells
 Dragonlord Atarka
-Gaddock Teeg
+Qasali Pridemage
 Selesnya Signet
 Kitchen Finks
 Knight of Autumn
