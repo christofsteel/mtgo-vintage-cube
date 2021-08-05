@@ -12,7 +12,6 @@ Spirit of the Labyrinth
 Stoneforge Mystic
 Thalia, Guardian of Thraben
 Wall of Omens
-War Priest of Thune
 Banisher Priest
 Blade Splicer
 Brimaz, King of Oreskos
@@ -24,11 +23,11 @@ Porcelain Legionnaire
 Recruiter of the Guard
 Silverblade Paladin
 Vryn Wingmare
-Academy Rector
 Emeria Angel
 Hero of Bladehold
 Linvala, Keeper of Silence
 Restoration Angel
+Angel of Sanctions
 Archangel of Thune
 Baneslayer Angel
 Reveillark
@@ -38,6 +37,7 @@ Sun Titan
 Angel of Serenity
 Elesh Norn, Grand Cenobite
 Iona, Shield of Emeria
+Gideon of the Trials
 Elspeth, Knight-Errant
 Gideon, Ally of Zendikar
 Gideon Jura
@@ -64,17 +64,17 @@ Land Tax
 Honor of the Pure
 Banishing Light
 Oblivion Ring
-Faith's Fetters
+Cast Out
 Leyline of Sanctity
 Moat
 Parallax Wave
 Karakas
 Delver of Secrets
+Baral, Chief of Compliance
 Jace, Vryn's Prodigy
 Looter il-Kor
 Phantasmal Image
 Snapcaster Mage
-Thing in the Ice
 Deceiver Exarch
 Pestermite
 Thada Adel, Acquisitor
@@ -103,7 +103,6 @@ Force Spike
 High Tide
 Mental Misstep
 Mystical Tutor
-Quicken
 Repeal
 Spell Pierce
 Anticipate
@@ -123,6 +122,7 @@ Turnabout
 Force of Will
 Gush
 Mystic Confluence
+Commit // Memory
 Dig Through Time
 Ancestral Vision
 Careful Study
@@ -150,6 +150,8 @@ Putrid Imp
 Brain Maggot
 Dark Confidant
 Mesmeric Fiend
+Nezumi Graverobber
+Nezumi Shortfang
 Oona's Prowler
 Pack Rat
 Bone Shredder
@@ -163,7 +165,6 @@ Desecration Demon
 Kalitas, Traitor of Ghet
 Nekrataal
 Skinrender
-Puppeteer Clique
 Shriekmaw
 Sidisi, Undead Vizier
 Grave Titan
@@ -173,9 +174,10 @@ Gurmag Angler
 Sheoldred, Whispering One
 Griselbrand
 Liliana of the Veil
+Liliana, Death's Majesty
 Dark Ritual
-Disfigure
 Entomb
+Fatal Push
 Vampiric Tutor
 Cabal Ritual
 Diabolic Edict
@@ -193,7 +195,6 @@ Inquisition of Kozilek
 Mind Twist
 Reanimate
 Thoughtseize
-Collective Brutality
 Demonic Tutor
 Exhume
 Hymn to Tourach
@@ -212,7 +213,6 @@ Animate Dead
 Bitterblossom
 Necromancy
 Necropotence
-Phyrexian Arena
 Recurring Nightmare
 The Abyss
 Yawgmoth's Bargain
@@ -227,9 +227,9 @@ Monastery Swiftspear
 Zurgo Bellstriker
 Abbot of Keral Keep
 Eidolon of the Great Revel
+Harsh Mentor
 Kargan Dragonlord
 Lightning Mauler
-Torch Fiend
 Young Pyromancer
 Dualcaster Mage
 Guttersnipe
@@ -273,9 +273,9 @@ Crater's Claws
 Faithless Looting
 Firebolt
 Mizzium Mortars
-Roast
 Exquisite Firecraft
 Rift Bolt
+Sweltering Suns
 Wheel of Fortune
 Empty the Warrens
 Fiery Confluence
@@ -307,18 +307,18 @@ Wall of Roots
 Courser of Kruphix
 Eternal Witness
 Managorger Hydra
+Manglehorn
 Reclamation Sage
+Rishkar, Peema Renegade
 Yavimaya Elder
 Master of the Wild Hunt
 Oracle of Mul Daya
 Polukranos, World Eater
 Thrun, the Last Troll
 Acidic Slime
-Conclave Naturalists
 Deranged Hermit
 Thragtusk
 Verdurous Gearhulk
-Wolfir Silverheart
 Primeval Titan
 Avenger of Zendikar
 Craterhoof Behemoth
@@ -330,6 +330,7 @@ Freyalise, Llanowar's Fury
 Garruk, Primal Hunter
 Nissa, Worldwaker
 Nature's Claim
+Dissenter's Deliverance
 Beast Within
 Green Sun's Zenith
 Traverse the Ulvenwald
@@ -344,7 +345,6 @@ Primal Command
 Seasons Past
 Tooth and Nail
 Mox Emerald
-Birthing Pod
 Fastbond
 Oath of Nissa
 Oath of Druids
@@ -413,9 +413,10 @@ Mystic Snake
 Bring to Light
 Sphinx of the Steel Wind
 Nicol Bolas, Planeswalker
-Villainous Wealth
+Leovold, Emissary of Trest
 Progenitus
 Hangarback Walker
+Walking Ballista
 Phyrexian Revoker
 Spellskite
 Metalworker
@@ -447,7 +448,6 @@ Sensei's Divining Top
 Skullclamp
 Sol Ring
 Grim Monolith
-Isochron Scepter
 Lightning Greaves
 Pentad Prism
 Scroll Rack
@@ -478,52 +478,52 @@ Mindslaver
 Celestial Colonnade
 Flooded Strand
 Hallowed Fountain
-Temple of Enlightenment
+Seachrome Coast
 Tundra
 Creeping Tar Pit
+Darkslick Shores
 Polluted Delta
-Temple of Deceit
 Underground Sea
 Watery Grave
 Badlands
+Blackcleave Cliffs
 Blood Crypt
 Bloodstained Mire
 Lavaclaw Reaches
-Temple of Malice
+Copperline Gorge
 Raging Ravine
 Stomping Ground
 Taiga
-Temple of Abandon
 Wooded Foothills
+Razorverge Thicket
 Savannah
 Stirring Wildwood
 Temple Garden
-Temple of Plenty
 Windswept Heath
+Concealed Courtyard
 Godless Shrine
 Marsh Flats
 Scrubland
 Shambling Vent
-Temple of Silence
 Scalding Tarn
+Spirebluff Canal
 Steam Vents
-Temple of Epiphany
 Volcanic Island
 Wandering Fumarole
 Bayou
+Blooming Marsh
 Hissing Quagmire
 Overgrown Tomb
-Temple of Malady
 Verdant Catacombs
 Arid Mesa
+Inspiring Vantage
 Needle Spires
 Plateau
 Sacred Foundry
-Temple of Triumph
+Botanical Sanctum
 Breeding Pool
 Lumbering Falls
 Misty Rainforest
-Temple of Mystery
 Tropical Island
 Ancient Tomb
 Bazaar of Baghdad
