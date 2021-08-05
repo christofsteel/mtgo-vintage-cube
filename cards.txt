@@ -1,0 +1,540 @@
+Elite Vanguard
+Gideon's Lawkeeper
+Isamaru, Hound of Konda
+Loam Lion
+Mother of Runes
+Savannah Lions
+Steppe Lynx
+Student of Warfare
+Weathered Wayfarer
+Ethersworn Canonist
+Kami of Ancient Law
+Knight of Glory
+Leonin Relic-Warder
+Nearheath Pilgrim
+Stoneforge Mystic
+Thalia, Guardian of Thraben
+Wall of Omens
+Whipcorder
+Blade Splicer
+Flickerwisp
+Mirran Crusader
+Mirror Entity
+Paladin en-Vec
+Porcelain Legionnaire
+Silverblade Paladin
+Soltari Champion
+Emeria Angel
+Hero of Bladehold
+Ranger of Eos
+Restoration Angel
+Baneslayer Angel
+Cloudgoat Ranger
+Reveillark
+Exalted Angel
+Sun Titan
+Elesh Norn, Grand Cenobite
+Eternal Dragon
+Akroma, Angel of Wrath
+Ajani, Caller of the Pride
+Ajani Goldmane
+Elspeth, Knight-Errant
+Elspeth Tirel
+Gideon Jura
+Enlightened Tutor
+Mana Tithe
+Path to Exile
+Swords to Plowshares
+Disenchant
+Momentary Blink
+Oust
+Balance
+Lingering Souls
+Armageddon
+Day of Judgment
+Ravages of War
+Wrath of God
+Rout
+Akroma's Vengeance
+Catastrophe
+Spectral Procession
+Terminus
+Mox Pearl
+Land Tax
+Honor of the Pure
+Journey to Nowhere
+Glorious Anthem
+Oblivion Ring
+Faith's Fetters
+Moat
+Parallax Wave
+Karakas
+Windbrisk Heights
+Delver of Secrets
+Jushi Apprentice
+Looter il-Kor
+Phantasmal Image
+Snapcaster Mage
+Voidmage Prodigy
+Willbender
+Man-o'-War
+Old Man of the Sea
+Serendib Efreet
+Trinket Mage
+Vendilion Clique
+Wake Thrasher
+Dungeon Geists
+Glen Elendra Archmage
+Phyrexian Metamorph
+Sower of Temptation
+Venser, Shaper Savant
+Aeon Chronicler
+Meloku the Clouded Mirror
+Mulldrifter
+Riftwing Cloudskate
+Vesuvan Shapeshifter
+Consecrated Sphinx
+Frost Titan
+Sphinx of Jwar Isle
+Palinchron
+Inkwell Leviathan
+Jace Beleren
+Jace, the Mind Sculptor
+Tamiyo, the Moon Sage
+Ancestral Recall
+Brainstorm
+Force Spike
+Mystical Tutor
+Brain Freeze
+Counterspell
+Daze
+Impulse
+Into the Roil
+Mana Drain
+Mana Leak
+Memory Lapse
+Miscalculation
+Remand
+Forbid
+Frantic Search
+Intuition
+Careful Consideration
+Cryptic Command
+Fact or Fiction
+Gifts Ungiven
+Turnabout
+Force of Will
+Ancestral Vision
+Preordain
+Time Walk
+Compulsive Research
+Show and Tell
+Timetwister
+Tinker
+Bribery
+Mind's Desire
+Time Spiral
+Upheaval
+Mox Sapphire
+Control Magic
+Opposition
+Dream Halls
+Treachery
+Shelldock Isle
+Tolarian Academy
+Diregraf Ghoul
+Gravecrawler
+Guul Draz Assassin
+Putrid Imp
+Black Knight
+Bloodghast
+Dark Confidant
+Gatekeeper of Malakir
+Gloom Surgeon
+Headhunter
+Mesmeric Fiend
+Nezumi Graverobber
+Nezumi Shortfang
+Oona's Prowler
+Bone Shredder
+Hypnotic Specter
+Phyrexian Rager
+Vampire Nighthawk
+Bane of the Living
+Braids, Cabal Minion
+Graveborn Muse
+Nekrataal
+Phyrexian Obliterator
+Plague Sliver
+Skinrender
+Bloodgift Demon
+Okiba-Gang Shinobi
+Shriekmaw
+Grave Titan
+Ink-Eyes, Servant of Oni
+Silent Specter
+Sheoldred, Whispering One
+Griselbrand
+Liliana of the Veil
+Liliana Vess
+Slaughter Pact
+Dark Ritual
+Entomb
+Vampiric Tutor
+Diabolic Edict
+Go for the Throat
+Ultimate Price
+Corpse Dance
+Dismember
+Duress
+Inquisition of Kozilek
+Mind Twist
+Reanimate
+Thoughtseize
+Demonic Tutor
+Exhume
+Hymn to Tourach
+Buried Alive
+Stupor
+Yawgmoth's Will
+Consuming Vapors
+Damnation
+Tendrils of Agony
+Living Death
+Unburial Rites
+Mox Jet
+Sarcomancy
+Animate Dead
+Bitterblossom
+Necromancy
+Necropotence
+Phyrexian Arena
+Recurring Nightmare
+Nether Void
+The Abyss
+Lake of the Dead
+Volrath's Stronghold
+Frenzied Goblin
+Goblin Guide
+Goblin Vandal
+Goblin Welder
+Grim Lavamancer
+Jackal Pup
+Kird Ape
+Orcish Lumberjack
+Spikeshot Elder
+Ember Hauler
+Hellspark Elemental
+Kargan Dragonlord
+Keldon Marauders
+Lightning Mauler
+Mogg War Marshal
+Plated Geopede
+Stormblood Berserker
+Tin Street Hooligan
+Torch Fiend
+Ball Lightning
+Chandra's Phoenix
+Goblin Ruinblaster
+Taurean Mauler
+Thunderscape Battlemage
+Avalanche Riders
+Flametongue Kavu
+Hellrider
+Hero of Oxid Ridge
+Ravenous Baboons
+Siege-Gang Commander
+Thundermaw Hellkite
+Urabrask the Hidden
+Zealous Conscripts
+Inferno Titan
+Greater Gargadon
+Chandra, the Firebrand
+Koth of the Hammer
+Chandra Nalaar
+Firestorm
+Lightning Bolt
+Ancient Grudge
+Incinerate
+Magma Jet
+Price of Progress
+Searing Blaze
+Smash to Smithereens
+Brimstone Volley
+Chaos Warp
+Char
+Seething Song
+Fireblast
+Bonfire of the Damned
+Chain Lightning
+Devil's Play
+Earthquake
+Faithless Looting
+Firebolt
+Reckless Charge
+Arc Trail
+Mizzium Mortars
+Pyroclasm
+Molten Rain
+Rift Bolt
+Wheel of Fortune
+Empty the Warrens
+Burning of Xinye
+Wildfire
+Mox Ruby
+Sulfuric Vortex
+Sneak Attack
+Ghitu Encampment
+Teetering Peaks
+Arbor Elf
+Avacyn's Pilgrim
+Birds of Paradise
+Elves of Deep Shadow
+Fyndhorn Elves
+Joraga Treespeaker
+Llanowar Elves
+Noble Hierarch
+Ulvenwald Tracker
+Wild Nacatl
+Fauna Shaman
+Flinthoof Boar
+Lotus Cobra
+Rofellos, Llanowar Emissary
+Scavenging Ooze
+Strangleroot Geist
+Tarmogoyf
+Vinelasher Kudzu
+Wall of Blossoms
+Eternal Witness
+Ohran Viper
+Thornscape Battlemage
+Yavimaya Elder
+Master of the Wild Hunt
+Nantuko Vigilante
+Obstinate Baloth
+Oracle of Mul Daya
+Thelonite Hermit
+Thrun, the Last Troll
+Vengevine
+Wickerbough Elder
+Acidic Slime
+Deranged Hermit
+Genesis
+Indrik Stomphowler
+Thragtusk
+Wolfir Silverheart
+Primeval Titan
+Avenger of Zendikar
+Terastodon
+Woodfall Primus
+Garruk Relentless
+Garruk Wildspeaker
+Garruk, Primal Hunter
+Naturalize
+Beast Within
+Green Sun's Zenith
+Channel
+Nostalgic Dreams
+Regrowth
+Call of the Herd
+Genesis Wave
+Eureka
+Harmonize
+Natural Order
+All Suns' Dawn
+Plow Under
+Primal Command
+Restock
+Rude Awakening
+Stunted Growth
+Tooth and Nail
+Mox Emerald
+Birthing Pod
+Exploration
+Rancor
+Survival of the Fittest
+Sylvan Library
+Awakening Zone
+Heartbeat of Spring
+Gaea's Cradle
+Treetop Village
+Azorius Signet
+Geist of Saint Traft
+Sphinx's Revelation
+Grand Arbiter Augustin IV
+Supreme Verdict
+Venser, the Sojourner
+Agony Warp
+Baleful Strix
+Dimir Signet
+Shadowmage Infiltrator
+Tezzeret, Agent of Bolas
+Rakdos Cackler
+Dreadbore
+Rakdos Signet
+Falkenrath Aristocrat
+Void
+Tattermunge Maniac
+Gruul Signet
+Boggart Ram-Gang
+Firespout
+Bloodbraid Elf
+Huntmaster of the Fells
+Qasali Pridemage
+Selesnya Signet
+Kitchen Finks
+Knight of the Reliquary
+Mirari's Wake
+Armada Wurm
+Orzhov Signet
+Tidehollow Sculler
+Stillmoon Cavalier
+Vindicate
+Sorin, Lord of Innistrad
+Angel of Despair
+Izzet Charm
+Izzet Signet
+Electrolyze
+Fire // Ice
+Prophetic Bolt
+Niv-Mizzet, Dracogenius
+Abrupt Decay
+Golgari Signet
+Dreg Mangler
+Maelstrom Pulse
+Pernicious Deed
+Vraska the Unseen
+Figure of Destiny
+Boros Signet
+Lightning Helix
+Ajani Vengeant
+Firemane Angel
+Simic Signet
+Cold-Eyed Selkie
+Edric, Spymaster of Trest
+Trygon Predator
+Mystic Snake
+Simic Sky Swallower
+Sphinx of the Steel Wind
+Nicol Bolas, Planeswalker
+Broodmate Dragon
+Epochrasite
+Phyrexian Revoker
+Metalworker
+Etched Oracle
+Lodestone Golem
+Masticore
+Molten-Tail Masticore
+Solemn Simulacrum
+Precursor Golem
+Razormane Masticore
+Wurmcoil Engine
+Myr Battlesphere
+Blightsteel Colossus
+Emrakul, the Aeons Torn
+Kozilek, Butcher of Truth
+Sundering Titan
+Ulamog, the Infinite Gyre
+Karn Liberated
+All Is Dust
+Black Lotus
+Chrome Mox
+Everflowing Chalice
+Lion's Eye Diamond
+Lotus Bloom
+Mana Crypt
+Mox Diamond
+Bonesplitter
+Cursed Scroll
+Mana Vault
+Sensei's Divining Top
+Skullclamp
+Sol Ring
+Grim Monolith
+Lightning Greaves
+Manriki-Gusari
+Mind Stone
+Null Rod
+Ratchet Bomb
+Scroll Rack
+Shrine of Burning Rage
+Umezawa's Jitte
+Winter Orb
+Basalt Monolith
+Coalition Relic
+Crucible of Worlds
+Pristine Talisman
+Sword of Body and Mind
+Sword of Feast and Famine
+Sword of Fire and Ice
+Sword of Light and Shadow
+Sword of War and Peace
+Tangle Wire
+Vedalken Shackles
+Worn Powerstone
+Nevinyrral's Disk
+Smokestack
+Thran Dynamo
+Batterskull
+Gilded Lotus
+Memory Jar
+Adarkar Wastes
+Azorius Chancery
+Flooded Strand
+Hallowed Fountain
+Tundra
+Dimir Aqueduct
+Polluted Delta
+Underground River
+Underground Sea
+Watery Grave
+Badlands
+Blood Crypt
+Bloodstained Mire
+Rakdos Carnarium
+Sulfurous Springs
+Gruul Turf
+Karplusan Forest
+Stomping Ground
+Taiga
+Wooded Foothills
+Brushland
+Savannah
+Selesnya Sanctuary
+Temple Garden
+Windswept Heath
+Caves of Koilos
+Godless Shrine
+Marsh Flats
+Orzhov Basilica
+Scrubland
+Izzet Boilerworks
+Scalding Tarn
+Shivan Reef
+Steam Vents
+Volcanic Island
+Bayou
+Golgari Rot Farm
+Llanowar Wastes
+Overgrown Tomb
+Verdant Catacombs
+Arid Mesa
+Battlefield Forge
+Boros Garrison
+Plateau
+Sacred Foundry
+Breeding Pool
+Misty Rainforest
+Simic Growth Chamber
+Tropical Island
+Yavimaya Coast
+Ancient Tomb
+Dust Bowl
+Library of Alexandria
+Maze of Ith
+Mishra's Factory
+Mishra's Workshop
+Rishadan Port
+Strip Mine
+Thawing Glaciers
+Wasteland
