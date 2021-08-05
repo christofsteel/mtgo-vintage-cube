@@ -1,17 +1,17 @@
 Kytheon, Hero of Akros
 Mother of Runes
-Soldier of the Pantheon
+Skymarcher Aspirant
 Student of Warfare
 Adanto Vanguard
 Knight of the White Orchid
 Leonin Relic-Warder
-Seeker of the Way
 Selfless Spirit
 Soulfire Grand Master
 Stoneforge Mystic
 Thalia, Guardian of Thraben
 Wall of Omens
 Banisher Priest
+Benalish Marshal
 Blade Splicer
 Brimaz, King of Oreskos
 Fiend Hunter
@@ -21,7 +21,6 @@ Monastery Mentor
 Porcelain Legionnaire
 Recruiter of the Guard
 Silverblade Paladin
-Vryn Wingmare
 Emeria Angel
 Hero of Bladehold
 Linvala, Keeper of Silence
@@ -30,8 +29,8 @@ Angel of Invention
 Angel of Sanctions
 Archangel of Thune
 Baneslayer Angel
+Lyra Dawnbringer
 Reveillark
-Linvala, the Preserver
 Sun Titan
 Angel of Serenity
 Elesh Norn, Grand Cenobite
@@ -63,8 +62,9 @@ Land Tax
 Legion's Landing
 Honor of the Pure
 Banishing Light
+History of Benalia
 Oblivion Ring
-Cast Out
+Faith's Fetters
 Leyline of Sanctity
 Moat
 Parallax Wave
@@ -101,10 +101,10 @@ Ancestral Recall
 Brainstorm
 Force Spike
 High Tide
-Mental Misstep
 Mystical Tutor
 Repeal
 Spell Pierce
+Blink of an Eye
 Brain Freeze
 Counterspell
 Daze
@@ -157,22 +157,20 @@ Oona's Prowler
 Pack Rat
 Bone Shredder
 Hypnotic Specter
-Magus of the Will
 Ophiomancer
 Vampire Nighthawk
 Braids, Cabal Minion
-Desecration Demon
-Kalitas, Traitor of Ghet
+Gonti, Lord of Luxury
 Nekrataal
-Skinrender
+Ravenous Chupacabra
 Shriekmaw
+Demonlord Belzenlok
 Grave Titan
 Massacre Wurm
+Noxious Gearhulk
 Tasigur, the Golden Fang
-Gurmag Angler
 Sheoldred, Whispering One
 Griselbrand
-Razaketh, the Foulblooded
 Liliana of the Veil
 Liliana, Death's Majesty
 Dark Ritual
@@ -180,7 +178,7 @@ Entomb
 Fatal Push
 Vampiric Tutor
 Cabal Ritual
-Diabolic Edict
+Cast Down
 Go for the Throat
 Shallow Grave
 Ultimate Price
@@ -188,6 +186,7 @@ Corpse Dance
 Dismember
 Hero's Downfall
 Makeshift Mannequin
+Vraska's Contempt
 Murderous Cut
 Duress
 Imperial Seal
@@ -210,6 +209,7 @@ Living Death
 Unburial Rites
 Mox Jet
 Animate Dead
+Arguel's Blood Fast
 Bitterblossom
 Necromancy
 Necropotence
@@ -226,19 +226,19 @@ Jackal Pup
 Monastery Swiftspear
 Zurgo Bellstriker
 Abbot of Keral Keep
+Dire Fleet Daredevil
 Eidolon of the Great Revel
-Harsh Mentor
 Young Pyromancer
 Dualcaster Mage
-Guttersnipe
+Goblin Chainwhirler
 Imperial Recruiter
 Magus of the Moon
 Manic Vandal
-Reckless Bushwhacker
 Avalanche Riders
 Flametongue Kavu
 Hazoret the Fervent
 Hellrider
+Rekindling Phoenix
 Glorybringer
 Goblin Dark-Dwellers
 Kiki-Jiki, Mirror Breaker
@@ -306,10 +306,11 @@ Wall of Blossoms
 Wall of Roots
 Courser of Kruphix
 Eternal Witness
-Managorger Hydra
+Jadelight Ranger
 Manglehorn
 Reclamation Sage
 Rishkar, Peema Renegade
+Thrashing Brontodon
 Yavimaya Elder
 Master of the Wild Hunt
 Oracle of Mul Daya
@@ -332,8 +333,8 @@ Nissa, Worldwaker
 Nature's Claim
 Dissenter's Deliverance
 Beast Within
+Ancient Stirrings
 Green Sun's Zenith
-Traverse the Ulvenwald
 Channel
 Regrowth
 Genesis Wave
@@ -350,16 +351,15 @@ Oath of Druids
 Survival of the Fittest
 Sylvan Library
 Awakening Zone
-Growing Rites of Itlimoc
 Heartbeat of Spring
 Song of the Dryads
 Gaea's Cradle
 Azorius Signet
 Geist of Saint Traft
-Reflector Mage
 Sphinx's Revelation
 Supreme Verdict
 Dragonlord Ojutai
+Teferi, Hero of Dominaria
 Baleful Strix
 Dimir Signet
 Ashiok, Nightmare Weaver
@@ -392,7 +392,7 @@ Izzet Signet
 Dack Fayden
 Electrolyze
 Fire // Ice
-Ral Zarek
+Jhoira, Weatherlight Captain
 Deathrite Shaman
 Abrupt Decay
 Golgari Signet
@@ -400,9 +400,9 @@ Maelstrom Pulse
 Pernicious Deed
 Vraska, Relic Seeker
 Figure of Destiny
-Boros Charm
 Boros Signet
 Lightning Helix
+Wear // Tear
 Ajani Vengeant
 Nahiri, the Harbinger
 Simic Signet
@@ -433,12 +433,15 @@ Kozilek, Butcher of Truth
 Sundering Titan
 Ulamog, the Ceaseless Hunger
 Ulamog, the Infinite Gyre
+Karn, Scion of Urza
 Karn Liberated
 Ugin, the Spirit Dragon
 Black Lotus
 Chrome Mox
+Everflowing Chalice
 Lion's Eye Diamond
 Lotus Bloom
+Lotus Petal
 Mana Crypt
 Mox Diamond
 Mana Vault
@@ -448,7 +451,6 @@ Sol Ring
 Grim Monolith
 Lightning Greaves
 Pentad Prism
-Scroll Rack
 Shrine of Burning Rage
 Smuggler's Copter
 Sorcerous Spyglass
@@ -466,7 +468,6 @@ Tangle Wire
 Vedalken Shackles
 Worn Powerstone
 Coercive Portal
-Hedron Archive
 Nevinyrral's Disk
 Smokestack
 Thran Dynamo
@@ -474,7 +475,6 @@ Batterskull
 Gilded Lotus
 Memory Jar
 Mindslaver
-God-Pharaoh's Gift
 Celestial Colonnade
 Flooded Strand
 Hallowed Fountain
@@ -527,6 +527,7 @@ Misty Rainforest
 Tropical Island
 Ancient Tomb
 Bazaar of Baghdad
+Field of Ruin
 Library of Alexandria
 Mana Confluence
 Maze of Ith
@@ -537,4 +538,3 @@ Nykthos, Shrine to Nyx
 Rishadan Port
 Strip Mine
 Wasteland
-Westvale Abbey
