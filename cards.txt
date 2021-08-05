@@ -1,32 +1,31 @@
 Elite Vanguard
-Gideon's Lawkeeper
 Isamaru, Hound of Konda
-Loam Lion
 Mother of Runes
 Savannah Lions
 Soldier of the Pantheon
-Steppe Lynx
 Student of Warfare
 Weathered Wayfarer
+Accorder Paladin
+Containment Priest
+Imposing Sovereign
 Kami of Ancient Law
-Knight of Glory
+Leonin Arbiter
 Leonin Relic-Warder
-Nearheath Pilgrim
+Spirit of the Labyrinth
 Stoneforge Mystic
 Thalia, Guardian of Thraben
 Wall of Omens
-Whipcorder
+Aven Mindcensor
+Banisher Priest
 Blade Splicer
+Brimaz, King of Oreskos
 Flickerwisp
+Hallowed Spiritkeeper
 Mirran Crusader
-Mirror Entity
-Paladin en-Vec
 Porcelain Legionnaire
 Silverblade Paladin
-Soltari Champion
 Emeria Angel
 Hero of Bladehold
-Linvala, Keeper of Silence
 Ranger of Eos
 Restoration Angel
 Archangel of Thune
@@ -37,6 +36,7 @@ Exalted Angel
 Sun Titan
 Angel of Serenity
 Elesh Norn, Grand Cenobite
+Iona, Shield of Emeria
 Ajani, Caller of the Pride
 Ajani Goldmane
 Elspeth, Knight-Errant
@@ -50,13 +50,12 @@ Swords to Plowshares
 Disenchant
 Unexpectedly Absent
 Balance
+Council's Judgment
 Lingering Souls
 Armageddon
 Day of Judgment
 Ravages of War
 Wrath of God
-Rout
-Catastrophe
 Spectral Procession
 Terminus
 Mox Pearl
@@ -64,67 +63,69 @@ Spear of Heliod
 Land Tax
 Honor of the Pure
 Journey to Nowhere
+Banishing Light
 Oblivion Ring
 Faith's Fetters
 Moat
 Parallax Wave
 Karakas
 Windbrisk Heights
-Jushi Apprentice
+Delver of Secrets
+Augur of Bolas
 Looter il-Kor
 Phantasmal Image
 Snapcaster Mage
-Voidmage Prodigy
-Willbender
+Spellskite
+Deceiver Exarch
+Grand Architect
+Kira, Great Glass-Spinner
 Old Man of the Sea
+Pestermite
 Serendib Efreet
+Thada Adel, Acquisitor
 Trinket Mage
 True-Name Nemesis
 Vendilion Clique
-Wake Thrasher
 Dungeon Geists
 Glen Elendra Archmage
 Phyrexian Metamorph
 Sower of Temptation
+Talrand, Sky Summoner
 Venser, Shaper Savant
-Aeon Chronicler
 Meloku the Clouded Mirror
 Mulldrifter
 Riftwing Cloudskate
-Vesuvan Shapeshifter
-Aetherling
 Consecrated Sphinx
 Frost Titan
-Sphinx of Jwar Isle
 Palinchron
 Inkwell Leviathan
 Jace Beleren
 Jace, Architect of Thought
 Jace, the Mind Sculptor
 Tamiyo, the Moon Sage
+Tezzeret the Seeker
 Ancestral Recall
 Brainstorm
 Force Spike
 Mystical Tutor
+Repeal
 Brain Freeze
 Counterspell
 Daze
 Impulse
-Into the Roil
 Mana Drain
 Mana Leak
 Memory Lapse
-Miscalculation
 Remand
-Forbid
 Frantic Search
-Intuition
+Thirst for Knowledge
 Cryptic Command
 Fact or Fiction
 Gifts Ungiven
 Turnabout
 Force of Will
 Ancestral Vision
+Ponder
 Preordain
 Time Walk
 Compulsive Research
@@ -138,45 +139,45 @@ Upheaval
 Mox Sapphire
 Control Magic
 Opposition
-Dream Halls
 Treachery
 Academy Ruins
 Tolarian Academy
+Bloodsoaked Champion
+Carnophage
 Diregraf Ghoul
 Gravecrawler
-Guul Draz Assassin
 Putrid Imp
-Black Knight
+Vampire Lacerator
 Bloodghast
+Brain Maggot
 Dark Confidant
 Gatekeeper of Malakir
 Mesmeric Fiend
 Nezumi Graverobber
 Nezumi Shortfang
-Nightscape Familiar
 Oona's Prowler
+Pack Rat
 Bone Shredder
+Geralf's Messenger
 Hypnotic Specter
 Lifebane Zombie
-Phyrexian Rager
+Master of the Feast
+Ophiomancer
+Phyrexian Negator
 Vampire Nighthawk
 Bloodline Keeper
 Braids, Cabal Minion
-Erebos, God of the Dead
-Graveborn Muse
+Desecration Demon
 Nekrataal
 Phyrexian Obliterator
-Plague Sliver
 Skinrender
-Bloodgift Demon
 Shriekmaw
 Grave Titan
-Ink-Eyes, Servant of Oni
+Massacre Wurm
 Sheoldred, Whispering One
 Griselbrand
+Tombstalker
 Liliana of the Veil
-Liliana Vess
-Slaughter Pact
 Dark Ritual
 Disfigure
 Entomb
@@ -184,10 +185,11 @@ Vampiric Tutor
 Diabolic Edict
 Go for the Throat
 Ultimate Price
-Corpse Dance
 Dismember
 Hero's Downfall
+Murderous Cut
 Duress
+Imperial Seal
 Inquisition of Kozilek
 Mind Twist
 Reanimate
@@ -195,9 +197,7 @@ Thoughtseize
 Demonic Tutor
 Hymn to Tourach
 Buried Alive
-Toxic Deluge
 Yawgmoth's Will
-Consuming Vapors
 Damnation
 Tendrils of Agony
 Living Death
@@ -208,11 +208,11 @@ Animate Dead
 Bitterblossom
 Necromancy
 Necropotence
-Phyrexian Arena
 Recurring Nightmare
 Nether Void
 The Abyss
-Lake of the Dead
+Yawgmoth's Bargain
+Urborg, Tomb of Yawgmoth
 Volrath's Stronghold
 Firedrinker Satyr
 Frenzied Goblin
@@ -221,60 +221,58 @@ Goblin Vandal
 Goblin Welder
 Grim Lavamancer
 Jackal Pup
-Kird Ape
-Orcish Lumberjack
 Spikeshot Elder
-Ember Hauler
-Hellspark Elemental
+Stromkirk Noble
+Borderland Marauder
+Eidolon of the Great Revel
+Gore-House Chainwalker
 Kargan Dragonlord
-Keldon Marauders
-Mogg War Marshal
-Plated Geopede
-Stormblood Berserker
-Tin Street Hooligan
+Lightning Mauler
 Torch Fiend
-Ball Lightning
+Young Pyromancer
 Chandra's Phoenix
-Goblin Ruinblaster
+Dualcaster Mage
+Guttersnipe
+Imperial Recruiter
 Magus of the Moon
-Taurean Mauler
+Manic Vandal
+Prophetic Flamespeaker
 Avalanche Riders
 Flametongue Kavu
 Hellrider
 Hero of Oxid Ridge
-Ravenous Baboons
+Kiki-Jiki, Mirror Breaker
 Siege-Gang Commander
+Stormbreath Dragon
 Thundermaw Hellkite
-Urabrask the Hidden
 Zealous Conscripts
 Inferno Titan
 Greater Gargadon
 Chandra, Pyromaster
-Chandra, the Firebrand
+Daretti, Scrap Savant
 Koth of the Hammer
-Firestorm
+Sarkhan, the Dragonspeaker
+Burst Lightning
 Lightning Bolt
 Ancient Grudge
 Incinerate
+Lightning Strike
 Magma Jet
-Price of Progress
 Searing Blaze
+Searing Spear
 Smash to Smithereens
 Brimstone Volley
-Chaos Warp
 Char
 Seething Song
+Through the Breach
 Fireblast
 Bonfire of the Damned
 Chain Lightning
-Devil's Play
-Earthquake
+Crater's Claws
 Faithless Looting
 Firebolt
-Reckless Charge
 Arc Trail
 Mizzium Mortars
-Pyroclasm
 Molten Rain
 Rift Bolt
 Wheel of Fortune
@@ -284,6 +282,7 @@ Wildfire
 Mox Ruby
 Sulfuric Vortex
 Sneak Attack
+Splinter Twin
 Ghitu Encampment
 Teetering Peaks
 Arbor Elf
@@ -295,139 +294,138 @@ Fyndhorn Elves
 Joraga Treespeaker
 Llanowar Elves
 Noble Hierarch
-Ulvenwald Tracker
-Wild Nacatl
 Fauna Shaman
 Lotus Cobra
 Rofellos, Llanowar Emissary
+Sakura-Tribe Elder
 Scavenging Ooze
-Strangleroot Geist
 Sylvan Caryatid
 Tarmogoyf
 Wall of Blossoms
-Boon Satyr
+Wall of Roots
+Courser of Kruphix
 Eternal Witness
-Ohran Viper
-Thornscape Battlemage
+Reclamation Sage
+Troll Ascetic
+Yavimaya Elder
 Master of the Wild Hunt
-Nantuko Vigilante
-Obstinate Baloth
 Oracle of Mul Daya
 Polukranos, World Eater
-Thelonite Hermit
 Thrun, the Last Troll
 Vengevine
-Wickerbough Elder
 Acidic Slime
 Deranged Hermit
-Genesis
 Indrik Stomphowler
 Thragtusk
 Wolfir Silverheart
 Primeval Titan
 Avenger of Zendikar
+Craterhoof Behemoth
 Terastodon
 Woodfall Primus
 Garruk Relentless
 Garruk Wildspeaker
+Freyalise, Llanowar's Fury
 Garruk, Primal Hunter
+Nissa, Worldwaker
 Garruk, Caller of Beasts
-Naturalize
+Nature's Claim
 Beast Within
-Chord of Calling
+Krosan Grip
 Green Sun's Zenith
 Channel
-Nostalgic Dreams
+Life from the Loam
 Regrowth
-Call of the Herd
 Genesis Wave
+Search for Tomorrow
 Eureka
 Harmonize
 Natural Order
 Plow Under
 Primal Command
-Restock
-Rude Awakening
 Stunted Growth
 Tooth and Nail
 Mox Emerald
 Birthing Pod
+Rancor
+Oath of Druids
 Survival of the Fittest
 Sylvan Library
 Awakening Zone
 Heartbeat of Spring
+Song of the Dryads
+Pattern of Rebirth
 Gaea's Cradle
 Treetop Village
 Azorius Signet
-Daxos of Meletis
+Detention Sphere
 Geist of Saint Traft
 Sphinx's Revelation
-Grand Arbiter Augustin IV
+Supreme Verdict
 Venser, the Sojourner
-Agony Warp
 Baleful Strix
 Dimir Signet
+Ashiok, Nightmare Weaver
+Nightveil Specter
 Shadowmage Infiltrator
 Tezzeret, Agent of Bolas
 Rakdos Cackler
 Dreadbore
 Rakdos Signet
+Terminate
 Falkenrath Aristocrat
-Void
+Olivia Voldaren
+Burning-Tree Emissary
 Gruul Signet
-Boggart Ram-Gang
 Domri Rade
 Bloodbraid Elf
 Huntmaster of the Fells
 Xenagos, the Reveler
-Fleecemane Lion
+Gaddock Teeg
+Qasali Pridemage
 Selesnya Signet
 Voice of Resurgence
 Kitchen Finks
-Knight of the Reliquary
 Mirari's Wake
+Gerrard's Verdict
 Orzhov Signet
 Tidehollow Sculler
-Stillmoon Cavalier
+Sin Collector
 Vindicate
 Sorin, Lord of Innistrad
-Angel of Despair
-Izzet Charm
+Goblin Electromancer
 Izzet Signet
+Dack Fayden
 Electrolyze
+Fire // Ice
 Ral Zarek
-Steam Augury
-Prophetic Bolt
 Abrupt Decay
 Golgari Signet
-Dreg Mangler
 Maelstrom Pulse
 Pernicious Deed
 Vraska the Unseen
+Garruk, Apex Predator
 Figure of Destiny
+Boros Charm
 Boros Signet
 Lightning Helix
+Boros Reckoner
 Ajani Vengeant
-Firemane Angel
+Kiora's Follower
 Simic Signet
 Edric, Spymaster of Trest
 Shardless Agent
 Trygon Predator
-Mystic Snake
-Simic Sky Swallower
+Kiora, the Crashing Wave
 Sphinx of the Steel Wind
 Nicol Bolas, Planeswalker
-Broodmate Dragon
-Epochrasite
+Progenitus
 Phyrexian Revoker
 Metalworker
-Etched Oracle
 Lodestone Golem
 Masticore
 Molten-Tail Masticore
 Solemn Simulacrum
-Precursor Golem
-Razormane Masticore
 Wurmcoil Engine
 Myr Battlesphere
 Blightsteel Colossus
@@ -436,7 +434,6 @@ Kozilek, Butcher of Truth
 Sundering Titan
 Ulamog, the Infinite Gyre
 Karn Liberated
-All Is Dust
 Black Lotus
 Chrome Mox
 Everflowing Chalice
@@ -444,26 +441,29 @@ Lion's Eye Diamond
 Lotus Bloom
 Mana Crypt
 Mox Diamond
-Bonesplitter
+Aether Vial
 Cursed Scroll
 Mana Vault
+Pithing Needle
+Relic of Progenitus
 Sensei's Divining Top
 Skullclamp
 Sol Ring
+Voltaic Key
 Grim Monolith
+Isochron Scepter
 Lightning Greaves
 Manriki-Gusari
-Mind Stone
 Null Rod
 Pentad Prism
 Scroll Rack
 Shrine of Burning Rage
+Time Vault
 Umezawa's Jitte
 Winter Orb
 Basalt Monolith
 Coalition Relic
 Crucible of Worlds
-Pristine Talisman
 Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
@@ -479,11 +479,11 @@ Batterskull
 Gilded Lotus
 Memory Jar
 Adarkar Wastes
-Azorius Chancery
 Flooded Strand
+Glacial Fortress
 Hallowed Fountain
 Tundra
-Dimir Aqueduct
+Drowned Catacomb
 Polluted Delta
 Underground River
 Underground Sea
@@ -491,50 +491,50 @@ Watery Grave
 Badlands
 Blood Crypt
 Bloodstained Mire
-Rakdos Carnarium
+Dragonskull Summit
 Sulfurous Springs
-Gruul Turf
 Karplusan Forest
+Rootbound Crag
 Stomping Ground
 Taiga
 Wooded Foothills
 Brushland
 Savannah
-Selesnya Sanctuary
+Sunpetal Grove
 Temple Garden
 Windswept Heath
 Caves of Koilos
 Godless Shrine
+Isolated Chapel
 Marsh Flats
-Orzhov Basilica
 Scrubland
-Izzet Boilerworks
 Scalding Tarn
 Shivan Reef
 Steam Vents
+Sulfur Falls
 Volcanic Island
 Bayou
-Golgari Rot Farm
 Llanowar Wastes
 Overgrown Tomb
 Verdant Catacombs
+Woodland Cemetery
 Arid Mesa
 Battlefield Forge
-Boros Garrison
+Clifftop Retreat
 Plateau
 Sacred Foundry
 Breeding Pool
+Hinterland Harbor
 Misty Rainforest
-Simic Growth Chamber
 Tropical Island
 Yavimaya Coast
 Ancient Tomb
-Dust Bowl
+Bazaar of Baghdad
 Library of Alexandria
 Maze of Ith
 Mishra's Factory
 Mishra's Workshop
+Mutavault
 Rishadan Port
 Strip Mine
-Thawing Glaciers
 Wasteland
