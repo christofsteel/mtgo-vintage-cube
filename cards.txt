@@ -5,34 +5,33 @@ Student of Warfare
 Thraben Inspector
 Adanto Vanguard
 Containment Priest
+Eidolon of Obstruction
 Leonin Relic-Warder
+Seasoned Hallowblade
 Selfless Spirit
 Soulfire Grand Master
+Spirit of the Labyrinth
 Stoneforge Mystic
 Thalia, Guardian of Thraben
 Tithe Taker
 Wall of Omens
 Blade Splicer
-Brightling
 Brimaz, King of Oreskos
-Fairgrounds Warden
 Flickerwisp
-Hallowed Spiritkeeper
 Monastery Mentor
 Porcelain Legionnaire
 Recruiter of the Guard
 Silverblade Paladin
-Emeria Angel
+Skyclave Apparition
+Vryn Wingmare
 Hero of Bladehold
 Linvala, Keeper of Silence
 Restoration Angel
-Angel of Invention
 Archangel Avacyn
 Baneslayer Angel
 Lyra Dawnbringer
 Reveillark
 Sun Titan
-Angel of Serenity
 Elesh Norn, Grand Cenobite
 Iona, Shield of Emeria
 Gideon Blackblade
@@ -41,12 +40,14 @@ Gideon, Ally of Zendikar
 Gideon Jura
 Elspeth, Sun's Champion
 Condemn
-Enlightened Tutor
+Fight as One
 Mana Tithe
 Path to Exile
 Swords to Plowshares
 Disenchant
 Unexpectedly Absent
+Lapse of Certainty
+Oust
 Balance
 Winds of Abandon
 Council's Judgment
@@ -56,16 +57,15 @@ Day of Judgment
 Ravages of War
 Wrath of God
 Spectral Procession
-Terminus
+Emeria's Call
 Mox Pearl
-Spear of Heliod
 Land Tax
 Legion's Landing
 Honor of the Pure
 Banishing Light
 Oblivion Ring
 Faith's Fetters
-Moat
+Felidar Retreat
 Parallax Wave
 Elspeth Conquers Death
 Karakas
@@ -73,9 +73,10 @@ Baral, Chief of Compliance
 Jace, Vryn's Prodigy
 Looter il-Kor
 Phantasmal Image
+Sea Gate Stormcaller
 Snapcaster Mage
 Thassa's Oracle
-Thing in the Ice
+Thieving Skydiver
 Brazen Borrower
 Deceiver Exarch
 Emry, Lurker of the Loch
@@ -95,7 +96,7 @@ Frost Titan
 Torrential Gearhulk
 Palinchron
 Inkwell Leviathan
-Jace Beleren
+Jace, Mirror Mage
 Narset, Parter of Veils
 Jace, the Mind Sculptor
 Tezzeret the Seeker
@@ -118,11 +119,10 @@ Frantic Search
 Thirst for Knowledge
 Cryptic Command
 Fact or Fiction
-Gifts Ungiven
 Turnabout
 Force of Will
 Gush
-Mystic Confluence
+Commit // Memory
 Dig Through Time
 Ancestral Vision
 Gitaxian Probe
@@ -140,9 +140,9 @@ Time Spiral
 Upheaval
 Treasure Cruise
 Mox Sapphire
-Search for Azcanta
 Control Magic
 Opposition
+The Mirari Conjecture
 Treachery
 Shark Typhoon
 Academy Ruins
@@ -152,23 +152,24 @@ Putrid Imp
 Dark Confidant
 Kitesail Freebooter
 Mesmeric Fiend
+Nullpriest of Oblivion
 Oona's Prowler
 Pack Rat
-Vampire Hexmage
 Bone Shredder
-Hypnotic Specter
+Midnight Reaper
 Murderous Rider
+Nighthawk Scavenger
 Ophiomancer
+Phyrexian Rager
 Plaguecrafter
 Rotting Regisaur
-Vampire Nighthawk
+Woe Strider
 Gonti, Lord of Luxury
-Nekrataal
 Ravenous Chupacabra
+Sling-Gang Lieutenant
 Yawgmoth, Thran Physician
 Shriekmaw
 Grave Titan
-Ink-Eyes, Servant of Oni
 Massacre Wurm
 Tasigur, the Golden Fang
 Sheoldred, Whispering One
@@ -180,7 +181,6 @@ Entomb
 Fatal Push
 Vampiric Tutor
 Cabal Ritual
-Go for the Throat
 Heartless Act
 Liliana's Triumph
 Shallow Grave
@@ -188,6 +188,7 @@ Corpse Dance
 Dismember
 Hero's Downfall
 Makeshift Mannequin
+Bloodchief's Thirst
 Duress
 Imperial Seal
 Inquisition of Kozilek
@@ -199,7 +200,7 @@ Demonic Tutor
 Exhume
 Hymn to Tourach
 Night's Whisper
-Buried Alive
+Agadeem's Awakening
 Toxic Deluge
 Yawgmoth's Will
 Damnation
@@ -215,7 +216,6 @@ Bolas's Citadel
 Animate Dead
 Bitterblossom
 Necromancy
-Phyrexian Arena
 Recurring Nightmare
 Yawgmoth's Bargain
 Bomat Courier
@@ -228,13 +228,14 @@ Zurgo Bellstriker
 Abbot of Keral Keep
 Dire Fleet Daredevil
 Dreadhorde Arcanist
+Earthshaker Khenra
 Eidolon of the Great Revel
 Embereth Shieldbreaker
 Runaway Steam-Kin
 Young Pyromancer
 Goblin Rabblemaster
 Imperial Recruiter
-Magus of the Moon
+Rampaging Ferocidon
 Seasoned Pyromancer
 Avalanche Riders
 Flametongue Kavu
@@ -245,14 +246,12 @@ Glorybringer
 Goblin Dark-Dwellers
 Kiki-Jiki, Mirror Breaker
 Siege-Gang Commander
-Terror of the Peaks
 Thundermaw Hellkite
 Zealous Conscripts
 Inferno Titan
 Chandra, Torch of Defiance
 Daretti, Scrap Savant
 Koth of the Hammer
-Lukka, Coppercoat Outcast
 Burst Lightning
 Lightning Bolt
 Abrade
@@ -266,13 +265,13 @@ Seething Song
 Through the Breach
 Fireblast
 Banefire
-Bonfire of the Damned
 Chain Lightning
 Faithless Looting
 Firebolt
 Flame Slash
 Mizzium Mortars
 Pyroclasm
+Shatterskull Smashing
 Light Up the Stage
 Wheel of Fortune
 Empty the Warrens
@@ -283,6 +282,7 @@ Wildfire
 Mox Ruby
 Mana Flare
 Sulfuric Vortex
+Experimental Frenzy
 Sneak Attack
 Splinter Twin
 Arbor Elf
@@ -292,10 +292,10 @@ Elves of Deep Shadow
 Elvish Mystic
 Fyndhorn Elves
 Gilded Goose
+Hexdrinker
 Joraga Treespeaker
 Llanowar Elves
 Noble Hierarch
-Den Protector
 Devoted Druid
 Fauna Shaman
 Lotus Cobra
@@ -308,11 +308,11 @@ Wall of Roots
 Courser of Kruphix
 Dryad of the Ilysian Grove
 Eternal Witness
+Nissa, Vastwood Seer
 Ramunap Excavator
 Reclamation Sage
 Tireless Tracker
 Yavimaya Elder
-Master of the Wild Hunt
 Oracle of Mul Daya
 Polukranos, World Eater
 Questing Beast
@@ -330,9 +330,8 @@ Terastodon
 Woodfall Primus
 Garruk Relentless
 Garruk Wildspeaker
+Freyalise, Llanowar's Fury
 Nissa, Who Shakes the World
-Vivien Reid
-Vivien, Monsters' Advocate
 Nature's Claim
 Beast Within
 Green Sun's Zenith
@@ -346,8 +345,9 @@ Harmonize
 Natural Order
 Plow Under
 Primal Command
-Tooth and Nail
+Turntimber Symbiosis
 Mox Emerald
+Birthing Pod
 Fastbond
 Oath of Druids
 Survival of the Fittest
@@ -355,7 +355,7 @@ Sylvan Library
 Heartbeat of Spring
 Gaea's Cradle
 Azorius Signet
-Sphinx's Revelation
+Geist of Saint Traft
 Teferi, Time Raveler
 Fractured Identity
 Teferi, Hero of Dominaria
@@ -378,12 +378,12 @@ Wrenn and Six
 Bloodbraid Elf
 Huntmaster of the Fells
 Dragonlord Atarka
+Gaddock Teeg
 Selesnya Signet
 Kitchen Finks
 Knight of Autumn
 Knight of the Reliquary
 Mirari's Wake
-Trostani Discordant
 Orzhov Signet
 Tidehollow Sculler
 Anguished Unmaking
@@ -397,11 +397,11 @@ Fire // Ice
 Expansion // Explosion
 Thousand-Year Storm
 Assassin's Trophy
-Fiend Artisan
 Golgari Signet
 Maelstrom Pulse
 Pernicious Deed
 Vraska, Golgari Queen
+Casualties of War
 Figure of Destiny
 Boros Signet
 Lightning Helix
@@ -410,14 +410,15 @@ Ajani Vengeant
 Nahiri, the Harbinger
 Hydroid Krasis
 Simic Signet
-Edric, Spymaster of Trest
 Oko, Thief of Crowns
 Trygon Predator
 Uro, Titan of Nature's Wrath
+Prime Speaker Vannifar
 Sphinx of the Steel Wind
-Nicol Bolas, Dragon-God
 Leovold, Emissary of Trest
+Omnath, Locus of Creation
 Golos, Tireless Pilgrim
+Niv-Mizzet Reborn
 Progenitus
 Hangarback Walker
 Stonecoil Serpent
@@ -444,6 +445,7 @@ Chrome Mox
 Everflowing Chalice
 Lion's Eye Diamond
 Lotus Bloom
+Lotus Petal
 Mana Crypt
 Mox Diamond
 Mana Vault
@@ -452,7 +454,6 @@ Sensei's Divining Top
 Skullclamp
 Sol Ring
 Grim Monolith
-Lightning Greaves
 Shrine of Burning Rage
 Smuggler's Copter
 Umezawa's Jitte
@@ -464,14 +465,13 @@ Oblivion Stone
 Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
-Sword of Light and Shadow
-Sword of War and Peace
 Tangle Wire
 Worn Powerstone
 Coercive Portal
 Smokestack
 Thran Dynamo
 Batterskull
+Gilded Lotus
 Memory Jar
 Mindslaver
 Celestial Colonnade
