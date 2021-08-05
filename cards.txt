@@ -36,7 +36,7 @@ Angel of Serenity
 Elesh Norn, Grand Cenobite
 Iona, Shield of Emeria
 Gideon Blackblade
-Elspeth, Sun's Nemesis
+Elspeth, Knight-Errant
 Gideon, Ally of Zendikar
 Gideon Jura
 Elspeth, Sun's Champion
@@ -76,7 +76,6 @@ Phantasmal Image
 Snapcaster Mage
 Thassa's Oracle
 Thing in the Ice
-Arcane Artisan
 Brazen Borrower
 Deceiver Exarch
 Emry, Lurker of the Loch
@@ -145,6 +144,7 @@ Search for Azcanta
 Control Magic
 Opposition
 Treachery
+Shark Typhoon
 Academy Ruins
 Shelldock Isle
 Tolarian Academy
@@ -181,9 +181,9 @@ Fatal Push
 Vampiric Tutor
 Cabal Ritual
 Go for the Throat
+Heartless Act
 Liliana's Triumph
 Shallow Grave
-Ultimate Price
 Corpse Dance
 Dismember
 Hero's Downfall
@@ -222,8 +222,8 @@ Bomat Courier
 Goblin Guide
 Goblin Welder
 Grim Lavamancer
-Jackal Pup
 Monastery Swiftspear
+Soul-Scar Mage
 Zurgo Bellstriker
 Abbot of Keral Keep
 Dire Fleet Daredevil
@@ -241,17 +241,18 @@ Flametongue Kavu
 Hazoret the Fervent
 Hellrider
 Pia and Kiran Nalaar
-Rekindling Phoenix
 Glorybringer
 Goblin Dark-Dwellers
 Kiki-Jiki, Mirror Breaker
 Siege-Gang Commander
+Terror of the Peaks
 Thundermaw Hellkite
 Zealous Conscripts
 Inferno Titan
 Chandra, Torch of Defiance
 Daretti, Scrap Savant
 Koth of the Hammer
+Lukka, Coppercoat Outcast
 Burst Lightning
 Lightning Bolt
 Abrade
@@ -280,7 +281,6 @@ Past in Flames
 Burning of Xinye
 Wildfire
 Mox Ruby
-Underworld Breach
 Mana Flare
 Sulfuric Vortex
 Sneak Attack
@@ -319,6 +319,7 @@ Questing Beast
 Acidic Slime
 Biogenic Ooze
 Deranged Hermit
+Elder Gargaroth
 Thragtusk
 Whisperwood Elemental
 Carnage Tyrant
@@ -329,16 +330,16 @@ Terastodon
 Woodfall Primus
 Garruk Relentless
 Garruk Wildspeaker
-Garruk, Primal Hunter
 Nissa, Who Shakes the World
 Vivien Reid
+Vivien, Monsters' Advocate
 Nature's Claim
 Beast Within
 Green Sun's Zenith
 Channel
 Finale of Devastation
 Regrowth
-Kodama's Reach
+Cultivate
 Search for Tomorrow
 Eureka
 Harmonize
@@ -352,14 +353,13 @@ Oath of Druids
 Survival of the Fittest
 Sylvan Library
 Heartbeat of Spring
-Wilderness Reclamation
 Gaea's Cradle
 Azorius Signet
-Geist of Saint Traft
 Sphinx's Revelation
 Teferi, Time Raveler
 Fractured Identity
 Teferi, Hero of Dominaria
+Yorion, Sky Nomad
 Baleful Strix
 Dimir Signet
 Ashiok, Nightmare Weaver
@@ -397,11 +397,11 @@ Fire // Ice
 Expansion // Explosion
 Thousand-Year Storm
 Assassin's Trophy
+Fiend Artisan
 Golgari Signet
 Maelstrom Pulse
 Pernicious Deed
 Vraska, Golgari Queen
-Garruk, Cursed Huntsman
 Figure of Destiny
 Boros Signet
 Lightning Helix
