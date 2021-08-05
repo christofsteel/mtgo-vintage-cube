@@ -1,5 +1,5 @@
-Dragon Hunter
 Isamaru, Hound of Konda
+Kytheon, Hero of Akros
 Mardu Woe-Reaper
 Mother of Runes
 Soldier of the Pantheon
@@ -48,7 +48,6 @@ Path to Exile
 Secure the Wastes
 Swords to Plowshares
 Disenchant
-Momentary Blink
 Unexpectedly Absent
 Balance
 Council's Judgment
@@ -71,6 +70,7 @@ Parallax Wave
 Karakas
 Delver of Secrets
 Augur of Bolas
+Jace, Vryn's Prodigy
 Looter il-Kor
 Phantasmal Image
 Snapcaster Mage
@@ -100,10 +100,13 @@ Tezzeret the Seeker
 Ancestral Recall
 Brainstorm
 Force Spike
+High Tide
 Mental Misstep
 Mystical Tutor
+Quicken
 Repeal
 Spell Pierce
+Anticipate
 Brain Freeze
 Counterspell
 Daze
@@ -121,6 +124,7 @@ Force of Will
 Gush
 Dig Through Time
 Ancestral Vision
+Careful Study
 Gitaxian Probe
 Ponder
 Preordain
@@ -141,9 +145,7 @@ Treachery
 Academy Ruins
 Shelldock Isle
 Tolarian Academy
-Bloodsoaked Champion
 Putrid Imp
-Bloodghast
 Brain Maggot
 Dark Confidant
 Gatekeeper of Malakir
@@ -153,16 +155,15 @@ Nezumi Shortfang
 Oona's Prowler
 Pack Rat
 Bone Shredder
-Geralf's Messenger
 Hypnotic Specter
 Lifebane Zombie
+Liliana, Heretical Healer
 Ophiomancer
 Vampire Nighthawk
 Bloodline Keeper
 Braids, Cabal Minion
 Desecration Demon
 Nekrataal
-Phyrexian Obliterator
 Skinrender
 Puppeteer Clique
 Shriekmaw
@@ -179,6 +180,7 @@ Dark Ritual
 Disfigure
 Entomb
 Vampiric Tutor
+Cabal Ritual
 Diabolic Edict
 Go for the Throat
 Shallow Grave
@@ -197,9 +199,11 @@ Thoughtseize
 Demonic Tutor
 Hymn to Tourach
 Buried Alive
+Toxic Deluge
 Yawgmoth's Will
 Damnation
 Tendrils of Agony
+Dark Petition
 Living Death
 Unburial Rites
 Mox Jet
@@ -208,11 +212,9 @@ Bitterblossom
 Necromancy
 Necropotence
 Recurring Nightmare
-Nether Void
 The Abyss
 Yawgmoth's Bargain
 Urborg, Tomb of Yawgmoth
-Volrath's Stronghold
 Firedrinker Satyr
 Goblin Guide
 Goblin Welder
@@ -221,6 +223,7 @@ Jackal Pup
 Monastery Swiftspear
 Stromkirk Noble
 Zurgo Bellstriker
+Abbot of Keral Keep
 Eidolon of the Great Revel
 Gore-House Chainwalker
 Kargan Dragonlord
@@ -234,7 +237,6 @@ Guttersnipe
 Imperial Recruiter
 Magus of the Moon
 Manic Vandal
-Prophetic Flamespeaker
 Avalanche Riders
 Flametongue Kavu
 Hellrider
@@ -245,19 +247,16 @@ Stormbreath Dragon
 Thundermaw Hellkite
 Zealous Conscripts
 Inferno Titan
-Greater Gargadon
 Chandra, Pyromaster
 Daretti, Scrap Savant
 Koth of the Hammer
 Sarkhan, the Dragonspeaker
 Burst Lightning
-Firestorm
 Lightning Bolt
 Ancient Grudge
 Incinerate
 Lightning Strike
 Magma Jet
-Punishing Fire
 Searing Blaze
 Searing Spear
 Smash to Smithereens
@@ -272,6 +271,8 @@ Crater's Claws
 Faithless Looting
 Firebolt
 Mizzium Mortars
+Roast
+Exquisite Firecraft
 Rift Bolt
 Wheel of Fortune
 Empty the Warrens
@@ -291,6 +292,7 @@ Fyndhorn Elves
 Joraga Treespeaker
 Llanowar Elves
 Noble Hierarch
+Den Protector
 Fauna Shaman
 Lotus Cobra
 Rofellos, Llanowar Emissary
@@ -302,8 +304,8 @@ Wall of Blossoms
 Wall of Roots
 Courser of Kruphix
 Eternal Witness
+Managorger Hydra
 Reclamation Sage
-Troll Ascetic
 Yavimaya Elder
 Master of the Wild Hunt
 Oracle of Mul Daya
@@ -329,10 +331,8 @@ Nissa, Worldwaker
 Garruk, Caller of Beasts
 Nature's Claim
 Beast Within
-Krosan Grip
 Green Sun's Zenith
 Channel
-Life from the Loam
 Regrowth
 Genesis Wave
 Search for Tomorrow
@@ -353,11 +353,10 @@ Heartbeat of Spring
 Song of the Dryads
 Pattern of Rebirth
 Gaea's Cradle
-Treetop Village
 Azorius Signet
 Geist of Saint Traft
 Sphinx's Revelation
-Narset Transcendent
+Brago, King Eternal
 Supreme Verdict
 Venser, the Sojourner
 Baleful Strix
@@ -378,12 +377,12 @@ Bloodbraid Elf
 Huntmaster of the Fells
 Xenagos, the Reveler
 Dragonlord Atarka
-Gaddock Teeg
+Dromoka's Command
 Qasali Pridemage
 Selesnya Signet
-Voice of Resurgence
 Kitchen Finks
 Mirari's Wake
+Dragonlord Dromoka
 Orzhov Signet
 Tidehollow Sculler
 Sin Collector
@@ -410,21 +409,19 @@ Boros Reckoner
 Ajani Vengeant
 Simic Signet
 Edric, Spymaster of Trest
-Shardless Agent
 Trygon Predator
 Kiora, the Crashing Wave
 Mystic Snake
+Bring to Light
 Sphinx of the Steel Wind
 Nicol Bolas, Planeswalker
-Siege Rhino
-Jeskai Ascendancy
 Villainous Wealth
 Progenitus
+Hangarback Walker
 Phyrexian Revoker
 Spellskite
 Metalworker
 Lodestone Golem
-Masticore
 Solemn Simulacrum
 Kuldotha Forgemaster
 Duplicant
@@ -434,6 +431,7 @@ Blightsteel Colossus
 Emrakul, the Aeons Torn
 Kozilek, Butcher of Truth
 Sundering Titan
+Ulamog, the Ceaseless Hunger
 Ulamog, the Infinite Gyre
 Karn Liberated
 Ugin, the Spirit Dragon
@@ -470,6 +468,7 @@ Sword of War and Peace
 Tangle Wire
 Vedalken Shackles
 Worn Powerstone
+Hedron Archive
 Nevinyrral's Disk
 Smokestack
 Thran Dynamo
@@ -477,56 +476,56 @@ Batterskull
 Gilded Lotus
 Memory Jar
 Mindslaver
-Adarkar Wastes
 Flooded Strand
 Glacial Fortress
 Hallowed Fountain
+Temple of Enlightenment
 Tundra
 Drowned Catacomb
 Polluted Delta
-Underground River
+Temple of Deceit
 Underground Sea
 Watery Grave
 Badlands
 Blood Crypt
 Bloodstained Mire
 Dragonskull Summit
-Sulfurous Springs
-Grove of the Burnwillows
+Temple of Malice
 Rootbound Crag
 Stomping Ground
 Taiga
+Temple of Abandon
 Wooded Foothills
-Horizon Canopy
 Savannah
 Sunpetal Grove
 Temple Garden
+Temple of Plenty
 Windswept Heath
-Caves of Koilos
 Godless Shrine
 Isolated Chapel
 Marsh Flats
 Scrubland
+Temple of Silence
 Scalding Tarn
-Shivan Reef
 Steam Vents
 Sulfur Falls
+Temple of Epiphany
 Volcanic Island
 Bayou
-Llanowar Wastes
 Overgrown Tomb
+Temple of Malady
 Verdant Catacombs
 Woodland Cemetery
 Arid Mesa
-Battlefield Forge
 Clifftop Retreat
 Plateau
 Sacred Foundry
+Temple of Triumph
 Breeding Pool
 Hinterland Harbor
 Misty Rainforest
+Temple of Mystery
 Tropical Island
-Yavimaya Coast
 Ancient Tomb
 Bazaar of Baghdad
 Library of Alexandria
@@ -535,6 +534,7 @@ Maze of Ith
 Mishra's Factory
 Mishra's Workshop
 Mutavault
+Nykthos, Shrine to Nyx
 Rishadan Port
 Strip Mine
 Wasteland
