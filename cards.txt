@@ -4,10 +4,10 @@ Isamaru, Hound of Konda
 Loam Lion
 Mother of Runes
 Savannah Lions
+Soldier of the Pantheon
 Steppe Lynx
 Student of Warfare
 Weathered Wayfarer
-Ethersworn Canonist
 Kami of Ancient Law
 Knight of Glory
 Leonin Relic-Warder
@@ -26,28 +26,29 @@ Silverblade Paladin
 Soltari Champion
 Emeria Angel
 Hero of Bladehold
+Linvala, Keeper of Silence
 Ranger of Eos
 Restoration Angel
+Archangel of Thune
 Baneslayer Angel
 Cloudgoat Ranger
 Reveillark
 Exalted Angel
 Sun Titan
+Angel of Serenity
 Elesh Norn, Grand Cenobite
-Eternal Dragon
-Akroma, Angel of Wrath
 Ajani, Caller of the Pride
 Ajani Goldmane
 Elspeth, Knight-Errant
 Elspeth Tirel
 Gideon Jura
+Elspeth, Sun's Champion
 Enlightened Tutor
 Mana Tithe
 Path to Exile
 Swords to Plowshares
 Disenchant
-Momentary Blink
-Oust
+Unexpectedly Absent
 Balance
 Lingering Souls
 Armageddon
@@ -55,32 +56,30 @@ Day of Judgment
 Ravages of War
 Wrath of God
 Rout
-Akroma's Vengeance
 Catastrophe
 Spectral Procession
 Terminus
 Mox Pearl
+Spear of Heliod
 Land Tax
 Honor of the Pure
 Journey to Nowhere
-Glorious Anthem
 Oblivion Ring
 Faith's Fetters
 Moat
 Parallax Wave
 Karakas
 Windbrisk Heights
-Delver of Secrets
 Jushi Apprentice
 Looter il-Kor
 Phantasmal Image
 Snapcaster Mage
 Voidmage Prodigy
 Willbender
-Man-o'-War
 Old Man of the Sea
 Serendib Efreet
 Trinket Mage
+True-Name Nemesis
 Vendilion Clique
 Wake Thrasher
 Dungeon Geists
@@ -93,12 +92,14 @@ Meloku the Clouded Mirror
 Mulldrifter
 Riftwing Cloudskate
 Vesuvan Shapeshifter
+Aetherling
 Consecrated Sphinx
 Frost Titan
 Sphinx of Jwar Isle
 Palinchron
 Inkwell Leviathan
 Jace Beleren
+Jace, Architect of Thought
 Jace, the Mind Sculptor
 Tamiyo, the Moon Sage
 Ancestral Recall
@@ -118,7 +119,6 @@ Remand
 Forbid
 Frantic Search
 Intuition
-Careful Consideration
 Cryptic Command
 Fact or Fiction
 Gifts Ungiven
@@ -140,7 +140,7 @@ Control Magic
 Opposition
 Dream Halls
 Treachery
-Shelldock Isle
+Academy Ruins
 Tolarian Academy
 Diregraf Ghoul
 Gravecrawler
@@ -150,35 +150,35 @@ Black Knight
 Bloodghast
 Dark Confidant
 Gatekeeper of Malakir
-Gloom Surgeon
-Headhunter
 Mesmeric Fiend
 Nezumi Graverobber
 Nezumi Shortfang
+Nightscape Familiar
 Oona's Prowler
 Bone Shredder
 Hypnotic Specter
+Lifebane Zombie
 Phyrexian Rager
 Vampire Nighthawk
-Bane of the Living
+Bloodline Keeper
 Braids, Cabal Minion
+Erebos, God of the Dead
 Graveborn Muse
 Nekrataal
 Phyrexian Obliterator
 Plague Sliver
 Skinrender
 Bloodgift Demon
-Okiba-Gang Shinobi
 Shriekmaw
 Grave Titan
 Ink-Eyes, Servant of Oni
-Silent Specter
 Sheoldred, Whispering One
 Griselbrand
 Liliana of the Veil
 Liliana Vess
 Slaughter Pact
 Dark Ritual
+Disfigure
 Entomb
 Vampiric Tutor
 Diabolic Edict
@@ -186,16 +186,16 @@ Go for the Throat
 Ultimate Price
 Corpse Dance
 Dismember
+Hero's Downfall
 Duress
 Inquisition of Kozilek
 Mind Twist
 Reanimate
 Thoughtseize
 Demonic Tutor
-Exhume
 Hymn to Tourach
 Buried Alive
-Stupor
+Toxic Deluge
 Yawgmoth's Will
 Consuming Vapors
 Damnation
@@ -214,6 +214,7 @@ Nether Void
 The Abyss
 Lake of the Dead
 Volrath's Stronghold
+Firedrinker Satyr
 Frenzied Goblin
 Goblin Guide
 Goblin Vandal
@@ -227,7 +228,6 @@ Ember Hauler
 Hellspark Elemental
 Kargan Dragonlord
 Keldon Marauders
-Lightning Mauler
 Mogg War Marshal
 Plated Geopede
 Stormblood Berserker
@@ -236,8 +236,8 @@ Torch Fiend
 Ball Lightning
 Chandra's Phoenix
 Goblin Ruinblaster
+Magus of the Moon
 Taurean Mauler
-Thunderscape Battlemage
 Avalanche Riders
 Flametongue Kavu
 Hellrider
@@ -249,9 +249,9 @@ Urabrask the Hidden
 Zealous Conscripts
 Inferno Titan
 Greater Gargadon
+Chandra, Pyromaster
 Chandra, the Firebrand
 Koth of the Hammer
-Chandra Nalaar
 Firestorm
 Lightning Bolt
 Ancient Grudge
@@ -290,6 +290,7 @@ Arbor Elf
 Avacyn's Pilgrim
 Birds of Paradise
 Elves of Deep Shadow
+Elvish Mystic
 Fyndhorn Elves
 Joraga Treespeaker
 Llanowar Elves
@@ -297,22 +298,22 @@ Noble Hierarch
 Ulvenwald Tracker
 Wild Nacatl
 Fauna Shaman
-Flinthoof Boar
 Lotus Cobra
 Rofellos, Llanowar Emissary
 Scavenging Ooze
 Strangleroot Geist
+Sylvan Caryatid
 Tarmogoyf
-Vinelasher Kudzu
 Wall of Blossoms
+Boon Satyr
 Eternal Witness
 Ohran Viper
 Thornscape Battlemage
-Yavimaya Elder
 Master of the Wild Hunt
 Nantuko Vigilante
 Obstinate Baloth
 Oracle of Mul Daya
+Polukranos, World Eater
 Thelonite Hermit
 Thrun, the Last Troll
 Vengevine
@@ -330,8 +331,10 @@ Woodfall Primus
 Garruk Relentless
 Garruk Wildspeaker
 Garruk, Primal Hunter
+Garruk, Caller of Beasts
 Naturalize
 Beast Within
+Chord of Calling
 Green Sun's Zenith
 Channel
 Nostalgic Dreams
@@ -341,7 +344,6 @@ Genesis Wave
 Eureka
 Harmonize
 Natural Order
-All Suns' Dawn
 Plow Under
 Primal Command
 Restock
@@ -350,8 +352,6 @@ Stunted Growth
 Tooth and Nail
 Mox Emerald
 Birthing Pod
-Exploration
-Rancor
 Survival of the Fittest
 Sylvan Library
 Awakening Zone
@@ -359,10 +359,10 @@ Heartbeat of Spring
 Gaea's Cradle
 Treetop Village
 Azorius Signet
+Daxos of Meletis
 Geist of Saint Traft
 Sphinx's Revelation
 Grand Arbiter Augustin IV
-Supreme Verdict
 Venser, the Sojourner
 Agony Warp
 Baleful Strix
@@ -374,18 +374,18 @@ Dreadbore
 Rakdos Signet
 Falkenrath Aristocrat
 Void
-Tattermunge Maniac
 Gruul Signet
 Boggart Ram-Gang
-Firespout
+Domri Rade
 Bloodbraid Elf
 Huntmaster of the Fells
-Qasali Pridemage
+Xenagos, the Reveler
+Fleecemane Lion
 Selesnya Signet
+Voice of Resurgence
 Kitchen Finks
 Knight of the Reliquary
 Mirari's Wake
-Armada Wurm
 Orzhov Signet
 Tidehollow Sculler
 Stillmoon Cavalier
@@ -395,9 +395,9 @@ Angel of Despair
 Izzet Charm
 Izzet Signet
 Electrolyze
-Fire // Ice
+Ral Zarek
+Steam Augury
 Prophetic Bolt
-Niv-Mizzet, Dracogenius
 Abrupt Decay
 Golgari Signet
 Dreg Mangler
@@ -410,8 +410,8 @@ Lightning Helix
 Ajani Vengeant
 Firemane Angel
 Simic Signet
-Cold-Eyed Selkie
 Edric, Spymaster of Trest
+Shardless Agent
 Trygon Predator
 Mystic Snake
 Simic Sky Swallower
@@ -455,7 +455,7 @@ Lightning Greaves
 Manriki-Gusari
 Mind Stone
 Null Rod
-Ratchet Bomb
+Pentad Prism
 Scroll Rack
 Shrine of Burning Rage
 Umezawa's Jitte
