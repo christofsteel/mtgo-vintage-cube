@@ -1,14 +1,13 @@
 Kytheon, Hero of Akros
-Mardu Woe-Reaper
 Mother of Runes
 Soldier of the Pantheon
 Student of Warfare
+Adanto Vanguard
 Knight of the White Orchid
 Leonin Relic-Warder
 Seeker of the Way
 Selfless Spirit
 Soulfire Grand Master
-Spirit of the Labyrinth
 Stoneforge Mystic
 Thalia, Guardian of Thraben
 Wall of Omens
@@ -27,11 +26,11 @@ Emeria Angel
 Hero of Bladehold
 Linvala, Keeper of Silence
 Restoration Angel
+Angel of Invention
 Angel of Sanctions
 Archangel of Thune
 Baneslayer Angel
 Reveillark
-Exalted Angel
 Linvala, the Preserver
 Sun Titan
 Angel of Serenity
@@ -61,6 +60,7 @@ Spectral Procession
 Mox Pearl
 Spear of Heliod
 Land Tax
+Legion's Landing
 Honor of the Pure
 Banishing Light
 Oblivion Ring
@@ -70,14 +70,14 @@ Moat
 Parallax Wave
 Karakas
 Delver of Secrets
-Baral, Chief of Compliance
+Augur of Bolas
 Jace, Vryn's Prodigy
 Looter il-Kor
 Phantasmal Image
 Snapcaster Mage
+Thing in the Ice
 Deceiver Exarch
 Pestermite
-Thada Adel, Acquisitor
 Trinket Mage
 True-Name Nemesis
 Vendilion Clique
@@ -105,7 +105,6 @@ Mental Misstep
 Mystical Tutor
 Repeal
 Spell Pierce
-Anticipate
 Brain Freeze
 Counterspell
 Daze
@@ -125,10 +124,10 @@ Mystic Confluence
 Commit // Memory
 Dig Through Time
 Ancestral Vision
-Careful Study
 Gitaxian Probe
 Ponder
 Preordain
+Chart a Course
 Time Walk
 Compulsive Research
 Show and Tell
@@ -140,6 +139,7 @@ Time Spiral
 Upheaval
 Treasure Cruise
 Mox Sapphire
+Search for Azcanta
 Control Magic
 Opposition
 Treachery
@@ -149,6 +149,7 @@ Tolarian Academy
 Putrid Imp
 Brain Maggot
 Dark Confidant
+Kitesail Freebooter
 Mesmeric Fiend
 Nezumi Graverobber
 Nezumi Shortfang
@@ -156,7 +157,6 @@ Oona's Prowler
 Pack Rat
 Bone Shredder
 Hypnotic Specter
-Lifebane Zombie
 Magus of the Will
 Ophiomancer
 Vampire Nighthawk
@@ -166,13 +166,13 @@ Kalitas, Traitor of Ghet
 Nekrataal
 Skinrender
 Shriekmaw
-Sidisi, Undead Vizier
 Grave Titan
 Massacre Wurm
 Tasigur, the Golden Fang
 Gurmag Angler
 Sheoldred, Whispering One
 Griselbrand
+Razaketh, the Foulblooded
 Liliana of the Veil
 Liliana, Death's Majesty
 Dark Ritual
@@ -228,19 +228,18 @@ Zurgo Bellstriker
 Abbot of Keral Keep
 Eidolon of the Great Revel
 Harsh Mentor
-Kargan Dragonlord
-Lightning Mauler
 Young Pyromancer
 Dualcaster Mage
 Guttersnipe
 Imperial Recruiter
 Magus of the Moon
-Magus of the Wheel
 Manic Vandal
 Reckless Bushwhacker
 Avalanche Riders
 Flametongue Kavu
+Hazoret the Fervent
 Hellrider
+Glorybringer
 Goblin Dark-Dwellers
 Kiki-Jiki, Mirror Breaker
 Siege-Gang Commander
@@ -255,23 +254,23 @@ Koth of the Hammer
 Chandra, Flamecaller
 Burst Lightning
 Lightning Bolt
+Abrade
 Ancient Grudge
+Desperate Ritual
 Incinerate
 Lightning Strike
 Magma Jet
-Searing Blaze
+Pyretic Ritual
 Searing Spear
-Smash to Smithereens
-Brimstone Volley
 Char
 Seething Song
 Through the Breach
 Fireblast
 Bonfire of the Damned
 Chain Lightning
-Crater's Claws
 Faithless Looting
 Firebolt
+Rite of Flame
 Mizzium Mortars
 Exquisite Firecraft
 Rift Bolt
@@ -282,6 +281,7 @@ Fiery Confluence
 Burning of Xinye
 Wildfire
 Mox Ruby
+Mana Flare
 Sulfuric Vortex
 Sneak Attack
 Splinter Twin
@@ -342,7 +342,6 @@ Eureka
 Harmonize
 Natural Order
 Primal Command
-Seasons Past
 Tooth and Nail
 Mox Emerald
 Fastbond
@@ -351,6 +350,7 @@ Oath of Druids
 Survival of the Fittest
 Sylvan Library
 Awakening Zone
+Growing Rites of Itlimoc
 Heartbeat of Spring
 Song of the Dryads
 Gaea's Cradle
@@ -363,9 +363,9 @@ Dragonlord Ojutai
 Baleful Strix
 Dimir Signet
 Ashiok, Nightmare Weaver
-Shadowmage Infiltrator
+Hostage Taker
 Tezzeret, Agent of Bolas
-Dragonlord Silumgar
+The Scarab God
 Dreadbore
 Rakdos Signet
 Rakdos's Return
@@ -398,7 +398,7 @@ Abrupt Decay
 Golgari Signet
 Maelstrom Pulse
 Pernicious Deed
-Garruk, Apex Predator
+Vraska, Relic Seeker
 Figure of Destiny
 Boros Charm
 Boros Signet
@@ -437,13 +437,11 @@ Karn Liberated
 Ugin, the Spirit Dragon
 Black Lotus
 Chrome Mox
-Everflowing Chalice
 Lion's Eye Diamond
 Lotus Bloom
 Mana Crypt
 Mox Diamond
 Mana Vault
-Pithing Needle
 Sensei's Divining Top
 Skullclamp
 Sol Ring
@@ -453,6 +451,7 @@ Pentad Prism
 Scroll Rack
 Shrine of Burning Rage
 Smuggler's Copter
+Sorcerous Spyglass
 Umezawa's Jitte
 Winter Orb
 Basalt Monolith
@@ -475,6 +474,7 @@ Batterskull
 Gilded Lotus
 Memory Jar
 Mindslaver
+God-Pharaoh's Gift
 Celestial Colonnade
 Flooded Strand
 Hallowed Fountain
