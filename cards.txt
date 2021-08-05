@@ -1,4 +1,3 @@
-Isamaru, Hound of Konda
 Kytheon, Hero of Akros
 Mardu Woe-Reaper
 Mother of Runes
@@ -7,6 +6,7 @@ Student of Warfare
 Knight of the White Orchid
 Leonin Relic-Warder
 Seeker of the Way
+Selfless Spirit
 Soulfire Grand Master
 Spirit of the Labyrinth
 Stoneforge Mystic
@@ -21,6 +21,7 @@ Flickerwisp
 Mirran Crusader
 Monastery Mentor
 Porcelain Legionnaire
+Recruiter of the Guard
 Silverblade Paladin
 Vryn Wingmare
 Academy Rector
@@ -44,7 +45,6 @@ Elspeth, Sun's Champion
 Enlightened Tutor
 Mana Tithe
 Path to Exile
-Secure the Wastes
 Swords to Plowshares
 Disenchant
 Unexpectedly Absent
@@ -85,11 +85,11 @@ Glen Elendra Archmage
 Phyrexian Metamorph
 Sower of Temptation
 Venser, Shaper Savant
-Meloku the Clouded Mirror
 Mulldrifter
 Riftwing Cloudskate
 Consecrated Sphinx
 Frost Titan
+Torrential Gearhulk
 Palinchron
 Inkwell Leviathan
 Jace Beleren
@@ -149,15 +149,13 @@ Tolarian Academy
 Putrid Imp
 Brain Maggot
 Dark Confidant
-Heir of Falkenrath
 Mesmeric Fiend
-Nezumi Graverobber
-Nezumi Shortfang
 Oona's Prowler
 Pack Rat
 Bone Shredder
 Hypnotic Specter
 Lifebane Zombie
+Magus of the Will
 Ophiomancer
 Vampire Nighthawk
 Braids, Cabal Minion
@@ -195,6 +193,7 @@ Inquisition of Kozilek
 Mind Twist
 Reanimate
 Thoughtseize
+Collective Brutality
 Demonic Tutor
 Exhume
 Hymn to Tourach
@@ -213,6 +212,7 @@ Animate Dead
 Bitterblossom
 Necromancy
 Necropotence
+Phyrexian Arena
 Recurring Nightmare
 The Abyss
 Yawgmoth's Bargain
@@ -249,6 +249,7 @@ Thundermaw Hellkite
 Zealous Conscripts
 Inferno Titan
 Chandra, Pyromaster
+Chandra, Torch of Defiance
 Daretti, Scrap Savant
 Koth of the Hammer
 Chandra, Flamecaller
@@ -282,7 +283,6 @@ Burning of Xinye
 Wildfire
 Mox Ruby
 Sulfuric Vortex
-Outpost Siege
 Sneak Attack
 Splinter Twin
 Arbor Elf
@@ -317,7 +317,7 @@ Acidic Slime
 Conclave Naturalists
 Deranged Hermit
 Thragtusk
-Whisperwood Elemental
+Verdurous Gearhulk
 Wolfir Silverheart
 Primeval Titan
 Avenger of Zendikar
@@ -427,8 +427,8 @@ Wurmcoil Engine
 Myr Battlesphere
 Blightsteel Colossus
 Emrakul, the Aeons Torn
+Emrakul, the Promised End
 Kozilek, Butcher of Truth
-Kozilek, the Great Distortion
 Sundering Titan
 Ulamog, the Ceaseless Hunger
 Ulamog, the Infinite Gyre
@@ -452,12 +452,12 @@ Lightning Greaves
 Pentad Prism
 Scroll Rack
 Shrine of Burning Rage
+Smuggler's Copter
 Umezawa's Jitte
 Winter Orb
 Basalt Monolith
 Coalition Relic
 Crucible of Worlds
-Staff of Domination
 Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
