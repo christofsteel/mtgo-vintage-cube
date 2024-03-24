@@ -1,7 +1,7 @@
+Abbot of Keral Keep
 Abrupt Decay
 Academy Ruins
 Acidic Slime
-Adarkar Wastes
 Ajani, Caller of the Pride
 Ajani Goldmane
 Ajani Vengeant
@@ -12,6 +12,7 @@ Ancient Grudge
 Ancient Tomb
 Angel of Serenity
 Animate Dead
+Anticipate
 Arbor Elf
 Archangel of Thune
 Arid Mesa
@@ -31,7 +32,6 @@ Banisher Priest
 Banishing Light
 Basalt Monolith
 Batterskull
-Battlefield Forge
 Bayou
 Bazaar of Baghdad
 Beast Within
@@ -43,15 +43,14 @@ Blade Splicer
 Blightsteel Colossus
 Bloodbraid Elf
 Blood Crypt
-Bloodghast
 Bloodline Keeper
-Bloodsoaked Champion
 Bloodstained Mire
 Bone Shredder
 Bonfire of the Damned
 Boros Charm
 Boros Reckoner
 Boros Signet
+Brago, King Eternal
 Braids, Cabal Minion
 Brain Freeze
 Brain Maggot
@@ -60,10 +59,12 @@ Breeding Pool
 Bribery
 Brimaz, King of Oreskos
 Brimstone Volley
+Bring to Light
 Buried Alive
 Burning of Xinye
 Burst Lightning
-Caves of Koilos
+Cabal Ritual
+Careful Study
 Chain Lightning
 Chandra, Pyromaster
 Chandra's Phoenix
@@ -88,6 +89,7 @@ Dack Fayden
 Damnation
 Daretti, Scrap Savant
 Dark Confidant
+Dark Petition
 Dark Ritual
 Day of Judgment
 Daze
@@ -95,6 +97,7 @@ Deathrite Shaman
 Deceiver Exarch
 Delver of Secrets
 Demonic Tutor
+Den Protector
 Deranged Hermit
 Desecration Demon
 Diabolic Edict
@@ -104,11 +107,12 @@ Disenchant
 Disfigure
 Dismember
 Domri Rade
-Dragon Hunter
 Dragonlord Atarka
+Dragonlord Dromoka
 Dragonlord Silumgar
 Dragonskull Summit
 Dreadbore
+Dromoka's Command
 Drowned Catacomb
 Dualcaster Mage
 Duplicant
@@ -130,6 +134,7 @@ Eternal Witness
 Eureka
 Everflowing Chalice
 Exalted Angel
+Exquisite Firecraft
 Fact or Fiction
 Faithless Looting
 Faith's Fetters
@@ -141,7 +146,6 @@ Fireblast
 Firebolt
 Firedrinker Satyr
 Fire // Ice
-Firestorm
 Flametongue Kavu
 Flickerwisp
 Flooded Strand
@@ -151,7 +155,6 @@ Frantic Search
 Freyalise, Llanowar's Fury
 Frost Titan
 Fyndhorn Elves
-Gaddock Teeg
 Gaea's Cradle
 Garruk, Apex Predator
 Garruk, Caller of Beasts
@@ -161,7 +164,6 @@ Garruk Wildspeaker
 Gatekeeper of Malakir
 Geist of Saint Traft
 Genesis Wave
-Geralf's Messenger
 Gideon Jura
 Gifts Ungiven
 Gilded Lotus
@@ -175,27 +177,27 @@ Go for the Throat
 Golgari Signet
 Gore-House Chainwalker
 Grave Titan
-Greater Gargadon
 Green Sun's Zenith
 Grim Lavamancer
 Grim Monolith
 Griselbrand
-Grove of the Burnwillows
 Gruul Signet
 Gurmag Angler
 Gush
 Guttersnipe
 Hallowed Fountain
 Hallowed Spiritkeeper
+Hangarback Walker
 Harmonize
 Heartbeat of Spring
+Hedron Archive
 Hellrider
 Hero of Bladehold
 Hero of Oxid Ridge
 Hero's Downfall
+High Tide
 Hinterland Harbor
 Honor of the Pure
-Horizon Canopy
 Huntmaster of the Fells
 Hymn to Tourach
 Hypnotic Specter
@@ -216,8 +218,8 @@ Izzet Signet
 Jace, Architect of Thought
 Jace Beleren
 Jace, the Mind Sculptor
+Jace, Vryn's Prodigy
 Jackal Pup
-Jeskai Ascendancy
 Joraga Treespeaker
 Journey to Nowhere
 Karakas
@@ -228,25 +230,24 @@ Kiora, the Crashing Wave
 Kitchen Finks
 Koth of the Hammer
 Kozilek, Butcher of Truth
-Krosan Grip
 Kuldotha Forgemaster
+Kytheon, Hero of Akros
 Land Tax
 Leonin Arbiter
 Leonin Relic-Warder
 Library of Alexandria
 Lifebane Zombie
-Life from the Loam
 Lightning Bolt
 Lightning Greaves
 Lightning Helix
 Lightning Mauler
 Lightning Strike
+Liliana, Heretical Healer
 Liliana of the Veil
 Lingering Souls
 Lion's Eye Diamond
 Living Death
 Llanowar Elves
-Llanowar Wastes
 Lodestone Golem
 Looter il-Kor
 Lotus Bloom
@@ -258,6 +259,7 @@ Makeshift Mannequin
 Mana Confluence
 Mana Crypt
 Mana Drain
+Managorger Hydra
 Mana Leak
 Mana Tithe
 Mana Vault
@@ -267,7 +269,6 @@ Mardu Woe-Reaper
 Marsh Flats
 Massacre Wurm
 Master of the Wild Hunt
-Masticore
 Maze of Ith
 Meloku the Clouded Mirror
 Memory Jar
@@ -284,7 +285,6 @@ Mishra's Workshop
 Misty Rainforest
 Mizzium Mortars
 Moat
-Momentary Blink
 Monastery Mentor
 Monastery Swiftspear
 Mother of Runes
@@ -300,19 +300,18 @@ Mutavault
 Myr Battlesphere
 Mystical Tutor
 Mystic Snake
-Narset Transcendent
 Natural Order
 Nature's Claim
 Necromancy
 Necropotence
 Nekrataal
-Nether Void
 Nevinyrral's Disk
 Nezumi Graverobber
 Nezumi Shortfang
 Nicol Bolas, Planeswalker
 Nissa, Worldwaker
 Noble Hierarch
+Nykthos, Shrine to Nyx
 Oath of Druids
 Oblivion Ring
 Olivia Voldaren
@@ -333,7 +332,6 @@ Pernicious Deed
 Pestermite
 Phantasmal Image
 Phyrexian Metamorph
-Phyrexian Obliterator
 Phyrexian Revoker
 Pithing Needle
 Plateau
@@ -345,11 +343,10 @@ Preordain
 Primal Command
 Primeval Titan
 Progenitus
-Prophetic Flamespeaker
-Punishing Fire
 Puppeteer Clique
 Putrid Imp
 Qasali Pridemage
+Quicken
 Rakdos Cackler
 Rakdos Signet
 Rakdos's Return
@@ -367,6 +364,7 @@ Reveillark
 Rift Bolt
 Riftwing Cloudskate
 Rishadan Port
+Roast
 Rofellos, Llanowar Emissary
 Rootbound Crag
 Sacred Foundry
@@ -387,16 +385,13 @@ Selesnya Signet
 Sensei's Divining Top
 Shadowmage Infiltrator
 Shallow Grave
-Shardless Agent
 Shelldock Isle
 Sheoldred, Whispering One
-Shivan Reef
 Show and Tell
 Shriekmaw
 Shrine of Burning Rage
 Sidisi, Undead Vizier
 Siege-Gang Commander
-Siege Rhino
 Silverblade Paladin
 Simic Signet
 Sin Collector
@@ -432,7 +427,6 @@ Student of Warfare
 Stunted Growth
 Sulfur Falls
 Sulfuric Vortex
-Sulfurous Springs
 Sundering Titan
 Sunpetal Grove
 Sun Titan
@@ -452,6 +446,16 @@ Tangle Wire
 Tarmogoyf
 Tasigur, the Golden Fang
 Temple Garden
+Temple of Abandon
+Temple of Deceit
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Malady
+Temple of Malice
+Temple of Mystery
+Temple of Plenty
+Temple of Silence
+Temple of Triumph
 Tendrils of Agony
 Terastodon
 Terminate
@@ -476,22 +480,21 @@ Tolarian Academy
 Tombstalker
 Tooth and Nail
 Torch Fiend
+Toxic Deluge
 Treachery
 Treasure Cruise
-Treetop Village
 Trinket Mage
-Troll Ascetic
 Tropical Island
 True-Name Nemesis
 Trygon Predator
 Tundra
 Turnabout
 Ugin, the Spirit Dragon
+Ulamog, the Ceaseless Hunger
 Ulamog, the Infinite Gyre
 Ultimate Price
 Umezawa's Jitte
 Unburial Rites
-Underground River
 Underground Sea
 Unexpectedly Absent
 Upheaval
@@ -507,9 +510,7 @@ Venser, the Sojourner
 Verdant Catacombs
 Villainous Wealth
 Vindicate
-Voice of Resurgence
 Volcanic Island
-Volrath's Stronghold
 Wall of Blossoms
 Wall of Omens
 Wall of Roots
@@ -530,7 +531,6 @@ Worn Powerstone
 Wrath of God
 Wurmcoil Engine
 Xenagos, the Reveler
-Yavimaya Coast
 Yavimaya Elder
 Yawgmoth's Bargain
 Yawgmoth's Will
