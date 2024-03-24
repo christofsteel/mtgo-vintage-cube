@@ -4,7 +4,6 @@ Academy Ruins
 Acidic Slime
 Adanto Vanguard
 Agadeem's Awakening
-Ajani Vengeant
 Ancestral Recall
 Ancestral Vision
 Ancient Grudge
@@ -35,9 +34,9 @@ Batterskull
 Bayou
 Bazaar of Baghdad
 Beast Within
-Benevolent Bodyguard
 Biogenic Ooze
 Birds of Paradise
+Birgi, God of Storytelling
 Birthing Pod
 Bitterblossom
 Blackcleave Cliffs
@@ -64,7 +63,6 @@ Brimaz, King of Oreskos
 Burning of Xinye
 Burst Lightning
 Cabal Ritual
-Carnage Tyrant
 Casualties of War
 Celestial Colonnade
 Chain Lightning
@@ -84,6 +82,7 @@ Containment Priest
 Control Magic
 Copperline Gorge
 Corpse Dance
+Cosima, God of the Voyage
 Council's Judgment
 Counterspell
 Courser of Kruphix
@@ -116,7 +115,6 @@ Dragonlord Atarka
 Dreadhorde Arcanist
 Dryad of the Ilysian Grove
 Duress
-Earthshaker Khenra
 Eidolon of Obstruction
 Eidolon of the Great Revel
 Elder Gargaroth
@@ -138,7 +136,6 @@ Eureka
 Everflowing Chalice
 Exhume
 Expansion // Explosion
-Experimental Frenzy
 Fact or Fiction
 Faithless Looting
 Faith's Fetters
@@ -183,6 +180,7 @@ Goblin Guide
 Goblin Rabblemaster
 Goblin Welder
 Godless Shrine
+Goldspan Dragon
 Golgari Signet
 Golos, Tireless Pilgrim
 Gonti, Lord of Luxury
@@ -266,6 +264,7 @@ Lotus Petal
 Lumbering Falls
 Lyra Dawnbringer
 Maelstrom Pulse
+Magda, Brazen Outlaw
 Makeshift Mannequin
 Mana Crypt
 Mana Drain
@@ -279,7 +278,6 @@ Massacre Wurm
 Mastermind's Acquisition
 Maze of Ith
 Memory Jar
-Mesmeric Fiend
 Metalworker
 Midnight Reaper
 Mind's Desire
@@ -386,6 +384,7 @@ Rotting Regisaur
 Runaway Steam-Kin
 Sacred Foundry
 Sakura-Tribe Elder
+Sarulf, Realm Eater
 Savannah
 Scalding Tarn
 Scavenging Ooze
@@ -406,6 +405,7 @@ Shatterskull Smashing
 Shelldock Isle
 Sheoldred, Whispering One
 Show and Tell
+Showdown of the Skalds
 Shriekmaw
 Shrine of Burning Rage
 Siege-Gang Commander
@@ -456,7 +456,6 @@ Temple Garden
 Tendrils of Agony
 Terastodon
 Tezzeret the Seeker
-Thada Adel, Acquisitor
 Thalia, Guardian of Thraben
 Thassa's Oracle
 The Mirari Conjecture
@@ -470,7 +469,6 @@ Thraben Inspector
 Thragtusk
 Thran Dynamo
 Through the Breach
-Thundermaw Hellkite
 Tidehollow Sculler
 Time Spiral
 Timetwister
@@ -500,13 +498,15 @@ Unexpectedly Absent
 Upheaval
 Uro, Titan of Nature's Wrath
 Urza, Lord High Artificer
+Usher of the Fallen
+Valki, God of Lies
 Vampiric Tutor
 Vendilion Clique
 Venser, Shaper Savant
 Verdant Catacombs
 Vindicate
 Volcanic Island
-Vraska, Golgari Queen
+Vorinclex, Monstrous Raider
 Vryn Wingmare
 Walking Ballista
 Wall of Blossoms
