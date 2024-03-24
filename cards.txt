@@ -11,13 +11,13 @@ Animate Dead
 Arbor Elf
 Archangel Avacyn
 Archon of Cruelty
-Archon of Valor's Reach
 Arid Mesa
 Armageddon
 Ashen Rider
 Ashiok, Nightmare Weaver
 Assassin's Trophy
 Augur of Autumn
+Aura Shards
 Avalanche Riders
 Avenger of Zendikar
 Azorius Signet
@@ -25,7 +25,6 @@ Badlands
 Balance
 Baleful Strix
 Baneslayer Angel
-Banishing Light
 Baral, Chief of Compliance
 Basalt Monolith
 Batterskull
@@ -44,11 +43,11 @@ Blood Crypt
 Bloodghast
 Bloodstained Mire
 Bloodthirsty Adversary
-Bloodtithe Harvester
 Blooming Marsh
 Bolas's Citadel
 Bomat Courier
 Bonecrusher Giant
+Bone Shards
 Bone Shredder
 Boros Signet
 Boseiju, Who Endures
@@ -61,6 +60,7 @@ Breeding Pool
 Bribery
 Burst Lightning
 Cabal Ritual
+Carrion Feeder
 Cathar Commando
 Celestial Colonnade
 Chain Lightning
@@ -74,10 +74,10 @@ Coalition Relic
 Coercive Portal
 Collective Brutality
 Concealed Courtyard
-Condemn
 Consecrated Sphinx
 Containment Priest
 Copperline Gorge
+Corpse Dance
 Council's Judgment
 Counterspell
 Courser of Kruphix
@@ -100,37 +100,31 @@ Dark Ritual
 Darkslick Shores
 Dauthi Voidwalker
 Daze
-Deathcap Glade
 Deceiver Exarch
 Demonic Tutor
 Deranged Hermit
-Deserted Beach
 Desperate Ritual
-Destructive Force
 Devoted Druid
 Dig Through Time
 Dimir Signet
 Dire Fleet Daredevil
 Disenchant
 Dismember
-Dockside Extortionist
 Dragon's Rage Channeler
-Dreamroot Cascade
+Dryad of the Ilysian Grove
 Duress
-Eater of Virtue
 Echo of Eons
 Edric, Spymaster of Trest
 Eidolon of the Great Revel
 Elder Gargaroth
 Elesh Norn, Grand Cenobite
 Elite Spellbinder
-Elspeth Conquers Death
 Elspeth, Knight-Errant
+Elspeth Resplendent
 Elspeth, Sun's Champion
 Elvish Mystic
 Elvish Reclaimer
 Embereth Shieldbreaker
-Empty the Warrens
 Emrakul, the Aeons Torn
 Emrakul, the Promised End
 Emry, Lurker of the Loch
@@ -144,14 +138,14 @@ Eureka
 Everflowing Chalice
 Exhume
 Expansion // Explosion
+Exploration
 Expressive Iteration
+Extraction Specialist
 Fable of the Mirror-Breaker
 Fact or Fiction
 Faithless Looting
-Fallen Shinobi
 Fastbond
 Fatal Push
-Fauna Shaman
 Field of the Dead
 Fiery Islet
 Figure of Destiny
@@ -170,6 +164,7 @@ Gaea's Cradle
 Garruk Relentless
 Garruk Wildspeaker
 Geist of Saint Traft
+General Ferrous Rokiric
 Gideon, Ally of Zendikar
 Gideon Blackblade
 Gideon Jura
@@ -178,6 +173,7 @@ Gilded Lotus
 Gitaxian Probe
 Giver of Runes
 Glen Elendra Archmage
+Glorybringer
 Goblin Bombardment
 Goblin Electromancer
 Goblin Guide
@@ -196,11 +192,9 @@ Grim Monolith
 Griselbrand
 Grist, the Hunger Tide
 Gruul Signet
-Gush
 Halana and Alena, Partners
 Hallowed Fountain
 Hangarback Walker
-Haunted Ridge
 Hazoret the Fervent
 Heartbeat of Spring
 Hellrider
@@ -208,16 +202,19 @@ Hero of Bladehold
 Hero's Downfall
 Hexdrinker
 High Tide
+History of Benalia
 Horizon Canopy
 Hornet Queen
 Hullbreaker Horror
 Huntmaster of the Fells
 Hydroid Krasis
 Hymn to Tourach
+Ignite Memories
 Ignoble Hierarch
 Imperial Recruiter
 Imperial Seal
 Incinerate
+Indatha Triome
 Infernal Grasp
 Inferno Titan
 Inkwell Leviathan
@@ -228,13 +225,15 @@ Iona, Shield of Emeria
 Izzet Signet
 Jace, the Mind Sculptor
 Jace, Vryn's Prodigy
-Jin-Gitaxias, Progress Tyrant
+Jetmir's Garden
 Jokulhaups
 Joraga Treespeaker
+Kaito Shizuki
 Karakas
 Karmic Guide
 Karn Liberated
 Karn, Scion of Urza
+Ketria Triome
 Kiki-Jiki, Mirror Breaker
 Kitchen Finks
 Knight of Autumn
@@ -256,16 +255,16 @@ Lightning Helix
 Light Up the Stage
 Liliana of the Veil
 Liliana, the Last Hope
+Lingering Souls
 Lion Sash
 Lion's Eye Diamond
-Living Death
 Llanowar Elves
 Lodestone Golem
 Lotus Bloom
 Lotus Petal
 Lurrus of the Dream-Den
-Lyra Dawnbringer
 Maelstrom Pulse
+Magda, Brazen Outlaw
 Magus of the Order
 Makeshift Mannequin
 Mana Crypt
@@ -289,6 +288,7 @@ Miscalculation
 Mishra's Factory
 Mishra's Workshop
 Misty Rainforest
+Mizzium Mortars
 Monastery Mentor
 Monastery Swiftspear
 Mother of Runes
@@ -307,7 +307,6 @@ Mystical Tutor
 Mystic Confluence
 Nahiri, the Harbinger
 Narset, Parter of Veils
-Nashi, Moon Sage's Scion
 Natural Order
 Necromancy
 Nighthawk Scavenger
@@ -318,7 +317,9 @@ Niv-Mizzet Reborn
 Noble Hierarch
 Nurturing Peatland
 Oath of Druids
+Oblivion Ring
 Oblivion Stone
+Ob Nixilis, the Adversary
 Oko, Thief of Crowns
 Olivia, Crimson Bride
 Omnath, Locus of Creation
@@ -328,7 +329,6 @@ Opposition
 Oracle of Mul Daya
 Orzhov Signet
 Oust
-Overgrown Farmland
 Overgrown Tomb
 Pack Rat
 Palace Jailer
@@ -356,10 +356,12 @@ Progenitus
 Putrid Imp
 Pyretic Ritual
 Questing Beast
+Raffine's Tower
 Ragavan, Nimble Pilferer
 Raging Ravine
 Rakdos Signet
 Ramunap Excavator
+Raugrin Triome
 Ravages of War
 Ravenous Chupacabra
 Razorverge Thicket
@@ -374,14 +376,14 @@ Remand
 Repeal
 Restoration Angel
 Retrofitter Foundry
+Riftwing Cloudskate
 Rishadan Port
-Rockfall Vale
 Rofellos, Llanowar Emissary
-Rotting Regisaur
 Runaway Steam-Kin
 Sacred Foundry
 Sakura-Tribe Elder
 Satoru Umezawa
+Savai Triome
 Savannah
 Scalding Tarn
 Scavenging Ooze
@@ -397,9 +399,7 @@ Selfless Spirit
 Sensei's Divining Top
 Shallow Grave
 Shark Typhoon
-Shattered Sanctum
 Shelldock Isle
-Shipwreck Marsh
 Show and Tell
 Showdown of the Skalds
 Shriekmaw
@@ -418,27 +418,25 @@ Solitude
 Sol Ring
 Soulfire Grand Master
 Sower of Temptation
-Spear of Heliod
+Spara's Headquarters
 Spectral Procession
 Spell Pierce
 Spellseeker
 Sphinx of the Steel Wind
 Spirebluff Canal
-Spirit-Sister's Call
 Splinter Twin
 Steam Vents
 Stomping Ground
 Stoneforge Mystic
-Stormcarved Coast
 Strip Mine
 Student of Warfare
 Sulfuric Vortex
 Sunbaked Canyon
 Sundering Titan
-Sundown Pass
 Sun Titan
 Survival of the Fittest
 Suspicious Stowaway
+Swift Reconfiguration
 Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
@@ -446,6 +444,7 @@ Swords to Plowshares
 Sylvan Caryatid
 Sylvan Library
 Taiga
+Takenuma, Abandoned Mire
 Tamiyo, Compleated Sage
 Tangle Wire
 Teferi, Hero of Dominaria
@@ -456,8 +455,7 @@ Terastodon
 Tezzeret the Seeker
 Thalia, Guardian of Thraben
 Thassa's Oracle
-The Gitrog Monster
-The Restoration of Eiganjo
+The Reality Chip
 The Scarab God
 Thespian's Stage
 The Wandering Emperor
@@ -495,6 +493,7 @@ Unburial Rites
 Underground Sea
 Underworld Breach
 Unholy Heat
+Unlicensed Hearse
 Upheaval
 Uro, Titan of Nature's Wrath
 Urza, Lord High Artificer
@@ -518,23 +517,24 @@ Wall of Roots
 Wasteland
 Waterlogged Grove
 Watery Grave
-Wear // Tear
 Wheel of Fortune
-Wheel of Misfortune
 Whisperwood Elemental
+Winds of Abandon
 Windswept Heath
 Winter Orb
 Wishclaw Talisman
+Witherbloom Command
 Woe Strider
 Wooded Foothills
 Woodfall Primus
-Worldly Tutor
 Worn Powerstone
 Wrath of God
 Wrenn and Six
 Wurmcoil Engine
-Yawgmoth's Bargain
+Xander's Lounge
 Yawgmoth's Will
 Yorion, Sky Nomad
 Young Pyromancer
+Zagoth Triome
 Zealous Conscripts
+Ziatora's Proving Ground
