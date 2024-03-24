@@ -206,7 +206,6 @@ Hexdrinker
 High Tide
 Hissing Quagmire
 Honor of the Pure
-Hullbreacher
 Huntmaster of the Fells
 Hydroid Krasis
 Hymn to Tourach
@@ -457,6 +456,7 @@ Temple Garden
 Tendrils of Agony
 Terastodon
 Tezzeret the Seeker
+Thada Adel, Acquisitor
 Thalia, Guardian of Thraben
 Thassa's Oracle
 The Mirari Conjecture
