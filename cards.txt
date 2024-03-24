@@ -35,6 +35,7 @@ Batterskull
 Bayou
 Bazaar of Baghdad
 Beast Within
+Benevolent Bodyguard
 Biogenic Ooze
 Birds of Paradise
 Birthing Pod
@@ -147,8 +148,6 @@ Fatal Push
 Fauna Shaman
 Felidar Retreat
 Field of Ruin
-Fiery Confluence
-Fight as One
 Figure of Destiny
 Finale of Devastation
 Fireblast
@@ -165,7 +164,6 @@ Frantic Search
 Freyalise, Llanowar's Fury
 Frost Titan
 Fyndhorn Elves
-Gaddock Teeg
 Gaea's Cradle
 Garruk Relentless
 Garruk Wildspeaker
@@ -208,6 +206,7 @@ Hexdrinker
 High Tide
 Hissing Quagmire
 Honor of the Pure
+Hullbreacher
 Huntmaster of the Fells
 Hydroid Krasis
 Hymn to Tourach
@@ -221,7 +220,6 @@ Inquisition of Kozilek
 Inspiring Vantage
 Iona, Shield of Emeria
 Izzet Signet
-Jace, Mirror Mage
 Jace, the Mind Sculptor
 Jace, Vryn's Prodigy
 Joraga Treespeaker
@@ -237,6 +235,7 @@ Knight of the Reliquary
 Kolaghan's Command
 Koth of the Hammer
 Kozilek, Butcher of Truth
+Krark, the Thumbless
 Kroxa, Titan of Death's Hunger
 Kuldotha Forgemaster
 Kytheon, Hero of Akros
@@ -329,6 +328,7 @@ Omnath, Locus of Creation
 Oona's Prowler
 Ophiomancer
 Opposition
+Opposition Agent
 Oracle of Mul Daya
 Orzhov Signet
 Oust
@@ -345,7 +345,6 @@ Phyrexian Metamorph
 Phyrexian Rager
 Phyrexian Revoker
 Pia and Kiran Nalaar
-Plaguecrafter
 Plateau
 Plow Under
 Polluted Delta
@@ -361,6 +360,7 @@ Progenitus
 Putrid Imp
 Pyretic Ritual
 Pyroclasm
+Qasali Pridemage
 Questing Beast
 Raging Ravine
 Rakdos Signet
