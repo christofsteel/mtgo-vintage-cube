@@ -11,12 +11,12 @@ Ancient Tomb
 Angel of Invention
 Angel of Sanctions
 Angel of Serenity
+Angrath's Rampage
 Anguished Unmaking
 Animate Dead
 Arbor Elf
 Arcane Artisan
 Archangel Avacyn
-Arguel's Blood Fast
 Arid Mesa
 Armageddon
 Ashen Rider
@@ -38,7 +38,6 @@ Batterskull
 Bayou
 Bazaar of Baghdad
 Beast Within
-Bedevil
 Biogenic Ooze
 Birds of Paradise
 Bitterblossom
@@ -51,6 +50,7 @@ Bloodbraid Elf
 Blood Crypt
 Bloodstained Mire
 Blooming Marsh
+Bolas's Citadel
 Bomat Courier
 Bone Shredder
 Bonfire of the Damned
@@ -58,6 +58,7 @@ Boros Signet
 Botanical Sanctum
 Brain Freeze
 Brainstorm
+Brazen Borrower
 Breeding Pool
 Bribery
 Brightling
@@ -77,7 +78,6 @@ Chrome Mox
 Coalition Relic
 Coercive Portal
 Collective Brutality
-Compulsive Research
 Concealed Courtyard
 Condemn
 Consecrated Sphinx
@@ -100,12 +100,10 @@ Dark Confidant
 Dark Petition
 Dark Ritual
 Darkslick Shores
-Dauntless Bodyguard
 Day of Judgment
 Daze
 Deceiver Exarch
 Demonic Tutor
-Demonlord Belzenlok
 Den Protector
 Deranged Hermit
 Desperate Ritual
@@ -113,11 +111,10 @@ Devoted Druid
 Dig Through Time
 Dimir Signet
 Dire Fleet Daredevil
-Disallow
 Disenchant
 Dismember
-Doom Whisperer
 Dragonlord Atarka
+Dreadhorde Arcanist
 Duress
 Edric, Spymaster of Trest
 Eidolon of the Great Revel
@@ -126,10 +123,12 @@ Elspeth, Knight-Errant
 Elspeth, Sun's Champion
 Elves of Deep Shadow
 Elvish Mystic
+Embereth Shieldbreaker
 Emeria Angel
 Empty the Warrens
 Emrakul, the Aeons Torn
 Emrakul, the Promised End
+Emry, Lurker of the Loch
 Enlightened Tutor
 Entomb
 Eternal Witness
@@ -141,6 +140,7 @@ Fact or Fiction
 Fairgrounds Warden
 Faithless Looting
 Faith's Fetters
+Fallen Shinobi
 Fastbond
 Fatal Push
 Fauna Shaman
@@ -155,12 +155,14 @@ Flame Slash
 Flametongue Kavu
 Flickerwisp
 Flooded Strand
+Force of Negation
 Force of Will
 Fractured Identity
 Frantic Search
 Frost Titan
 Fyndhorn Elves
 Gaea's Cradle
+Garruk, Cursed Huntsman
 Garruk, Primal Hunter
 Garruk Relentless
 Garruk Wildspeaker
@@ -168,12 +170,10 @@ Geist of Saint Traft
 Gideon, Ally of Zendikar
 Gideon Blackblade
 Gideon Jura
-Gideon of the Trials
 Gifts Ungiven
-Gilded Lotus
 Gitaxian Probe
+Giver of Runes
 Glen Elendra Archmage
-Glint-Sleeve Siphoner
 Glorybringer
 Goblin Dark-Dwellers
 Goblin Electromancer
@@ -183,6 +183,7 @@ Goblin Welder
 Godless Shrine
 Go for the Throat
 Golgari Signet
+Golos, Tireless Pilgrim
 Gonti, Lord of Luxury
 Grave Titan
 Green Sun's Zenith
@@ -192,6 +193,7 @@ Griselbrand
 Gruul Signet
 Gush
 Hallowed Fountain
+Hallowed Spiritkeeper
 Hangarback Walker
 Harmonize
 Hazoret the Fervent
@@ -201,9 +203,7 @@ Hero of Bladehold
 Hero's Downfall
 High Tide
 Hissing Quagmire
-History of Benalia
 Honor of the Pure
-Hostage Taker
 Huntmaster of the Fells
 Hydroid Krasis
 Hymn to Tourach
@@ -220,13 +220,11 @@ Inquisition of Kozilek
 Inspiring Vantage
 Iona, Shield of Emeria
 Izzet Signet
-Jace, Architect of Thought
 Jace Beleren
 Jace, the Mind Sculptor
 Jace, Vryn's Prodigy
 Jackal Pup
 Joraga Treespeaker
-Journey to Nowhere
 Karakas
 Karn Liberated
 Karn, Scion of Urza
@@ -271,7 +269,6 @@ Lyra Dawnbringer
 Maelstrom Pulse
 Magus of the Moon
 Makeshift Mannequin
-Mana Confluence
 Mana Crypt
 Mana Drain
 Mana Flare
@@ -279,7 +276,6 @@ Mana Leak
 Manamorphose
 Mana Tithe
 Mana Vault
-Manic Vandal
 Marsh Flats
 Massacre Wurm
 Mastermind's Acquisition
@@ -308,26 +304,27 @@ Mox Pearl
 Mox Ruby
 Mox Sapphire
 Mulldrifter
+Murderous Rider
 Mutavault
 Myr Battlesphere
 Mystical Tutor
 Mystic Confluence
-Mystic Snake
 Nahiri, the Harbinger
+Narset, Parter of Veils
 Natural Order
 Nature's Claim
 Necromancy
 Needle Spires
-Negate
 Nekrataal
 Nicol Bolas, Dragon-God
 Night's Whisper
-Nissa, Worldwaker
+Nissa, Who Shakes the World
 Noble Hierarch
 Nykthos, Shrine to Nyx
 Oath of Druids
 Oblivion Ring
 Oblivion Stone
+Oko, Thief of Crowns
 Oona's Prowler
 Ophiomancer
 Opposition
@@ -346,7 +343,6 @@ Phyrexian Arena
 Phyrexian Metamorph
 Phyrexian Revoker
 Pia and Kiran Nalaar
-Pia Nalaar
 Plaguecrafter
 Plateau
 Plow Under
@@ -357,11 +353,13 @@ Porcelain Legionnaire
 Preordain
 Primal Command
 Primeval Titan
+Prismatic Vista
 Progenitus
 Pteramander
 Putrid Imp
 Pyretic Ritual
 Pyroclasm
+Questing Beast
 Raging Ravine
 Rakdos Signet
 Rakdos's Return
@@ -382,19 +380,19 @@ Restoration Angel
 Reveillark
 Riftwing Cloudskate
 Rishadan Port
-Rix Maadi Reveler
 Rofellos, Llanowar Emissary
+Rotting Regisaur
 Runaway Steam-Kin
 Sacred Foundry
 Sakura-Tribe Elder
 Savannah
 Scalding Tarn
 Scavenging Ooze
-Scrapheap Scrounger
 Scrubland
 Seachrome Coast
 Search for Azcanta
 Search for Tomorrow
+Seasoned Pyromancer
 Seething Song
 Selesnya Signet
 Selfless Spirit
@@ -422,7 +420,6 @@ Sower of Temptation
 Spear of Heliod
 Spectral Procession
 Spell Pierce
-Spell Queller
 Spellseeker
 Sphinx of the Steel Wind
 Sphinx's Revelation
@@ -431,6 +428,7 @@ Splinter Twin
 Steam Vents
 Stirring Wildwood
 Stomping Ground
+Stonecoil Serpent
 Stoneforge Mystic
 Strip Mine
 Student of Warfare
@@ -448,10 +446,10 @@ Swords to Plowshares
 Sylvan Caryatid
 Sylvan Library
 Taiga
-Tamiyo, the Moon Sage
 Tangle Wire
 Tasigur, the Golden Fang
 Teferi, Hero of Dominaria
+Teferi, Time Raveler
 Temple Garden
 Tendrils of Agony
 Terastodon
@@ -465,6 +463,7 @@ Thing in the Ice
 Thirst for Knowledge
 Thoughtseize
 Thousand-Year Storm
+Thraben Inspector
 Thragtusk
 Thran Dynamo
 Through the Breach
@@ -498,6 +497,7 @@ Unburial Rites
 Underground Sea
 Unexpectedly Absent
 Upheaval
+Urza, Lord High Artificer
 Vampire Hexmage
 Vampire Nighthawk
 Vampiric Tutor
@@ -509,8 +509,6 @@ Vivien, Champion of the Wilds
 Vivien Reid
 Volcanic Island
 Vraska, Golgari Queen
-Vraska, Relic Seeker
-Vraska's Contempt
 Walking Ballista
 Wall of Blossoms
 Wall of Omens
@@ -521,20 +519,22 @@ Watery Grave
 Wear // Tear
 Wheel of Fortune
 Whisperwood Elemental
-Wickerbough Elder
 Wilderness Reclamation
 Wildfire
+Winds of Abandon
 Windswept Heath
 Winter Orb
+Wishclaw Talisman
 Wooded Foothills
 Woodfall Primus
 Worn Powerstone
 Wrath of God
+Wrenn and Six
 Wurmcoil Engine
-Xenagos, the Reveler
 Yavimaya Elder
 Yawgmoth's Bargain
 Yawgmoth's Will
+Yawgmoth, Thran Physician
 Young Pyromancer
 Zealous Conscripts
 Zurgo Bellstriker
