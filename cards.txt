@@ -14,7 +14,6 @@ Angrath's Rampage
 Anguished Unmaking
 Animate Dead
 Arbor Elf
-Arcane Artisan
 Archangel Avacyn
 Arid Mesa
 Armageddon
@@ -91,6 +90,7 @@ Craterhoof Behemoth
 Creeping Tar Pit
 Crucible of Worlds
 Cryptic Command
+Cultivate
 Dack Fayden
 Damnation
 Daretti, Ingenious Iconoclast
@@ -118,10 +118,11 @@ Dryad of the Ilysian Grove
 Duress
 Edric, Spymaster of Trest
 Eidolon of the Great Revel
+Elder Gargaroth
 Elesh Norn, Grand Cenobite
 Elspeth Conquers Death
+Elspeth, Knight-Errant
 Elspeth, Sun's Champion
-Elspeth, Sun's Nemesis
 Elves of Deep Shadow
 Elvish Mystic
 Embereth Shieldbreaker
@@ -146,6 +147,7 @@ Fastbond
 Fatal Push
 Fauna Shaman
 Field of Ruin
+Fiend Artisan
 Fiery Confluence
 Figure of Destiny
 Finale of Devastation
@@ -163,11 +165,8 @@ Frantic Search
 Frost Titan
 Fyndhorn Elves
 Gaea's Cradle
-Garruk, Cursed Huntsman
-Garruk, Primal Hunter
 Garruk Relentless
 Garruk Wildspeaker
-Geist of Saint Traft
 Gideon, Ally of Zendikar
 Gideon Blackblade
 Gideon Jura
@@ -200,6 +199,7 @@ Hangarback Walker
 Harmonize
 Hazoret the Fervent
 Heartbeat of Spring
+Heartless Act
 Hellrider
 Hero of Bladehold
 Hero's Downfall
@@ -224,7 +224,6 @@ Izzet Signet
 Jace Beleren
 Jace, the Mind Sculptor
 Jace, Vryn's Prodigy
-Jackal Pup
 Joraga Treespeaker
 Karakas
 Karn Liberated
@@ -235,7 +234,6 @@ Kitchen Finks
 Kitesail Freebooter
 Knight of Autumn
 Knight of the Reliquary
-Kodama's Reach
 Kolaghan's Command
 Koth of the Hammer
 Kozilek, Butcher of Truth
@@ -266,6 +264,7 @@ Lodestone Golem
 Looter il-Kor
 Lotus Bloom
 Lotus Cobra
+Lukka, Coppercoat Outcast
 Lumbering Falls
 Lyra Dawnbringer
 Maelstrom Pulse
@@ -373,7 +372,6 @@ Reclamation Sage
 Recruiter of the Guard
 Recurring Nightmare
 Regrowth
-Rekindling Phoenix
 Relic of Progenitus
 Remand
 Repeal
@@ -400,6 +398,7 @@ Selfless Spirit
 Sensei's Divining Top
 Shallow Grave
 Shambling Vent
+Shark Typhoon
 Shelldock Isle
 Sheoldred, Whispering One
 Show and Tell
@@ -416,6 +415,7 @@ Sneak Attack
 Solemn Simulacrum
 Sol Ring
 Soulfire Grand Master
+Soul-Scar Mage
 Sower of Temptation
 Spear of Heliod
 Spectral Procession
@@ -453,6 +453,7 @@ Temple Garden
 Tendrils of Agony
 Terastodon
 Terminus
+Terror of the Peaks
 Tezzeret the Seeker
 Thalia, Guardian of Thraben
 Thassa's Oracle
@@ -490,11 +491,9 @@ Turnabout
 Ugin, the Spirit Dragon
 Ulamog, the Ceaseless Hunger
 Ulamog, the Infinite Gyre
-Ultimate Price
 Umezawa's Jitte
 Unburial Rites
 Underground Sea
-Underworld Breach
 Unexpectedly Absent
 Upheaval
 Uro, Titan of Nature's Wrath
@@ -506,6 +505,7 @@ Vendilion Clique
 Venser, Shaper Savant
 Verdant Catacombs
 Vindicate
+Vivien, Monsters' Advocate
 Vivien Reid
 Volcanic Island
 Vraska, Golgari Queen
@@ -519,7 +519,6 @@ Watery Grave
 Wear // Tear
 Wheel of Fortune
 Whisperwood Elemental
-Wilderness Reclamation
 Wildfire
 Winds of Abandon
 Windswept Heath
@@ -535,6 +534,7 @@ Yavimaya Elder
 Yawgmoth's Bargain
 Yawgmoth's Will
 Yawgmoth, Thran Physician
+Yorion, Sky Nomad
 Young Pyromancer
 Zealous Conscripts
 Zurgo Bellstriker
