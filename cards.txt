@@ -8,6 +8,7 @@ Ajani Vengeant
 Ancestral Recall
 Ancestral Vision
 Ancient Grudge
+Ancient Stirrings
 Ancient Tomb
 Angel of Invention
 Angel of Sanctions
@@ -16,6 +17,7 @@ Anguished Unmaking
 Animate Dead
 Arbor Elf
 Archangel of Thune
+Arguel's Blood Fast
 Arid Mesa
 Armageddon
 Ashiok, Nightmare Weaver
@@ -36,19 +38,20 @@ Batterskull
 Bayou
 Bazaar of Baghdad
 Beast Within
+Benalish Marshal
 Birds of Paradise
 Bitterblossom
 Blackcleave Cliffs
 Black Lotus
 Blade Splicer
 Blightsteel Colossus
+Blink of an Eye
 Bloodbraid Elf
 Blood Crypt
 Bloodstained Mire
 Blooming Marsh
 Bone Shredder
 Bonfire of the Damned
-Boros Charm
 Boros Signet
 Botanical Sanctum
 Braids, Cabal Minion
@@ -63,7 +66,7 @@ Buried Alive
 Burning of Xinye
 Burst Lightning
 Cabal Ritual
-Cast Out
+Cast Down
 Celestial Colonnade
 Chain Lightning
 Chandra, Flamecaller
@@ -103,13 +106,13 @@ Deceiver Exarch
 Declaration in Stone
 Delver of Secrets
 Demonic Tutor
+Demonlord Belzenlok
 Den Protector
 Deranged Hermit
-Desecration Demon
 Desperate Ritual
-Diabolic Edict
 Dig Through Time
 Dimir Signet
+Dire Fleet Daredevil
 Disenchant
 Dismember
 Dissenter's Deliverance
@@ -136,14 +139,17 @@ Enlightened Tutor
 Entomb
 Eternal Witness
 Eureka
+Everflowing Chalice
 Exhume
 Exquisite Firecraft
 Fact or Fiction
 Faithless Looting
+Faith's Fetters
 Falkenrath Gorger
 Fastbond
 Fatal Push
 Fauna Shaman
+Field of Ruin
 Fiend Hunter
 Fiery Confluence
 Figure of Destiny
@@ -174,36 +180,33 @@ Gilded Lotus
 Gitaxian Probe
 Glen Elendra Archmage
 Glorybringer
+Goblin Chainwhirler
 Goblin Dark-Dwellers
 Goblin Guide
 Goblin Welder
 Godless Shrine
-God-Pharaoh's Gift
 Go for the Throat
 Golgari Signet
+Gonti, Lord of Luxury
 Grave Titan
 Green Sun's Zenith
 Grim Lavamancer
 Grim Monolith
 Grim Tutor
 Griselbrand
-Growing Rites of Itlimoc
 Gruul Signet
-Gurmag Angler
 Gush
-Guttersnipe
 Hallowed Fountain
 Hangarback Walker
 Harmonize
-Harsh Mentor
 Hazoret the Fervent
 Heartbeat of Spring
-Hedron Archive
 Hellrider
 Hero of Bladehold
 Hero's Downfall
 High Tide
 Hissing Quagmire
+History of Benalia
 Honor of the Pure
 Hostage Taker
 Huntmaster of the Fells
@@ -225,10 +228,12 @@ Jace Beleren
 Jace, the Mind Sculptor
 Jace, Vryn's Prodigy
 Jackal Pup
+Jadelight Ranger
+Jhoira, Weatherlight Captain
 Joraga Treespeaker
-Kalitas, Traitor of Ghet
 Karakas
 Karn Liberated
+Karn, Scion of Urza
 Kiki-Jiki, Mirror Breaker
 Kitchen Finks
 Kitesail Freebooter
@@ -253,7 +258,6 @@ Liliana, Death's Majesty
 Liliana of the Veil
 Lingering Souls
 Linvala, Keeper of Silence
-Linvala, the Preserver
 Lion's Eye Diamond
 Living Death
 Llanowar Elves
@@ -261,17 +265,17 @@ Lodestone Golem
 Looter il-Kor
 Lotus Bloom
 Lotus Cobra
+Lotus Petal
 Lumbering Falls
+Lyra Dawnbringer
 Maelstrom Pulse
 Magma Jet
 Magus of the Moon
-Magus of the Will
 Makeshift Mannequin
 Mana Confluence
 Mana Crypt
 Mana Drain
 Mana Flare
-Managorger Hydra
 Mana Leak
 Mana Tithe
 Mana Vault
@@ -282,7 +286,6 @@ Massacre Wurm
 Master of the Wild Hunt
 Maze of Ith
 Memory Jar
-Mental Misstep
 Mesmeric Fiend
 Metalworker
 Mind's Desire
@@ -324,6 +327,7 @@ Nezumi Shortfang
 Nicol Bolas, Planeswalker
 Nissa, Worldwaker
 Noble Hierarch
+Noxious Gearhulk
 Nykthos, Shrine to Nyx
 Oath of Druids
 Oath of Nissa
@@ -361,17 +365,15 @@ Qasali Pridemage
 Raging Ravine
 Rakdos Signet
 Rakdos's Return
-Ral Zarek
 Ravages of War
-Razaketh, the Foulblooded
+Ravenous Chupacabra
 Razorverge Thicket
 Reanimate
-Reckless Bushwhacker
 Reclamation Sage
 Recruiter of the Guard
 Recurring Nightmare
-Reflector Mage
 Regrowth
+Rekindling Phoenix
 Remand
 Repeal
 Restoration Angel
@@ -387,13 +389,11 @@ Sakura-Tribe Elder
 Savannah
 Scalding Tarn
 Scavenging Ooze
-Scroll Rack
 Scrubland
 Seachrome Coast
 Search for Azcanta
 Search for Tomorrow
 Searing Spear
-Seeker of the Way
 Seething Song
 Selesnya Signet
 Selfless Spirit
@@ -409,13 +409,12 @@ Shrine of Burning Rage
 Siege-Gang Commander
 Silverblade Paladin
 Simic Signet
-Skinrender
 Skullclamp
+Skymarcher Aspirant
 Smokestack
 Smuggler's Copter
 Snapcaster Mage
 Sneak Attack
-Soldier of the Pantheon
 Solemn Simulacrum
 Sol Ring
 Song of the Dryads
@@ -456,6 +455,7 @@ Tamiyo, the Moon Sage
 Tangle Wire
 Tarmogoyf
 Tasigur, the Golden Fang
+Teferi, Hero of Dominaria
 Temple Garden
 Tendrils of Agony
 Terastodon
@@ -470,6 +470,7 @@ Thirst for Knowledge
 Thoughtseize
 Thragtusk
 Thran Dynamo
+Thrashing Brontodon
 Through the Breach
 Thrun, the Last Troll
 Thundermaw Hellkite
@@ -483,7 +484,6 @@ Tolarian Academy
 Tooth and Nail
 Torrential Gearhulk
 Toxic Deluge
-Traverse the Ulvenwald
 Treachery
 Treasure Cruise
 Trinket Mage
@@ -513,7 +513,7 @@ Vindicate
 Voice of Resurgence
 Volcanic Island
 Vraska, Relic Seeker
-Vryn Wingmare
+Vraska's Contempt
 Walking Ballista
 Wall of Blossoms
 Wall of Omens
@@ -521,7 +521,7 @@ Wall of Roots
 Wandering Fumarole
 Wasteland
 Watery Grave
-Westvale Abbey
+Wear // Tear
 Wheel of Fortune
 Wildfire
 Windswept Heath
