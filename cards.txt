@@ -1,12 +1,11 @@
 Abrupt Decay
 Academy Ruins
-Accorder Paladin
 Acidic Slime
 Adarkar Wastes
-Aether Vial
 Ajani, Caller of the Pride
 Ajani Goldmane
 Ajani Vengeant
+Alesha, Who Smiles at Death
 Ancestral Recall
 Ancestral Vision
 Ancient Grudge
@@ -15,7 +14,6 @@ Angel of Serenity
 Animate Dead
 Arbor Elf
 Archangel of Thune
-Arc Trail
 Arid Mesa
 Armageddon
 Ashiok, Nightmare Weaver
@@ -23,7 +21,6 @@ Augur of Bolas
 Avacyn's Pilgrim
 Avalanche Riders
 Avenger of Zendikar
-Aven Mindcensor
 Awakening Zone
 Azorius Signet
 Badlands
@@ -52,7 +49,6 @@ Bloodsoaked Champion
 Bloodstained Mire
 Bone Shredder
 Bonfire of the Damned
-Borderland Marauder
 Boros Charm
 Boros Reckoner
 Boros Signet
@@ -64,12 +60,9 @@ Breeding Pool
 Bribery
 Brimaz, King of Oreskos
 Brimstone Volley
-Brushland
 Buried Alive
 Burning of Xinye
-Burning-Tree Emissary
 Burst Lightning
-Carnophage
 Caves of Koilos
 Chain Lightning
 Chandra, Pyromaster
@@ -82,8 +75,8 @@ Cloudgoat Ranger
 Coalition Relic
 Compulsive Research
 Consecrated Sphinx
-Containment Priest
 Control Magic
+Corpse Dance
 Council's Judgment
 Counterspell
 Courser of Kruphix
@@ -91,7 +84,6 @@ Craterhoof Behemoth
 Crater's Claws
 Crucible of Worlds
 Cryptic Command
-Cursed Scroll
 Dack Fayden
 Damnation
 Daretti, Scrap Savant
@@ -99,33 +91,34 @@ Dark Confidant
 Dark Ritual
 Day of Judgment
 Daze
+Deathrite Shaman
 Deceiver Exarch
 Delver of Secrets
 Demonic Tutor
 Deranged Hermit
 Desecration Demon
-Detention Sphere
 Diabolic Edict
+Dig Through Time
 Dimir Signet
-Diregraf Ghoul
 Disenchant
 Disfigure
 Dismember
 Domri Rade
+Dragon Hunter
+Dragonlord Atarka
+Dragonlord Silumgar
 Dragonskull Summit
 Dreadbore
 Drowned Catacomb
 Dualcaster Mage
-Dungeon Geists
+Duplicant
 Duress
 Edric, Spymaster of Trest
 Eidolon of the Great Revel
 Electrolyze
 Elesh Norn, Grand Cenobite
-Elite Vanguard
 Elspeth, Knight-Errant
 Elspeth, Sun's Champion
-Elspeth Tirel
 Elves of Deep Shadow
 Elvish Mystic
 Emeria Angel
@@ -140,20 +133,21 @@ Exalted Angel
 Fact or Fiction
 Faithless Looting
 Faith's Fetters
-Falkenrath Aristocrat
+Fastbond
 Fauna Shaman
+Fiend Hunter
 Figure of Destiny
 Fireblast
 Firebolt
 Firedrinker Satyr
 Fire // Ice
+Firestorm
 Flametongue Kavu
 Flickerwisp
 Flooded Strand
 Force of Will
 Force Spike
 Frantic Search
-Frenzied Goblin
 Freyalise, Llanowar's Fury
 Frost Titan
 Fyndhorn Elves
@@ -168,30 +162,28 @@ Gatekeeper of Malakir
 Geist of Saint Traft
 Genesis Wave
 Geralf's Messenger
-Gerrard's Verdict
-Ghitu Encampment
 Gideon Jura
 Gifts Ungiven
 Gilded Lotus
+Gitaxian Probe
 Glacial Fortress
 Glen Elendra Archmage
-Goblin Electromancer
 Goblin Guide
-Goblin Vandal
 Goblin Welder
 Godless Shrine
 Go for the Throat
 Golgari Signet
 Gore-House Chainwalker
-Grand Architect
-Gravecrawler
 Grave Titan
 Greater Gargadon
 Green Sun's Zenith
 Grim Lavamancer
 Grim Monolith
 Griselbrand
+Grove of the Burnwillows
 Gruul Signet
+Gurmag Angler
+Gush
 Guttersnipe
 Hallowed Fountain
 Hallowed Spiritkeeper
@@ -203,12 +195,12 @@ Hero of Oxid Ridge
 Hero's Downfall
 Hinterland Harbor
 Honor of the Pure
+Horizon Canopy
 Huntmaster of the Fells
 Hymn to Tourach
 Hypnotic Specter
 Imperial Recruiter
 Imperial Seal
-Imposing Sovereign
 Impulse
 Incinerate
 Indrik Stomphowler
@@ -219,26 +211,25 @@ Iona, Shield of Emeria
 Isamaru, Hound of Konda
 Isochron Scepter
 Isolated Chapel
+Izzet Charm
 Izzet Signet
 Jace, Architect of Thought
 Jace Beleren
 Jace, the Mind Sculptor
 Jackal Pup
+Jeskai Ascendancy
 Joraga Treespeaker
 Journey to Nowhere
-Kami of Ancient Law
 Karakas
 Kargan Dragonlord
 Karn Liberated
-Karplusan Forest
 Kiki-Jiki, Mirror Breaker
-Kiora's Follower
 Kiora, the Crashing Wave
-Kira, Great Glass-Spinner
 Kitchen Finks
 Koth of the Hammer
 Kozilek, Butcher of Truth
 Krosan Grip
+Kuldotha Forgemaster
 Land Tax
 Leonin Arbiter
 Leonin Relic-Warder
@@ -263,25 +254,28 @@ Lotus Cobra
 Maelstrom Pulse
 Magma Jet
 Magus of the Moon
+Makeshift Mannequin
+Mana Confluence
 Mana Crypt
 Mana Drain
 Mana Leak
 Mana Tithe
 Mana Vault
 Manic Vandal
-Manriki-Gusari
+Man-o'-War
+Mardu Woe-Reaper
 Marsh Flats
 Massacre Wurm
-Master of the Feast
 Master of the Wild Hunt
 Masticore
 Maze of Ith
 Meloku the Clouded Mirror
 Memory Jar
-Memory Lapse
+Mental Misstep
 Mesmeric Fiend
 Metalworker
 Mind's Desire
+Mindslaver
 Mind Twist
 Mirari's Wake
 Mirran Crusader
@@ -290,8 +284,9 @@ Mishra's Workshop
 Misty Rainforest
 Mizzium Mortars
 Moat
-Molten Rain
-Molten-Tail Masticore
+Momentary Blink
+Monastery Mentor
+Monastery Swiftspear
 Mother of Runes
 Mox Diamond
 Mox Emerald
@@ -304,6 +299,8 @@ Murderous Cut
 Mutavault
 Myr Battlesphere
 Mystical Tutor
+Mystic Snake
+Narset Transcendent
 Natural Order
 Nature's Claim
 Necromancy
@@ -314,19 +311,17 @@ Nevinyrral's Disk
 Nezumi Graverobber
 Nezumi Shortfang
 Nicol Bolas, Planeswalker
-Nightveil Specter
 Nissa, Worldwaker
 Noble Hierarch
-Null Rod
 Oath of Druids
 Oblivion Ring
-Old Man of the Sea
 Olivia Voldaren
 Oona's Prowler
 Ophiomancer
 Opposition
 Oracle of Mul Daya
 Orzhov Signet
+Outpost Siege
 Overgrown Tomb
 Pack Rat
 Palinchron
@@ -338,12 +333,10 @@ Pernicious Deed
 Pestermite
 Phantasmal Image
 Phyrexian Metamorph
-Phyrexian Negator
 Phyrexian Obliterator
 Phyrexian Revoker
 Pithing Needle
 Plateau
-Plow Under
 Polluted Delta
 Polukranos, World Eater
 Ponder
@@ -353,19 +346,20 @@ Primal Command
 Primeval Titan
 Progenitus
 Prophetic Flamespeaker
+Punishing Fire
+Puppeteer Clique
 Putrid Imp
 Qasali Pridemage
 Rakdos Cackler
 Rakdos Signet
+Rakdos's Return
 Ral Zarek
-Rancor
 Ranger of Eos
 Ravages of War
 Reanimate
 Reclamation Sage
 Recurring Nightmare
 Regrowth
-Relic of Progenitus
 Remand
 Repeal
 Restoration Angel
@@ -377,10 +371,8 @@ Rofellos, Llanowar Emissary
 Rootbound Crag
 Sacred Foundry
 Sakura-Tribe Elder
-Sarcomancy
 Sarkhan, the Dragonspeaker
 Savannah
-Savannah Lions
 Scalding Tarn
 Scavenging Ooze
 Scroll Rack
@@ -388,18 +380,23 @@ Scrubland
 Search for Tomorrow
 Searing Blaze
 Searing Spear
+Secure the Wastes
+Seeker of the Way
 Seething Song
 Selesnya Signet
 Sensei's Divining Top
-Serendib Efreet
 Shadowmage Infiltrator
+Shallow Grave
 Shardless Agent
+Shelldock Isle
 Sheoldred, Whispering One
 Shivan Reef
 Show and Tell
 Shriekmaw
 Shrine of Burning Rage
+Sidisi, Undead Vizier
 Siege-Gang Commander
+Siege Rhino
 Silverblade Paladin
 Simic Signet
 Sin Collector
@@ -414,15 +411,17 @@ Solemn Simulacrum
 Sol Ring
 Song of the Dryads
 Sorin, Lord of Innistrad
+Soulfire Grand Master
 Sower of Temptation
 Spear of Heliod
 Spectral Procession
+Spell Pierce
 Spellskite
 Sphinx of the Steel Wind
 Sphinx's Revelation
-Spikeshot Elder
 Spirit of the Labyrinth
 Splinter Twin
+Staff of Domination
 Steam Vents
 Stomping Ground
 Stoneforge Mystic
@@ -448,16 +447,14 @@ Swords to Plowshares
 Sylvan Caryatid
 Sylvan Library
 Taiga
-Talrand, Sky Summoner
 Tamiyo, the Moon Sage
 Tangle Wire
 Tarmogoyf
-Teetering Peaks
+Tasigur, the Golden Fang
 Temple Garden
 Tendrils of Agony
 Terastodon
 Terminate
-Terminus
 Tezzeret, Agent of Bolas
 Tezzeret the Seeker
 Thada Adel, Acquisitor
@@ -473,7 +470,6 @@ Thundermaw Hellkite
 Tidehollow Sculler
 Time Spiral
 Timetwister
-Time Vault
 Time Walk
 Tinker
 Tolarian Academy
@@ -481,6 +477,7 @@ Tombstalker
 Tooth and Nail
 Torch Fiend
 Treachery
+Treasure Cruise
 Treetop Village
 Trinket Mage
 Troll Ascetic
@@ -489,6 +486,7 @@ True-Name Nemesis
 Trygon Predator
 Tundra
 Turnabout
+Ugin, the Spirit Dragon
 Ulamog, the Infinite Gyre
 Ultimate Price
 Umezawa's Jitte
@@ -498,7 +496,7 @@ Underground Sea
 Unexpectedly Absent
 Upheaval
 Urborg, Tomb of Yawgmoth
-Vampire Lacerator
+Utter End
 Vampire Nighthawk
 Vampiric Tutor
 Vedalken Shackles
@@ -507,21 +505,21 @@ Vengevine
 Venser, Shaper Savant
 Venser, the Sojourner
 Verdant Catacombs
+Villainous Wealth
 Vindicate
 Voice of Resurgence
 Volcanic Island
 Volrath's Stronghold
-Voltaic Key
-Vraska the Unseen
 Wall of Blossoms
 Wall of Omens
 Wall of Roots
+War Priest of Thune
 Wasteland
 Watery Grave
 Weathered Wayfarer
 Wheel of Fortune
+Whisperwood Elemental
 Wildfire
-Windbrisk Heights
 Windswept Heath
 Winter Orb
 Wolfir Silverheart
@@ -538,3 +536,5 @@ Yawgmoth's Bargain
 Yawgmoth's Will
 Young Pyromancer
 Zealous Conscripts
+Zuran Orb
+Zurgo Bellstriker
