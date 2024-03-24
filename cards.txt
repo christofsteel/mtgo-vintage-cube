@@ -1,6 +1,5 @@
 Abbot of Keral Keep
 Abrupt Decay
-Academy Rector
 Academy Ruins
 Acidic Slime
 Ajani Vengeant
@@ -8,6 +7,7 @@ Ancestral Recall
 Ancestral Vision
 Ancient Grudge
 Ancient Tomb
+Angel of Sanctions
 Angel of Serenity
 Anguished Unmaking
 Animate Dead
@@ -28,24 +28,27 @@ Baleful Strix
 Baneslayer Angel
 Banisher Priest
 Banishing Light
+Baral, Chief of Compliance
 Basalt Monolith
 Batterskull
 Bayou
 Bazaar of Baghdad
 Beast Within
 Birds of Paradise
-Birthing Pod
 Bitterblossom
+Blackcleave Cliffs
 Black Lotus
 Blade Splicer
 Blightsteel Colossus
 Bloodbraid Elf
 Blood Crypt
 Bloodstained Mire
+Blooming Marsh
 Bone Shredder
 Bonfire of the Damned
 Boros Charm
 Boros Signet
+Botanical Sanctum
 Braids, Cabal Minion
 Brain Freeze
 Brain Maggot
@@ -60,6 +63,7 @@ Burning of Xinye
 Burst Lightning
 Cabal Ritual
 Careful Study
+Cast Out
 Celestial Colonnade
 Chain Lightning
 Chandra, Flamecaller
@@ -70,11 +74,12 @@ Char
 Chrome Mox
 Coalition Relic
 Coercive Portal
-Collective Brutality
+Commit // Memory
 Compulsive Research
-Conclave Naturalists
+Concealed Courtyard
 Consecrated Sphinx
 Control Magic
+Copperline Gorge
 Corpse Dance
 Council's Judgment
 Counterspell
@@ -90,6 +95,7 @@ Daretti, Scrap Savant
 Dark Confidant
 Dark Petition
 Dark Ritual
+Darkslick Shores
 Day of Judgment
 Daze
 Deathrite Shaman
@@ -104,8 +110,8 @@ Diabolic Edict
 Dig Through Time
 Dimir Signet
 Disenchant
-Disfigure
 Dismember
+Dissenter's Deliverance
 Dragonlord Atarka
 Dragonlord Dromoka
 Dragonlord Ojutai
@@ -136,9 +142,9 @@ Exhume
 Exquisite Firecraft
 Fact or Fiction
 Faithless Looting
-Faith's Fetters
 Falkenrath Gorger
 Fastbond
+Fatal Push
 Fauna Shaman
 Fiend Hunter
 Fiery Confluence
@@ -165,6 +171,7 @@ Geist of Saint Traft
 Genesis Wave
 Gideon, Ally of Zendikar
 Gideon Jura
+Gideon of the Trials
 Gifts Ungiven
 Gilded Lotus
 Gitaxian Probe
@@ -188,6 +195,7 @@ Guttersnipe
 Hallowed Fountain
 Hangarback Walker
 Harmonize
+Harsh Mentor
 Heartbeat of Spring
 Hedron Archive
 Hellrider
@@ -206,8 +214,8 @@ Incinerate
 Inferno Titan
 Inkwell Leviathan
 Inquisition of Kozilek
+Inspiring Vantage
 Iona, Shield of Emeria
-Isochron Scepter
 Izzet Charm
 Izzet Signet
 Jace, Architect of Thought
@@ -231,6 +239,7 @@ Kytheon, Hero of Akros
 Land Tax
 Lavaclaw Reaches
 Leonin Relic-Warder
+Leovold, Emissary of Trest
 Leyline of Sanctity
 Library of Alexandria
 Lifebane Zombie
@@ -239,6 +248,7 @@ Lightning Greaves
 Lightning Helix
 Lightning Mauler
 Lightning Strike
+Liliana, Death's Majesty
 Liliana of the Veil
 Lingering Souls
 Linvala, Keeper of Silence
@@ -264,6 +274,7 @@ Managorger Hydra
 Mana Leak
 Mana Tithe
 Mana Vault
+Manglehorn
 Manic Vandal
 Mardu Woe-Reaper
 Marsh Flats
@@ -308,6 +319,8 @@ Necropotence
 Needle Spires
 Nekrataal
 Nevinyrral's Disk
+Nezumi Graverobber
+Nezumi Shortfang
 Nicol Bolas, Planeswalker
 Nissa, Worldwaker
 Noble Hierarch
@@ -331,7 +344,6 @@ Pentad Prism
 Pernicious Deed
 Pestermite
 Phantasmal Image
-Phyrexian Arena
 Phyrexian Metamorph
 Phyrexian Revoker
 Pithing Needle
@@ -344,15 +356,14 @@ Preordain
 Primal Command
 Primeval Titan
 Progenitus
-Puppeteer Clique
 Putrid Imp
 Qasali Pridemage
-Quicken
 Raging Ravine
 Rakdos Signet
 Rakdos's Return
 Ral Zarek
 Ravages of War
+Razorverge Thicket
 Reanimate
 Reckless Bushwhacker
 Reclamation Sage
@@ -367,7 +378,7 @@ Reveillark
 Rift Bolt
 Riftwing Cloudskate
 Rishadan Port
-Roast
+Rishkar, Peema Renegade
 Rofellos, Llanowar Emissary
 Sacred Foundry
 Sakura-Tribe Elder
@@ -376,6 +387,7 @@ Scalding Tarn
 Scavenging Ooze
 Scroll Rack
 Scrubland
+Seachrome Coast
 Search for Tomorrow
 Searing Blaze
 Searing Spear
@@ -417,6 +429,7 @@ Spell Pierce
 Spellskite
 Sphinx of the Steel Wind
 Sphinx's Revelation
+Spirebluff Canal
 Spirit of the Labyrinth
 Splinter Twin
 Steam Vents
@@ -431,6 +444,7 @@ Sundering Titan
 Sun Titan
 Supreme Verdict
 Survival of the Fittest
+Sweltering Suns
 Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
@@ -445,16 +459,6 @@ Tangle Wire
 Tarmogoyf
 Tasigur, the Golden Fang
 Temple Garden
-Temple of Abandon
-Temple of Deceit
-Temple of Enlightenment
-Temple of Epiphany
-Temple of Malady
-Temple of Malice
-Temple of Mystery
-Temple of Plenty
-Temple of Silence
-Temple of Triumph
 Tendrils of Agony
 Terastodon
 Terminate
@@ -463,7 +467,6 @@ Tezzeret the Seeker
 Thada Adel, Acquisitor
 Thalia, Guardian of Thraben
 The Abyss
-Thing in the Ice
 Thirst for Knowledge
 Thoughtseize
 Thragtusk
@@ -479,7 +482,6 @@ Time Walk
 Tinker
 Tolarian Academy
 Tooth and Nail
-Torch Fiend
 Torrential Gearhulk
 Toxic Deluge
 Traverse the Ulvenwald
@@ -508,16 +510,15 @@ Vendilion Clique
 Venser, Shaper Savant
 Verdant Catacombs
 Verdurous Gearhulk
-Villainous Wealth
 Vindicate
 Voice of Resurgence
 Volcanic Island
 Vryn Wingmare
+Walking Ballista
 Wall of Blossoms
 Wall of Omens
 Wall of Roots
 Wandering Fumarole
-War Priest of Thune
 Wasteland
 Watery Grave
 Westvale Abbey
@@ -525,7 +526,6 @@ Wheel of Fortune
 Wildfire
 Windswept Heath
 Winter Orb
-Wolfir Silverheart
 Wooded Foothills
 Woodfall Primus
 Worn Powerstone
