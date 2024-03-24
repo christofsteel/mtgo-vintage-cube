@@ -9,7 +9,6 @@ Ancestral Vision
 Ancient Grudge
 Ancient Tomb
 Angel of Invention
-Angel of Sanctions
 Angel of Serenity
 Angrath's Rampage
 Anguished Unmaking
@@ -115,12 +114,14 @@ Disenchant
 Dismember
 Dragonlord Atarka
 Dreadhorde Arcanist
+Dryad of the Ilysian Grove
 Duress
 Edric, Spymaster of Trest
 Eidolon of the Great Revel
 Elesh Norn, Grand Cenobite
-Elspeth, Knight-Errant
+Elspeth Conquers Death
 Elspeth, Sun's Champion
+Elspeth, Sun's Nemesis
 Elves of Deep Shadow
 Elvish Mystic
 Embereth Shieldbreaker
@@ -171,6 +172,7 @@ Gideon, Ally of Zendikar
 Gideon Blackblade
 Gideon Jura
 Gifts Ungiven
+Gilded Goose
 Gitaxian Probe
 Giver of Runes
 Glen Elendra Archmage
@@ -212,7 +214,6 @@ Imperial Recruiter
 Imperial Seal
 Impulse
 Incinerate
-Incubation Druid
 Inferno Titan
 Ink-Eyes, Servant of Oni
 Inkwell Leviathan
@@ -238,6 +239,7 @@ Kodama's Reach
 Kolaghan's Command
 Koth of the Hammer
 Kozilek, Butcher of Truth
+Kroxa, Titan of Death's Hunger
 Kuldotha Forgemaster
 Kytheon, Hero of Akros
 Land Tax
@@ -355,7 +357,6 @@ Primal Command
 Primeval Titan
 Prismatic Vista
 Progenitus
-Pteramander
 Putrid Imp
 Pyretic Ritual
 Pyroclasm
@@ -399,7 +400,6 @@ Selfless Spirit
 Sensei's Divining Top
 Shallow Grave
 Shambling Vent
-Shardless Agent
 Shelldock Isle
 Sheoldred, Whispering One
 Show and Tell
@@ -436,7 +436,6 @@ Sulfuric Vortex
 Sundering Titan
 Sun Titan
 Survival of the Fittest
-Sweltering Suns
 Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
@@ -453,10 +452,10 @@ Teferi, Time Raveler
 Temple Garden
 Tendrils of Agony
 Terastodon
-Terminate
 Terminus
 Tezzeret the Seeker
 Thalia, Guardian of Thraben
+Thassa's Oracle
 The Scarab God
 Thief of Sanity
 Thing in the Ice
@@ -495,8 +494,10 @@ Ultimate Price
 Umezawa's Jitte
 Unburial Rites
 Underground Sea
+Underworld Breach
 Unexpectedly Absent
 Upheaval
+Uro, Titan of Nature's Wrath
 Urza, Lord High Artificer
 Vampire Hexmage
 Vampire Nighthawk
@@ -505,7 +506,6 @@ Vendilion Clique
 Venser, Shaper Savant
 Verdant Catacombs
 Vindicate
-Vivien, Champion of the Wilds
 Vivien Reid
 Volcanic Island
 Vraska, Golgari Queen
