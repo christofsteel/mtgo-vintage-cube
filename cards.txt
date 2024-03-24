@@ -75,6 +75,7 @@ Chrome Mox
 Coalition Relic
 Coercive Portal
 Collective Brutality
+Commit // Memory
 Concealed Courtyard
 Condemn
 Consecrated Sphinx
@@ -306,7 +307,6 @@ Murderous Rider
 Mutavault
 Myr Battlesphere
 Mystical Tutor
-Mystic Confluence
 Nahiri, the Harbinger
 Narset, Parter of Veils
 Natural Order
