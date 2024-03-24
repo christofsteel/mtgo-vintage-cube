@@ -7,13 +7,11 @@ Adeline, Resplendent Cathar
 Ancestral Recall
 Ancestral Vision
 Ancient Tomb
-Angrath's Rampage
 Animate Dead
 Arbor Elf
 Archangel Avacyn
 Archon of Cruelty
 Arid Mesa
-Arlinn, the Pack's Hope
 Armageddon
 Ashen Rider
 Ashiok, Nightmare Weaver
@@ -34,7 +32,6 @@ Basalt Monolith
 Batterskull
 Bayou
 Bazaar of Baghdad
-Beast Within
 Biogenic Ooze
 Birds of Paradise
 Birgi, God of Storytelling
@@ -48,6 +45,7 @@ Bloodchief's Thirst
 Blood Crypt
 Bloodstained Mire
 Bloodthirsty Adversary
+Bloodtithe Harvester
 Blooming Marsh
 Bolas's Citadel
 Bomat Courier
@@ -65,6 +63,7 @@ Cabal Ritual
 Cathar Commando
 Cave of the Frost Dragon
 Celestial Colonnade
+Cemetery Protector
 Chain Lightning
 Chandra, Torch of Defiance
 Channel
@@ -75,7 +74,6 @@ Circle of Dreams Druid
 Coalition Relic
 Coercive Portal
 Collective Brutality
-Commit // Memory
 Concealed Courtyard
 Condemn
 Consecrated Sphinx
@@ -102,6 +100,7 @@ Dark Petition
 Dark Ritual
 Darkslick Shores
 Daze
+Deathcap Glade
 Deceiver Exarch
 Demonic Tutor
 Den of the Bugbear
@@ -116,8 +115,11 @@ Disenchant
 Dismember
 Dragonlord Atarka
 Dragon's Rage Channeler
+Dreadfeast Demon
+Dreamroot Cascade
 Duress
 Ebondeath, Dracolich
+Echo of Eons
 Eidolon of the Great Revel
 Elder Gargaroth
 Elesh Norn, Grand Cenobite
@@ -139,6 +141,7 @@ Exhume
 Expansion // Explosion
 Expressive Iteration
 Fact or Fiction
+Faithbound Judge
 Faithless Looting
 Faith's Fetters
 Fallen Shinobi
@@ -157,7 +160,7 @@ Force of Negation
 Force of Will
 Fractured Identity
 Frantic Search
-Frost Titan
+Fumigate
 Fyndhorn Elves
 Gaea's Cradle
 Garruk Relentless
@@ -189,6 +192,7 @@ Griselbrand
 Grist, the Hunger Tide
 Gruul Signet
 Gush
+Halana and Alena, Partners
 Hallowed Fountain
 Hangarback Walker
 Haunted Ridge
@@ -200,7 +204,7 @@ Hero's Downfall
 Hexdrinker
 High Tide
 Hissing Quagmire
-Honor of the Pure
+Hullbreaker Horror
 Huntmaster of the Fells
 Hydroid Krasis
 Hymn to Tourach
@@ -212,13 +216,13 @@ Infernal Grasp
 Inferno Titan
 Inkwell Leviathan
 Inquisition of Kozilek
+Inspired Idea
 Inspiring Vantage
 Intrepid Adversary
 Iona, Shield of Emeria
 Izzet Signet
 Jace, the Mind Sculptor
 Jace, Vryn's Prodigy
-Jadar, Ghoulcaller of Nephalia
 Joraga Treespeaker
 Karakas
 Karmic Guide
@@ -229,6 +233,7 @@ Kitchen Finks
 Kitesail Freebooter
 Knight of Autumn
 Knight of the Reliquary
+Kogla, the Titan Ape
 Kolaghan's Command
 Koth of the Hammer
 Kozilek, Butcher of Truth
@@ -239,9 +244,7 @@ Laelia, the Blade Reforged
 Land Tax
 Lavaclaw Reaches
 Leonin Relic-Warder
-Leovold, Emissary of Trest
 Library of Alexandria
-Liesa, Forgotten Archangel
 Lightning Bolt
 Lightning Helix
 Lightning Strike
@@ -250,7 +253,6 @@ Liliana, Death's Majesty
 Liliana of the Veil
 Liliana, the Last Hope
 Lingering Souls
-Linvala, Keeper of Silence
 Lion's Eye Diamond
 Living Death
 Llanowar Elves
@@ -258,7 +260,6 @@ Lodestone Golem
 Lonis, Cryptozoologist
 Lotus Bloom
 Lotus Petal
-Loyal Warhound
 Ludevic, Necrogenius
 Lumbering Falls
 Lyra Dawnbringer
@@ -317,12 +318,12 @@ Nykthos, Shrine to Nyx
 Oath of Druids
 Oblivion Stone
 Oko, Thief of Crowns
-Old Stickfingers
+Old Rutstein
+Olivia, Crimson Bride
 Omnath, Locus of Creation
 Oona's Prowler
 Ophiomancer
 Opposition
-Opposition Agent
 Oracle of Mul Daya
 Orzhov Signet
 Oust
@@ -350,6 +351,7 @@ Power Word Kill
 Preordain
 Primeval Titan
 Prismatic Vista
+Progenitus
 Putrid Imp
 Pyretic Ritual
 Pyroclasm
@@ -357,7 +359,6 @@ Questing Beast
 Ragavan, Nimble Pilferer
 Raging Ravine
 Rakdos Signet
-Rakdos's Return
 Rampaging Ferocidon
 Ramunap Excavator
 Ravages of War
@@ -375,7 +376,6 @@ Restoration Angel
 Rift Sower
 Riftwing Cloudskate
 Rishadan Port
-Rite of Harmony
 Rockfall Vale
 Rofellos, Llanowar Emissary
 Rotting Regisaur
@@ -399,6 +399,7 @@ Sensei's Divining Top
 Shallow Grave
 Shambling Vent
 Shark Typhoon
+Shattered Sanctum
 Shelldock Isle
 Sheoldred, Whispering One
 Shipwreck Marsh
@@ -412,7 +413,6 @@ Simic Signet
 Skullclamp
 Skyclave Apparition
 Smokestack
-Smoldering Egg
 Smuggler's Copter
 Snapcaster Mage
 Sneak Attack
@@ -420,8 +420,8 @@ Solemn Simulacrum
 Solitude
 Sol Ring
 Soulfire Grand Master
-Soul-Scar Mage
 Sower of Temptation
+Spear of Heliod
 Spectral Procession
 Spell Pierce
 Spellseeker
@@ -433,11 +433,12 @@ Stirring Wildwood
 Stomping Ground
 Stonecoil Serpent
 Stoneforge Mystic
-Storm the Festival
+Stormcarved Coast
 Strip Mine
 Student of Warfare
 Sulfuric Vortex
 Sundering Titan
+Sundown Pass
 Sungold Sentinel
 Sun Titan
 Survival of the Fittest
@@ -458,10 +459,9 @@ Tendrils of Agony
 Terastodon
 Tezzeret the Seeker
 Thalia, Guardian of Thraben
-Thassa's Oracle
 The Scarab God
 Thieving Skydiver
-Thirst for Knowledge
+Thirst for Discovery
 Thoughtseize
 Thousand-Year Storm
 Thraben Inspector
@@ -476,8 +476,8 @@ Time Walk
 Time Warp
 Tinker
 Tireless Tracker
-Tithe Taker
 Tolarian Academy
+Torens, Fist of the Angels
 Torrential Gearhulk
 Toski, Bearer of Secrets
 Tovolar's Huntmaster
@@ -495,7 +495,6 @@ Ulamog, the Infinite Gyre
 Umezawa's Jitte
 Unburial Rites
 Underground Sea
-Unexpectedly Absent
 Unholy Heat
 Upheaval
 Uro, Titan of Nature's Wrath
@@ -509,6 +508,7 @@ Venser, Shaper Savant
 Verdant Catacombs
 Vindicate
 Volcanic Island
+Voltaic Visionary
 Vraska, Golgari Queen
 Vryn Wingmare
 Walking Ballista
@@ -521,6 +521,7 @@ Watery Grave
 Wear // Tear
 Wheel of Fortune
 Wheel of Misfortune
+Whisperwood Elemental
 Windswept Heath
 Winter Orb
 Wishclaw Talisman
@@ -529,7 +530,6 @@ Wooded Foothills
 Woodfall Primus
 Worn Powerstone
 Wrath of God
-Wrenn and Seven
 Wrenn and Six
 Wurmcoil Engine
 Yawgmoth's Bargain
