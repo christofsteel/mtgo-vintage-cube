@@ -64,11 +64,13 @@ Celestial Colonnade
 Chain Lightning
 Chandra, Flamecaller
 Chandra, Pyromaster
+Chandra, Torch of Defiance
 Channel
 Char
 Chrome Mox
 Coalition Relic
 Coercive Portal
+Collective Brutality
 Compulsive Research
 Conclave Naturalists
 Consecrated Sphinx
@@ -123,6 +125,7 @@ Elvish Mystic
 Emeria Angel
 Empty the Warrens
 Emrakul, the Aeons Torn
+Emrakul, the Promised End
 Enlightened Tutor
 Entomb
 Eternal Witness
@@ -187,7 +190,6 @@ Hangarback Walker
 Harmonize
 Heartbeat of Spring
 Hedron Archive
-Heir of Falkenrath
 Hellrider
 Hero of Bladehold
 Hero's Downfall
@@ -205,7 +207,6 @@ Inferno Titan
 Inkwell Leviathan
 Inquisition of Kozilek
 Iona, Shield of Emeria
-Isamaru, Hound of Konda
 Isochron Scepter
 Izzet Charm
 Izzet Signet
@@ -225,7 +226,6 @@ Knight of the White Orchid
 Kolaghan's Command
 Koth of the Hammer
 Kozilek, Butcher of Truth
-Kozilek, the Great Distortion
 Kuldotha Forgemaster
 Kytheon, Hero of Akros
 Land Tax
@@ -255,6 +255,7 @@ Maelstrom Pulse
 Magma Jet
 Magus of the Moon
 Magus of the Wheel
+Magus of the Will
 Makeshift Mannequin
 Mana Confluence
 Mana Crypt
@@ -269,7 +270,6 @@ Marsh Flats
 Massacre Wurm
 Master of the Wild Hunt
 Maze of Ith
-Meloku the Clouded Mirror
 Memory Jar
 Mental Misstep
 Mesmeric Fiend
@@ -308,8 +308,6 @@ Necropotence
 Needle Spires
 Nekrataal
 Nevinyrral's Disk
-Nezumi Graverobber
-Nezumi Shortfang
 Nicol Bolas, Planeswalker
 Nissa, Worldwaker
 Noble Hierarch
@@ -323,7 +321,6 @@ Ophiomancer
 Opposition
 Oracle of Mul Daya
 Orzhov Signet
-Outpost Siege
 Overgrown Tomb
 Pack Rat
 Painful Truths
@@ -334,6 +331,7 @@ Pentad Prism
 Pernicious Deed
 Pestermite
 Phantasmal Image
+Phyrexian Arena
 Phyrexian Metamorph
 Phyrexian Revoker
 Pithing Needle
@@ -358,6 +356,7 @@ Ravages of War
 Reanimate
 Reckless Bushwhacker
 Reclamation Sage
+Recruiter of the Guard
 Recurring Nightmare
 Reflector Mage
 Regrowth
@@ -381,10 +380,10 @@ Search for Tomorrow
 Searing Blaze
 Searing Spear
 Seasons Past
-Secure the Wastes
 Seeker of the Way
 Seething Song
 Selesnya Signet
+Selfless Spirit
 Sensei's Divining Top
 Shadowmage Infiltrator
 Shallow Grave
@@ -403,6 +402,7 @@ Skinrender
 Skullclamp
 Smash to Smithereens
 Smokestack
+Smuggler's Copter
 Snapcaster Mage
 Sneak Attack
 Soldier of the Pantheon
@@ -419,7 +419,6 @@ Sphinx of the Steel Wind
 Sphinx's Revelation
 Spirit of the Labyrinth
 Splinter Twin
-Staff of Domination
 Steam Vents
 Stirring Wildwood
 Stomping Ground
@@ -481,6 +480,7 @@ Tinker
 Tolarian Academy
 Tooth and Nail
 Torch Fiend
+Torrential Gearhulk
 Toxic Deluge
 Traverse the Ulvenwald
 Treachery
@@ -507,6 +507,7 @@ Vedalken Shackles
 Vendilion Clique
 Venser, Shaper Savant
 Verdant Catacombs
+Verdurous Gearhulk
 Villainous Wealth
 Vindicate
 Voice of Resurgence
@@ -521,7 +522,6 @@ Wasteland
 Watery Grave
 Westvale Abbey
 Wheel of Fortune
-Whisperwood Elemental
 Wildfire
 Windswept Heath
 Winter Orb
