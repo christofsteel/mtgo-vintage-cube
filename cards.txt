@@ -1,25 +1,25 @@
 Abrupt Decay
+Academy Ruins
 Acidic Slime
 Adarkar Wastes
 Aeon Chronicler
+Aetherling
 Agony Warp
 Ajani, Caller of the Pride
 Ajani Goldmane
 Ajani Vengeant
-Akroma, Angel of Wrath
-Akroma's Vengeance
 All Is Dust
-All Suns' Dawn
 Ancestral Recall
 Ancestral Vision
 Ancient Grudge
 Ancient Tomb
 Angel of Despair
+Angel of Serenity
 Animate Dead
 Arbor Elf
+Archangel of Thune
 Arc Trail
 Arid Mesa
-Armada Wurm
 Armageddon
 Avacyn's Pilgrim
 Avalanche Riders
@@ -31,7 +31,6 @@ Badlands
 Balance
 Baleful Strix
 Ball Lightning
-Bane of the Living
 Baneslayer Angel
 Basalt Monolith
 Batterskull
@@ -49,11 +48,13 @@ Bloodbraid Elf
 Blood Crypt
 Bloodghast
 Bloodgift Demon
+Bloodline Keeper
 Bloodstained Mire
 Boggart Ram-Gang
 Bone Shredder
 Bonesplitter
 Bonfire of the Damned
+Boon Satyr
 Boros Garrison
 Boros Signet
 Braids, Cabal Minion
@@ -67,20 +68,19 @@ Brushland
 Buried Alive
 Burning of Xinye
 Call of the Herd
-Careful Consideration
 Catastrophe
 Caves of Koilos
 Chain Lightning
-Chandra Nalaar
+Chandra, Pyromaster
 Chandra's Phoenix
 Chandra, the Firebrand
 Channel
 Chaos Warp
 Char
+Chord of Calling
 Chrome Mox
 Cloudgoat Ranger
 Coalition Relic
-Cold-Eyed Selkie
 Compulsive Research
 Consecrated Sphinx
 Consuming Vapors
@@ -93,9 +93,9 @@ Cursed Scroll
 Damnation
 Dark Confidant
 Dark Ritual
+Daxos of Meletis
 Day of Judgment
 Daze
-Delver of Secrets
 Demonic Tutor
 Deranged Hermit
 Devil's Play
@@ -104,7 +104,9 @@ Dimir Aqueduct
 Dimir Signet
 Diregraf Ghoul
 Disenchant
+Disfigure
 Dismember
+Domri Rade
 Dreadbore
 Dream Halls
 Dreg Mangler
@@ -117,8 +119,10 @@ Electrolyze
 Elesh Norn, Grand Cenobite
 Elite Vanguard
 Elspeth, Knight-Errant
+Elspeth, Sun's Champion
 Elspeth Tirel
 Elves of Deep Shadow
+Elvish Mystic
 Ember Hauler
 Emeria Angel
 Empty the Warrens
@@ -126,15 +130,12 @@ Emrakul, the Aeons Torn
 Enlightened Tutor
 Entomb
 Epochrasite
+Erebos, God of the Dead
 Etched Oracle
-Eternal Dragon
 Eternal Witness
-Ethersworn Canonist
 Eureka
 Everflowing Chalice
 Exalted Angel
-Exhume
-Exploration
 Fact or Fiction
 Faithless Looting
 Faith's Fetters
@@ -143,13 +144,12 @@ Fauna Shaman
 Figure of Destiny
 Fireblast
 Firebolt
-Fire // Ice
+Firedrinker Satyr
 Firemane Angel
-Firespout
 Firestorm
 Flametongue Kavu
+Fleecemane Lion
 Flickerwisp
-Flinthoof Boar
 Flooded Strand
 Forbid
 Force of Will
@@ -159,6 +159,7 @@ Frenzied Goblin
 Frost Titan
 Fyndhorn Elves
 Gaea's Cradle
+Garruk, Caller of Beasts
 Garruk, Primal Hunter
 Garruk Relentless
 Garruk Wildspeaker
@@ -172,8 +173,6 @@ Gideon's Lawkeeper
 Gifts Ungiven
 Gilded Lotus
 Glen Elendra Archmage
-Gloom Surgeon
-Glorious Anthem
 Goblin Guide
 Goblin Ruinblaster
 Goblin Vandal
@@ -196,12 +195,12 @@ Gruul Turf
 Guul Draz Assassin
 Hallowed Fountain
 Harmonize
-Headhunter
 Heartbeat of Spring
 Hellrider
 Hellspark Elemental
 Hero of Bladehold
 Hero of Oxid Ridge
+Hero's Downfall
 Honor of the Pure
 Huntmaster of the Fells
 Hymn to Tourach
@@ -219,6 +218,7 @@ Isamaru, Hound of Konda
 Izzet Boilerworks
 Izzet Charm
 Izzet Signet
+Jace, Architect of Thought
 Jace Beleren
 Jace, the Mind Sculptor
 Jackal Pup
@@ -241,13 +241,14 @@ Lake of the Dead
 Land Tax
 Leonin Relic-Warder
 Library of Alexandria
+Lifebane Zombie
 Lightning Bolt
 Lightning Greaves
 Lightning Helix
-Lightning Mauler
 Liliana of the Veil
 Liliana Vess
 Lingering Souls
+Linvala, Keeper of Silence
 Lion's Eye Diamond
 Living Death
 Llanowar Elves
@@ -259,12 +260,12 @@ Lotus Bloom
 Lotus Cobra
 Maelstrom Pulse
 Magma Jet
+Magus of the Moon
 Mana Crypt
 Mana Drain
 Mana Leak
 Mana Tithe
 Mana Vault
-Man-o'-War
 Manriki-Gusari
 Marsh Flats
 Master of the Wild Hunt
@@ -290,7 +291,6 @@ Moat
 Mogg War Marshal
 Molten Rain
 Molten-Tail Masticore
-Momentary Blink
 Mother of Runes
 Mox Diamond
 Mox Emerald
@@ -314,14 +314,13 @@ Nevinyrral's Disk
 Nezumi Graverobber
 Nezumi Shortfang
 Nicol Bolas, Planeswalker
-Niv-Mizzet, Dracogenius
+Nightscape Familiar
 Noble Hierarch
 Nostalgic Dreams
 Null Rod
 Oblivion Ring
 Obstinate Baloth
 Ohran Viper
-Okiba-Gang Shinobi
 Old Man of the Sea
 Oona's Prowler
 Opposition
@@ -329,12 +328,12 @@ Oracle of Mul Daya
 Orcish Lumberjack
 Orzhov Basilica
 Orzhov Signet
-Oust
 Overgrown Tomb
 Paladin en-Vec
 Palinchron
 Parallax Wave
 Path to Exile
+Pentad Prism
 Pernicious Deed
 Phantasmal Image
 Phyrexian Arena
@@ -347,6 +346,7 @@ Plateau
 Plated Geopede
 Plow Under
 Polluted Delta
+Polukranos, World Eater
 Porcelain Legionnaire
 Precursor Golem
 Preordain
@@ -357,13 +357,11 @@ Pristine Talisman
 Prophetic Bolt
 Putrid Imp
 Pyroclasm
-Qasali Pridemage
 Rakdos Cackler
 Rakdos Carnarium
 Rakdos Signet
-Rancor
+Ral Zarek
 Ranger of Eos
-Ratchet Bomb
 Ravages of War
 Ravenous Baboons
 Razormane Masticore
@@ -396,14 +394,13 @@ Selesnya Signet
 Sensei's Divining Top
 Serendib Efreet
 Shadowmage Infiltrator
-Shelldock Isle
+Shardless Agent
 Sheoldred, Whispering One
 Shivan Reef
 Show and Tell
 Shriekmaw
 Shrine of Burning Rage
 Siege-Gang Commander
-Silent Specter
 Silverblade Paladin
 Simic Growth Chamber
 Simic Signet
@@ -415,16 +412,19 @@ Smash to Smithereens
 Smokestack
 Snapcaster Mage
 Sneak Attack
+Soldier of the Pantheon
 Solemn Simulacrum
 Sol Ring
 Soltari Champion
 Sorin, Lord of Innistrad
 Sower of Temptation
+Spear of Heliod
 Spectral Procession
 Sphinx of Jwar Isle
 Sphinx of the Steel Wind
 Sphinx's Revelation
 Spikeshot Elder
+Steam Augury
 Steam Vents
 Steppe Lynx
 Stillmoon Cavalier
@@ -435,12 +435,10 @@ Strangleroot Geist
 Strip Mine
 Student of Warfare
 Stunted Growth
-Stupor
 Sulfuric Vortex
 Sulfurous Springs
 Sundering Titan
 Sun Titan
-Supreme Verdict
 Survival of the Fittest
 Sword of Body and Mind
 Sword of Feast and Famine
@@ -448,12 +446,12 @@ Sword of Fire and Ice
 Sword of Light and Shadow
 Sword of War and Peace
 Swords to Plowshares
+Sylvan Caryatid
 Sylvan Library
 Taiga
 Tamiyo, the Moon Sage
 Tangle Wire
 Tarmogoyf
-Tattermunge Maniac
 Taurean Mauler
 Teetering Peaks
 Temple Garden
@@ -471,7 +469,6 @@ Thragtusk
 Thran Dynamo
 Thrun, the Last Troll
 Thundermaw Hellkite
-Thunderscape Battlemage
 Tidehollow Sculler
 Time Spiral
 Timetwister
@@ -481,10 +478,12 @@ Tin Street Hooligan
 Tolarian Academy
 Tooth and Nail
 Torch Fiend
+Toxic Deluge
 Treachery
 Treetop Village
 Trinket Mage
 Tropical Island
+True-Name Nemesis
 Trygon Predator
 Tundra
 Turnabout
@@ -495,6 +494,7 @@ Umezawa's Jitte
 Unburial Rites
 Underground River
 Underground Sea
+Unexpectedly Absent
 Upheaval
 Urabrask the Hidden
 Vampire Nighthawk
@@ -507,7 +507,7 @@ Venser, the Sojourner
 Verdant Catacombs
 Vesuvan Shapeshifter
 Vindicate
-Vinelasher Kudzu
+Voice of Resurgence
 Void
 Voidmage Prodigy
 Volcanic Island
@@ -534,7 +534,7 @@ Woodfall Primus
 Worn Powerstone
 Wrath of God
 Wurmcoil Engine
+Xenagos, the Reveler
 Yavimaya Coast
-Yavimaya Elder
 Yawgmoth's Will
 Zealous Conscripts
