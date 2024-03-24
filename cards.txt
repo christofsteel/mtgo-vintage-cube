@@ -1,6 +1,5 @@
 Abbot of Keral Keep
 Abrade
-Abrupt Decay
 Academy Ruins
 Acidic Slime
 Adanto Vanguard
@@ -11,6 +10,7 @@ Ancient Grudge
 Ancient Tomb
 Angel of Invention
 Angel of Sanctions
+Angel of Serenity
 Anguished Unmaking
 Animate Dead
 Arbor Elf
@@ -19,10 +19,9 @@ Archangel Avacyn
 Arguel's Blood Fast
 Arid Mesa
 Armageddon
+Ashen Rider
 Ashiok, Nightmare Weaver
 Assassin's Trophy
-Aurelia, Exemplar of Justice
-Avacyn, Angel of Hope
 Avacyn's Pilgrim
 Avalanche Riders
 Avenger of Zendikar
@@ -30,8 +29,8 @@ Azorius Signet
 Badlands
 Balance
 Baleful Strix
+Banefire
 Baneslayer Angel
-Banisher Priest
 Banishing Light
 Baral, Chief of Compliance
 Basalt Monolith
@@ -39,23 +38,25 @@ Batterskull
 Bayou
 Bazaar of Baghdad
 Beast Within
+Bedevil
+Biogenic Ooze
 Birds of Paradise
 Bitterblossom
 Blackcleave Cliffs
 Black Lotus
 Blade Splicer
+Blast Zone
 Blightsteel Colossus
-Blink of an Eye
 Bloodbraid Elf
 Blood Crypt
 Bloodstained Mire
 Blooming Marsh
+Bomat Courier
 Bone Shredder
 Bonfire of the Damned
 Boros Signet
 Botanical Sanctum
 Brain Freeze
-Brain Maggot
 Brainstorm
 Breeding Pool
 Bribery
@@ -66,10 +67,8 @@ Burning of Xinye
 Burst Lightning
 Cabal Ritual
 Carnage Tyrant
-Cast Down
 Celestial Colonnade
 Chain Lightning
-Chandra, Flamecaller
 Chandra, Torch of Defiance
 Channel
 Char
@@ -78,11 +77,11 @@ Chrome Mox
 Coalition Relic
 Coercive Portal
 Collective Brutality
-Collective Defiance
 Compulsive Research
 Concealed Courtyard
 Condemn
 Consecrated Sphinx
+Containment Priest
 Control Magic
 Copperline Gorge
 Corpse Dance
@@ -107,6 +106,7 @@ Daze
 Deceiver Exarch
 Demonic Tutor
 Demonlord Belzenlok
+Den Protector
 Deranged Hermit
 Desperate Ritual
 Devoted Druid
@@ -118,9 +118,6 @@ Disenchant
 Dismember
 Doom Whisperer
 Dragonlord Atarka
-Dragonlord Ojutai
-Dreadbore
-Duplicant
 Duress
 Edric, Spymaster of Trest
 Eidolon of the Great Revel
@@ -140,8 +137,8 @@ Eureka
 Everflowing Chalice
 Exhume
 Expansion // Explosion
-Experimental Frenzy
 Fact or Fiction
+Fairgrounds Warden
 Faithless Looting
 Faith's Fetters
 Fastbond
@@ -150,31 +147,33 @@ Fauna Shaman
 Field of Ruin
 Fiery Confluence
 Figure of Destiny
+Finale of Devastation
 Fireblast
 Firebolt
-Firedrinker Satyr
+Fire // Ice
 Flame Slash
 Flametongue Kavu
 Flickerwisp
 Flooded Strand
 Force of Will
+Fractured Identity
 Frantic Search
 Frost Titan
 Fyndhorn Elves
 Gaea's Cradle
-Garruk, Apex Predator
 Garruk, Primal Hunter
 Garruk Relentless
 Garruk Wildspeaker
 Geist of Saint Traft
-Genesis Wave
 Gideon, Ally of Zendikar
+Gideon Blackblade
 Gideon Jura
 Gideon of the Trials
 Gifts Ungiven
 Gilded Lotus
 Gitaxian Probe
 Glen Elendra Archmage
+Glint-Sleeve Siphoner
 Glorybringer
 Goblin Dark-Dwellers
 Goblin Electromancer
@@ -189,7 +188,6 @@ Grave Titan
 Green Sun's Zenith
 Grim Lavamancer
 Grim Monolith
-Grim Tutor
 Griselbrand
 Gruul Signet
 Gush
@@ -207,18 +205,20 @@ History of Benalia
 Honor of the Pure
 Hostage Taker
 Huntmaster of the Fells
+Hydroid Krasis
 Hymn to Tourach
 Hypnotic Specter
 Imperial Recruiter
 Imperial Seal
 Impulse
 Incinerate
+Incubation Druid
 Inferno Titan
+Ink-Eyes, Servant of Oni
 Inkwell Leviathan
 Inquisition of Kozilek
 Inspiring Vantage
 Iona, Shield of Emeria
-Izzet Charm
 Izzet Signet
 Jace, Architect of Thought
 Jace Beleren
@@ -226,11 +226,12 @@ Jace, the Mind Sculptor
 Jace, Vryn's Prodigy
 Jackal Pup
 Joraga Treespeaker
+Journey to Nowhere
 Karakas
 Karn Liberated
 Karn, Scion of Urza
+Kaya, Orzhov Usurper
 Kiki-Jiki, Mirror Breaker
-Kiora, the Crashing Wave
 Kitchen Finks
 Kitesail Freebooter
 Knight of Autumn
@@ -252,8 +253,10 @@ Lightning Bolt
 Lightning Greaves
 Lightning Helix
 Lightning Strike
+Light Up the Stage
 Liliana, Death's Majesty
 Liliana of the Veil
+Liliana's Triumph
 Lingering Souls
 Linvala, Keeper of Silence
 Lion's Eye Diamond
@@ -263,11 +266,9 @@ Lodestone Golem
 Looter il-Kor
 Lotus Bloom
 Lotus Cobra
-Lotus Petal
 Lumbering Falls
 Lyra Dawnbringer
 Maelstrom Pulse
-Magma Jet
 Magus of the Moon
 Makeshift Mannequin
 Mana Confluence
@@ -278,10 +279,10 @@ Mana Leak
 Manamorphose
 Mana Tithe
 Mana Vault
-Manglehorn
 Manic Vandal
 Marsh Flats
 Massacre Wurm
+Mastermind's Acquisition
 Master of the Wild Hunt
 Maze of Ith
 Memory Jar
@@ -291,7 +292,7 @@ Mind's Desire
 Mindslaver
 Mind Twist
 Mirari's Wake
-Mirran Crusader
+Miscalculation
 Mishra's Factory
 Mishra's Workshop
 Misty Rainforest
@@ -317,19 +318,16 @@ Natural Order
 Nature's Claim
 Necromancy
 Needle Spires
+Negate
 Nekrataal
-Nexus of Fate
-Nicol Bolas, Planeswalker
+Nicol Bolas, Dragon-God
 Night's Whisper
-Nissa, Vastwood Seer
-Nissa, Voice of Zendikar
 Nissa, Worldwaker
 Noble Hierarch
 Nykthos, Shrine to Nyx
 Oath of Druids
 Oblivion Ring
 Oblivion Stone
-Obstinate Baloth
 Oona's Prowler
 Ophiomancer
 Opposition
@@ -337,11 +335,11 @@ Oracle of Mul Daya
 Orzhov Signet
 Overgrown Tomb
 Pack Rat
-Palace Jailer
 Palinchron
 Parallax Wave
+Past in Flames
 Path to Exile
-Pentad Prism
+Pernicious Deed
 Pestermite
 Phantasmal Image
 Phyrexian Arena
@@ -349,6 +347,7 @@ Phyrexian Metamorph
 Phyrexian Revoker
 Pia and Kiran Nalaar
 Pia Nalaar
+Plaguecrafter
 Plateau
 Plow Under
 Polluted Delta
@@ -359,7 +358,7 @@ Preordain
 Primal Command
 Primeval Titan
 Progenitus
-Puppeteer Clique
+Pteramander
 Putrid Imp
 Pyretic Ritual
 Pyroclasm
@@ -378,12 +377,12 @@ Regrowth
 Rekindling Phoenix
 Relic of Progenitus
 Remand
-Remorseful Cleric
 Repeal
 Restoration Angel
 Reveillark
 Riftwing Cloudskate
 Rishadan Port
+Rix Maadi Reveler
 Rofellos, Llanowar Emissary
 Runaway Steam-Kin
 Sacred Foundry
@@ -418,13 +417,13 @@ Snapcaster Mage
 Sneak Attack
 Solemn Simulacrum
 Sol Ring
-Sorcerous Spyglass
 Soulfire Grand Master
 Sower of Temptation
 Spear of Heliod
 Spectral Procession
 Spell Pierce
 Spell Queller
+Spellseeker
 Sphinx of the Steel Wind
 Sphinx's Revelation
 Spirebluff Canal
@@ -469,15 +468,15 @@ Thousand-Year Storm
 Thragtusk
 Thran Dynamo
 Through the Breach
-Thrun, the Last Troll
 Thundermaw Hellkite
 Tidehollow Sculler
-Timely Reinforcements
 Time Spiral
 Timetwister
 Time Walk
+Time Warp
 Tinker
 Tireless Tracker
+Tithe Taker
 Tolarian Academy
 Tooth and Nail
 Torrential Gearhulk
@@ -487,7 +486,6 @@ Treasure Cruise
 Trinket Mage
 Tropical Island
 Trostani Discordant
-True-Name Nemesis
 Trygon Predator
 Tundra
 Turnabout
@@ -500,18 +498,17 @@ Unburial Rites
 Underground Sea
 Unexpectedly Absent
 Upheaval
-Urborg, Tomb of Yawgmoth
 Vampire Hexmage
 Vampire Nighthawk
 Vampiric Tutor
-Vedalken Shackles
 Vendilion Clique
 Venser, Shaper Savant
 Verdant Catacombs
-Verdurous Gearhulk
 Vindicate
+Vivien, Champion of the Wilds
 Vivien Reid
 Volcanic Island
+Vraska, Golgari Queen
 Vraska, Relic Seeker
 Vraska's Contempt
 Walking Ballista
@@ -521,8 +518,11 @@ Wall of Roots
 Wandering Fumarole
 Wasteland
 Watery Grave
+Wear // Tear
 Wheel of Fortune
 Whisperwood Elemental
+Wickerbough Elder
+Wilderness Reclamation
 Wildfire
 Windswept Heath
 Winter Orb
