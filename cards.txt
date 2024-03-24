@@ -8,24 +8,24 @@ Ajani Vengeant
 Ancestral Recall
 Ancestral Vision
 Ancient Grudge
-Ancient Stirrings
 Ancient Tomb
 Angel of Invention
 Angel of Sanctions
-Angel of Serenity
 Anguished Unmaking
 Animate Dead
 Arbor Elf
-Archangel of Thune
+Arcane Artisan
+Archangel Avacyn
 Arguel's Blood Fast
 Arid Mesa
 Armageddon
 Ashiok, Nightmare Weaver
-Augur of Bolas
+Assassin's Trophy
+Aurelia, Exemplar of Justice
+Avacyn, Angel of Hope
 Avacyn's Pilgrim
 Avalanche Riders
 Avenger of Zendikar
-Awakening Zone
 Azorius Signet
 Badlands
 Balance
@@ -33,12 +33,12 @@ Baleful Strix
 Baneslayer Angel
 Banisher Priest
 Banishing Light
+Baral, Chief of Compliance
 Basalt Monolith
 Batterskull
 Bayou
 Bazaar of Baghdad
 Beast Within
-Benalish Marshal
 Birds of Paradise
 Bitterblossom
 Blackcleave Cliffs
@@ -54,23 +54,22 @@ Bone Shredder
 Bonfire of the Damned
 Boros Signet
 Botanical Sanctum
-Braids, Cabal Minion
 Brain Freeze
 Brain Maggot
 Brainstorm
 Breeding Pool
 Bribery
+Brightling
 Brimaz, King of Oreskos
-Bring to Light
 Buried Alive
 Burning of Xinye
 Burst Lightning
 Cabal Ritual
+Carnage Tyrant
 Cast Down
 Celestial Colonnade
 Chain Lightning
 Chandra, Flamecaller
-Chandra, Pyromaster
 Chandra, Torch of Defiance
 Channel
 Char
@@ -78,9 +77,11 @@ Chart a Course
 Chrome Mox
 Coalition Relic
 Coercive Portal
-Commit // Memory
+Collective Brutality
+Collective Defiance
 Compulsive Research
 Concealed Courtyard
+Condemn
 Consecrated Sphinx
 Control Magic
 Copperline Gorge
@@ -94,38 +95,35 @@ Crucible of Worlds
 Cryptic Command
 Dack Fayden
 Damnation
+Daretti, Ingenious Iconoclast
 Daretti, Scrap Savant
 Dark Confidant
 Dark Petition
 Dark Ritual
 Darkslick Shores
+Dauntless Bodyguard
 Day of Judgment
 Daze
-Deathrite Shaman
 Deceiver Exarch
-Declaration in Stone
-Delver of Secrets
 Demonic Tutor
 Demonlord Belzenlok
-Den Protector
 Deranged Hermit
 Desperate Ritual
+Devoted Druid
 Dig Through Time
 Dimir Signet
 Dire Fleet Daredevil
+Disallow
 Disenchant
 Dismember
-Dissenter's Deliverance
+Doom Whisperer
 Dragonlord Atarka
-Dragonlord Dromoka
 Dragonlord Ojutai
 Dreadbore
-Dualcaster Mage
 Duplicant
 Duress
 Edric, Spymaster of Trest
 Eidolon of the Great Revel
-Electrolyze
 Elesh Norn, Grand Cenobite
 Elspeth, Knight-Errant
 Elspeth, Sun's Champion
@@ -141,32 +139,30 @@ Eternal Witness
 Eureka
 Everflowing Chalice
 Exhume
-Exquisite Firecraft
+Expansion // Explosion
+Experimental Frenzy
 Fact or Fiction
 Faithless Looting
 Faith's Fetters
-Falkenrath Gorger
 Fastbond
 Fatal Push
 Fauna Shaman
 Field of Ruin
-Fiend Hunter
 Fiery Confluence
 Figure of Destiny
 Fireblast
 Firebolt
 Firedrinker Satyr
-Fire // Ice
+Flame Slash
 Flametongue Kavu
 Flickerwisp
 Flooded Strand
 Force of Will
-Force Spike
 Frantic Search
-Freyalise, Llanowar's Fury
 Frost Titan
 Fyndhorn Elves
 Gaea's Cradle
+Garruk, Apex Predator
 Garruk, Primal Hunter
 Garruk Relentless
 Garruk Wildspeaker
@@ -180,9 +176,10 @@ Gilded Lotus
 Gitaxian Probe
 Glen Elendra Archmage
 Glorybringer
-Goblin Chainwhirler
 Goblin Dark-Dwellers
+Goblin Electromancer
 Goblin Guide
+Goblin Rabblemaster
 Goblin Welder
 Godless Shrine
 Go for the Throat
@@ -228,27 +225,28 @@ Jace Beleren
 Jace, the Mind Sculptor
 Jace, Vryn's Prodigy
 Jackal Pup
-Jadelight Ranger
-Jhoira, Weatherlight Captain
 Joraga Treespeaker
 Karakas
 Karn Liberated
 Karn, Scion of Urza
 Kiki-Jiki, Mirror Breaker
+Kiora, the Crashing Wave
 Kitchen Finks
 Kitesail Freebooter
-Knight of the White Orchid
+Knight of Autumn
+Knight of the Reliquary
+Kodama's Reach
 Kolaghan's Command
 Koth of the Hammer
 Kozilek, Butcher of Truth
 Kuldotha Forgemaster
 Kytheon, Hero of Akros
 Land Tax
+Languish
 Lavaclaw Reaches
 Legion's Landing
 Leonin Relic-Warder
 Leovold, Emissary of Trest
-Leyline of Sanctity
 Library of Alexandria
 Lightning Bolt
 Lightning Greaves
@@ -277,6 +275,7 @@ Mana Crypt
 Mana Drain
 Mana Flare
 Mana Leak
+Manamorphose
 Mana Tithe
 Mana Vault
 Manglehorn
@@ -308,7 +307,6 @@ Mox Pearl
 Mox Ruby
 Mox Sapphire
 Mulldrifter
-Murderous Cut
 Mutavault
 Myr Battlesphere
 Mystical Tutor
@@ -318,21 +316,20 @@ Nahiri, the Harbinger
 Natural Order
 Nature's Claim
 Necromancy
-Necropotence
 Needle Spires
 Nekrataal
-Nevinyrral's Disk
-Nezumi Graverobber
-Nezumi Shortfang
+Nexus of Fate
 Nicol Bolas, Planeswalker
+Night's Whisper
+Nissa, Vastwood Seer
+Nissa, Voice of Zendikar
 Nissa, Worldwaker
 Noble Hierarch
-Noxious Gearhulk
 Nykthos, Shrine to Nyx
 Oath of Druids
-Oath of Nissa
 Oblivion Ring
-Olivia Voldaren
+Oblivion Stone
+Obstinate Baloth
 Oona's Prowler
 Ophiomancer
 Opposition
@@ -340,17 +337,20 @@ Oracle of Mul Daya
 Orzhov Signet
 Overgrown Tomb
 Pack Rat
-Painful Truths
+Palace Jailer
 Palinchron
 Parallax Wave
 Path to Exile
 Pentad Prism
-Pernicious Deed
 Pestermite
 Phantasmal Image
+Phyrexian Arena
 Phyrexian Metamorph
 Phyrexian Revoker
+Pia and Kiran Nalaar
+Pia Nalaar
 Plateau
+Plow Under
 Polluted Delta
 Polukranos, World Eater
 Ponder
@@ -359,12 +359,14 @@ Preordain
 Primal Command
 Primeval Titan
 Progenitus
+Puppeteer Clique
 Putrid Imp
 Pyretic Ritual
-Qasali Pridemage
+Pyroclasm
 Raging Ravine
 Rakdos Signet
 Rakdos's Return
+Ramunap Excavator
 Ravages of War
 Ravenous Chupacabra
 Razorverge Thicket
@@ -374,26 +376,26 @@ Recruiter of the Guard
 Recurring Nightmare
 Regrowth
 Rekindling Phoenix
+Relic of Progenitus
 Remand
+Remorseful Cleric
 Repeal
 Restoration Angel
 Reveillark
-Rift Bolt
 Riftwing Cloudskate
 Rishadan Port
-Rishkar, Peema Renegade
-Rite of Flame
 Rofellos, Llanowar Emissary
+Runaway Steam-Kin
 Sacred Foundry
 Sakura-Tribe Elder
 Savannah
 Scalding Tarn
 Scavenging Ooze
+Scrapheap Scrounger
 Scrubland
 Seachrome Coast
 Search for Azcanta
 Search for Tomorrow
-Searing Spear
 Seething Song
 Selesnya Signet
 Selfless Spirit
@@ -410,21 +412,19 @@ Siege-Gang Commander
 Silverblade Paladin
 Simic Signet
 Skullclamp
-Skymarcher Aspirant
 Smokestack
 Smuggler's Copter
 Snapcaster Mage
 Sneak Attack
 Solemn Simulacrum
 Sol Ring
-Song of the Dryads
 Sorcerous Spyglass
 Soulfire Grand Master
 Sower of Temptation
 Spear of Heliod
 Spectral Procession
 Spell Pierce
-Spellskite
+Spell Queller
 Sphinx of the Steel Wind
 Sphinx's Revelation
 Spirebluff Canal
@@ -433,13 +433,11 @@ Steam Vents
 Stirring Wildwood
 Stomping Ground
 Stoneforge Mystic
-Stormbreath Dragon
 Strip Mine
 Student of Warfare
 Sulfuric Vortex
 Sundering Titan
 Sun Titan
-Supreme Verdict
 Survival of the Fittest
 Sweltering Suns
 Sword of Body and Mind
@@ -453,24 +451,23 @@ Sylvan Library
 Taiga
 Tamiyo, the Moon Sage
 Tangle Wire
-Tarmogoyf
 Tasigur, the Golden Fang
 Teferi, Hero of Dominaria
 Temple Garden
 Tendrils of Agony
 Terastodon
 Terminate
-Tezzeret, Agent of Bolas
+Terminus
 Tezzeret the Seeker
 Thalia, Guardian of Thraben
-The Abyss
 The Scarab God
+Thief of Sanity
 Thing in the Ice
 Thirst for Knowledge
 Thoughtseize
+Thousand-Year Storm
 Thragtusk
 Thran Dynamo
-Thrashing Brontodon
 Through the Breach
 Thrun, the Last Troll
 Thundermaw Hellkite
@@ -480,6 +477,7 @@ Time Spiral
 Timetwister
 Time Walk
 Tinker
+Tireless Tracker
 Tolarian Academy
 Tooth and Nail
 Torrential Gearhulk
@@ -488,6 +486,7 @@ Treachery
 Treasure Cruise
 Trinket Mage
 Tropical Island
+Trostani Discordant
 True-Name Nemesis
 Trygon Predator
 Tundra
@@ -502,6 +501,7 @@ Underground Sea
 Unexpectedly Absent
 Upheaval
 Urborg, Tomb of Yawgmoth
+Vampire Hexmage
 Vampire Nighthawk
 Vampiric Tutor
 Vedalken Shackles
@@ -510,7 +510,7 @@ Venser, Shaper Savant
 Verdant Catacombs
 Verdurous Gearhulk
 Vindicate
-Voice of Resurgence
+Vivien Reid
 Volcanic Island
 Vraska, Relic Seeker
 Vraska's Contempt
@@ -521,8 +521,8 @@ Wall of Roots
 Wandering Fumarole
 Wasteland
 Watery Grave
-Wear // Tear
 Wheel of Fortune
+Whisperwood Elemental
 Wildfire
 Windswept Heath
 Winter Orb
