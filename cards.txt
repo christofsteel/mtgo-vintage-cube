@@ -4,11 +4,9 @@ Aether Spellbomb
 Aetherflux Reservoir
 Ancestral Recall
 Ancient Tomb
-Andúril, Flame of the West
 Animate Dead
 Arboreal Grazer
 Arc Trail
-Archangel Avacyn
 Archon of Cruelty
 Arid Mesa
 Ashen Rider
@@ -25,8 +23,9 @@ Batterskull
 Bayou
 Beseech the Mirror
 Birds of Paradise
-Birgi, God of Storytelling
+Bitter Reunion
 Bitter Triumph
+Bitterblossom
 Black Lotus
 Blackcleave Cliffs
 Blade Splicer
@@ -48,23 +47,26 @@ Brazen Borrower
 Breeding Pool
 Breya's Apprentice
 Bring to Light
+Broadside Bombardiers
 Burst Lightning
 Cabal Ritual
 Candelabra of Tawnos
 Cathar Commando
+Cavalier of Thorns
 Celestial Colonnade
 Chain Lightning
 Chandra, Torch of Defiance
 Channel
 Chart a Course
+Chromatic Star
 Chrome Host Seedshark
 Chrome Mox
+City of Traitors
 Cityscape Leveler
 Coalition Relic
 Collective Brutality
 Concealed Courtyard
 Concealing Curtains
-Contagion
 Containment Priest
 Copperline Gorge
 Corpse Dance
@@ -79,9 +81,11 @@ Crop Rotation
 Crucible of Worlds
 Cryptic Command
 Currency Converter
+Cut Down
 Dack Fayden
 Damn
 Damnation
+Daretti, Ingenious Iconoclast
 Daretti, Scrap Savant
 Dark Confidant
 Dark Depths
@@ -103,9 +107,9 @@ Displacer Kitten
 Doomsday
 Dragon's Rage Channeler
 Dreams of Steel and Oil
+Dress Down
 Dryad of the Ilysian Grove
 Duress
-Earthshaker Khenra
 Echo of Eons
 Elite Spellbinder
 Elspeth, Knight-Errant
@@ -123,11 +127,9 @@ Escape to the Wilds
 Esika's Chariot
 Esper Sentinel
 Etali, Primal Conqueror
-Eternal Witness
 Everflowing Chalice
 Evolved Sleeper
 Exhume
-Experimental Synthesizer
 Exploration
 Expressive Iteration
 Fable of the Mirror-Breaker
@@ -151,6 +153,7 @@ Flickerwisp
 Flooded Strand
 Force of Negation
 Force of Will
+Forensic Gadgeteer
 Forth Eorlingas!
 Fractured Identity
 Frantic Search
@@ -163,7 +166,9 @@ Giver of Runes
 Gix, Yawgmoth Praetor
 Glimmer Lens
 Glorybringer
+Goblin Cratermaker
 Goblin Engineer
+Goblin Rabblemaster
 Goblin Welder
 Godless Shrine
 Goldspan Dragon
@@ -186,8 +191,6 @@ Hallowed Fountain
 Hangarback Walker
 Hard Evidence
 Haunted Ridge
-Heart of Kiran
-Hedron Crab
 Hellrider
 Helm of Awakening
 Hero of Bladehold
@@ -204,12 +207,13 @@ Inquisition of Kozilek
 Inspiring Vantage
 Inti, Seneschal of the Sun
 Intrepid Adversary
-Intuition
 Jace, Vryn's Prodigy
 Jace, Wielder of Mysteries
 Jace, the Mind Sculptor
+Jadar, Ghoulcaller of Nephalia
 Jetmir's Garden
 Kaito Shizuki
+Kaldra Compleat
 Kappa Cannoneer
 Karakas
 Kari Zev, Skyship Raider
@@ -218,12 +222,13 @@ Ketria Triome
 Knight of the Reliquary
 Kogla, the Titan Ape
 Kolaghan's Command
-Kytheon, Hero of Akros
+Kozilek, Butcher of Truth
 Laelia, the Blade Reforged
 Ledger Shredder
+Legolas's Quick Reflexes
+Leonin Relic-Warder
 Leyline Binding
 Library of Alexandria
-Life from the Loam
 Life/Death
 Lightning Bolt
 Lightning Greaves
@@ -233,7 +238,6 @@ Lion Sash
 Lion's Eye Diamond
 Llanowar Elves
 Loran of the Third Path
-Lose Focus
 Lotus Cobra
 Lotus Petal
 Luminarch Aspirant
@@ -244,22 +248,24 @@ Malcolm, Alluring Scoundrel
 Mana Crypt
 Mana Drain
 Mana Leak
+Mana Tithe
 Mana Vault
 Manamorphose
+Manglehorn
 Manifold Key
 Marsh Flats
 Massacre Girl
 Memory Jar
+Memory Lapse
 Mind Twist
-Mind's Desire
+Mine Collapse
 Minsc & Boo, Timeless Heroes
 Miscalculation
 Misery's Shadow
 Mishra's Bauble
-Mishra's Factory
+Mishra's Research Desk
 Mishra's Workshop
 Misty Rainforest
-Molten Collapse
 Monastery Mentor
 Monastery Swiftspear
 Mosswood Dreadknight
@@ -277,7 +283,6 @@ Myr Battlesphere
 Mystic Confluence
 Mystic Forge
 Mystical Tutor
-Najeela, the Blade-Blossom
 Narset, Parter of Veils
 Natural Order
 Nature's Claim
@@ -288,14 +293,14 @@ Nishoba Brawler
 Nissa, Ascended Animist
 Nissa, Who Shakes the World
 Noble Hierarch
+Novice Inspector
 Nurturing Peatland
-Ojer Kaslem, Deepest Growth
+Oath of Druids
 Oko, Thief of Crowns
 Oliphaunt
 Omnath, Locus of Creation
 Once Upon a Time
 Ophiomancer
-Oracle of Mul Daya
 Orcish Bowmasters
 Orcish Lumberjack
 Otawara, Soaring City
@@ -307,10 +312,10 @@ Palace Jailer
 Palantír of Orthanc
 Paradoxical Outcome
 Parallax Wave
-Patchwork Automaton
 Path to Exile
 Pentad Prism
 Pest Infestation
+Phantasmal Image
 Phyrexian Dragon Engine
 Phyrexian Fleshgorger
 Phyrexian Metamorph
@@ -321,17 +326,16 @@ Ponder
 Porcelain Legionnaire
 Portable Hole
 Portal to Phyrexia
+Preacher of the Schism
 Preordain
 Primeval Titan
 Prismatic Ending
 Prismatic Omen
 Prismatic Vista
-Putrid Imp
 Pyrite Spellbomb
 Pyrokinesis
 Qasali Pridemage
 Questing Beast
-Questing Druid
 Rabbit Battery
 Radha's Firebrand
 Raffine's Tower
@@ -341,21 +345,21 @@ Rain of Filth
 Rampaging Ferocidon
 Rampaging Raptor
 Ramunap Excavator
-Ranger-Captain of Eos
 Rankle, Master of Pranks
 Raugrin Triome
 Razorverge Thicket
 Reanimate
 Reclamation Sage
+Recruiter of the Guard
 Recurring Nightmare
+Regrowth
+Relic of Progenitus
 Remand
 Renegade Rallier
 Reprieve
 Restless Bivouac
 Restless Vents
 Retrofitter Foundry
-Rite of Flame
-Roaming Throne
 Robber of the Rich
 Rofellos, Llanowar Emissary
 Rona, Herald of Invasion
@@ -374,7 +378,6 @@ Scavenging Ooze
 Scrapwork Mutt
 Scrubland
 Seachrome Coast
-Seal of Removal
 Seasoned Hallowblade
 Seasoned Pyromancer
 Seething Song
@@ -386,7 +389,6 @@ Serra Paragon
 Sevinne's Reclamation
 Shadowspear
 Shallow Grave
-Shark Typhoon
 Shattered Sanctum
 Shelldock Isle
 Sheoldred's Edict
@@ -394,11 +396,11 @@ Sheoldred, the Apocalypse
 Shorikai, Genesis Engine
 Show and Tell
 Showdown of the Skalds
+Shrapnel Blast
 Silent Clearing
 Simic Growth Chamber
 Skullclamp
 Skyclave Apparition
-Skysovereign, Consul Flagship
 Smuggler's Copter
 Snap
 Snapcaster Mage
@@ -406,35 +408,36 @@ Sneak Attack
 Snuff Out
 Sol Ring
 Solitude
-Soul of Windgrace
 Soul-Guide Lantern
 Soul-Scar Mage
 Spara's Headquarters
 Spell Pierce
 Spellseeker
-Spelunking
 Spirebluff Canal
 Staff of the Storyteller
 Steam Vents
 Steel Seraph
+Stern Scolding
 Stomping Ground
 Stoneforge Mystic
 Stormcarved Coast
 Strip Mine
 Subtlety
 Sunbaked Canyon
-Sundering Titan
+Sunfall
 Sunken Ruins
 Sword of the Meek
 Swords to Plowshares
 Sylvan Caryatid
 Sylvan Library
 Sylvan Safekeeper
+Syr Ginger, the Meal Ender
 Taiga
 Talisman of Conviction
 Talisman of Creativity
 Talisman of Curiosity
 Talisman of Dominance
+Talisman of Indulgence
 Talisman of Progress
 Tameshi, Reality Architect
 Tamiyo, Collector of Tales
@@ -452,7 +455,6 @@ Thassa's Oracle
 The Mightstone and Weakstone
 The One Ring
 The Wandering Emperor
-The Weatherseed Treaty
 Thespian's Stage
 Thieving Skydiver
 Third Path Iconoclast
@@ -470,6 +472,7 @@ Timeless Dragon
 Timetwister
 Tinker
 Tireless Tracker
+Tishana's Tidebinder
 Titan of Industry
 Titania, Protector of Argoth
 Tolarian Academy
@@ -491,9 +494,9 @@ Ugin, the Spirit Dragon
 Ulamog, the Infinite Gyre
 Ulvenwald Oddity
 Umezawa's Jitte
-Unctus, Grand Metatect
 Underground Sea
 Underworld Breach
+Unearth
 Unexpectedly Absent
 Unlicensed Hearse
 Upheaval
@@ -502,14 +505,11 @@ Uro, Titan of Nature's Wrath
 Urza's Saga
 Urza, Lord High Artificer
 Usher of the Fallen
-Valakut Exploration
 Valakut, the Molten Pinnacle
 Valki, God of Lies
-Vampire Hexmage
 Vampiric Tutor
 Vendilion Clique
 Verdant Catacombs
-Vial Smasher the Fierce
 Vindicate
 Virtue of Persistence
 Volcanic Island
@@ -522,16 +522,16 @@ Watery Grave
 Weathered Wayfarer
 Wedding Announcement
 Wheel of Fortune
-Wild Nacatl
 Winds of Abandon
 Windswept Heath
 Witherbloom Command
 Wooded Foothills
 Woodfall Primus
+Worldspine Wurm
 Wrath of God
 Wrenn and Six
-Wurmcoil Engine
 Xander's Lounge
+Yavimaya, Cradle of Growth
 Yawgmoth's Will
 Yawgmoth, Thran Physician
 Zagoth Triome
