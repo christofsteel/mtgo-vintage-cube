@@ -99,7 +99,6 @@ Daretti, Scrap Savant
 Dark Confidant
 Dark Depths
 Dark Ritual
-Dark-Dweller Oracle
 Darkslick Shores
 Dauthi Voidwalker
 Daze
@@ -231,6 +230,7 @@ Kaldra Compleat
 Karakas
 Kari Zev, Skyship Raider
 Karn Liberated
+Karn, Scion of Urza
 Karplusan Forest
 Kenrith, the Returned King
 Ketria Triome
