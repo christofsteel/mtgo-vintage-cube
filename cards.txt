@@ -9,15 +9,16 @@ Ancestral Vision
 Ancient Tomb
 Animate Dead
 Arbor Elf
+Arcane Proxy
 Archangel Avacyn
 Archon of Cruelty
+Argoth, Sanctum of Nature
 Arid Mesa
 Armageddon
 Ashen Rider
 Ashiok, Nightmare Weaver
-Assassin's Trophy
 Augur of Autumn
-Aura Shards
+Aurelia, the Warleader
 Avalanche Riders
 Avenger of Zendikar
 Azorius Signet
@@ -34,24 +35,25 @@ Birds of Paradise
 Birgi, God of Storytelling
 Birthing Pod
 Bitterblossom
-Blackcleave Cliffs
 Black Lotus
+Blackcleave Cliffs
 Blade Splicer
 Blightsteel Colossus
-Bloodchief's Thirst
 Blood Crypt
+Bloodchief's Thirst
 Bloodghast
 Bloodstained Mire
 Bloodthirsty Adversary
+Bloodtithe Harvester
 Blooming Marsh
 Bolas's Citadel
 Bomat Courier
-Bonecrusher Giant
 Bone Shards
-Bone Shredder
+Bonecrusher Giant
 Boros Signet
 Boseiju, Who Endures
 Botanical Sanctum
+Braids, Arisen Nightmare
 Braids, Cabal Minion
 Brain Freeze
 Brainstorm
@@ -59,8 +61,8 @@ Brazen Borrower
 Breeding Pool
 Bribery
 Burst Lightning
+Bushwhack
 Cabal Ritual
-Carrion Feeder
 Cathar Commando
 Celestial Colonnade
 Chain Lightning
@@ -70,11 +72,13 @@ Char
 Chart a Course
 Chrome Mox
 Circle of Dreams Druid
+Cityscape Leveler
 Coalition Relic
 Coercive Portal
 Collective Brutality
 Concealed Courtyard
 Consecrated Sphinx
+Consider
 Containment Priest
 Copperline Gorge
 Corpse Dance
@@ -87,7 +91,6 @@ Crop Rotation
 Crucible of Worlds
 Cryptbreaker
 Cryptic Command
-Cultivate
 Custodi Lich
 Dack Fayden
 Damn
@@ -104,29 +107,28 @@ Deceiver Exarch
 Demonic Tutor
 Deranged Hermit
 Desperate Ritual
+Destroy Evil
 Devoted Druid
 Dig Through Time
 Dimir Signet
 Dire Fleet Daredevil
-Disenchant
 Dismember
 Dragon's Rage Channeler
-Dryad of the Ilysian Grove
 Duress
 Echo of Eons
 Edric, Spymaster of Trest
 Eidolon of the Great Revel
+Eladamri's Call
 Elder Gargaroth
 Elesh Norn, Grand Cenobite
 Elite Spellbinder
-Elspeth, Knight-Errant
 Elspeth Resplendent
+Elspeth, Knight-Errant
 Elspeth, Sun's Champion
 Elvish Mystic
 Elvish Reclaimer
 Embereth Shieldbreaker
 Emrakul, the Aeons Torn
-Emrakul, the Promised End
 Emry, Lurker of the Loch
 Endurance
 Entomb
@@ -136,22 +138,21 @@ Esper Sentinel
 Eternal Witness
 Eureka
 Everflowing Chalice
+Evolved Sleeper
 Exhume
 Expansion // Explosion
-Exploration
 Expressive Iteration
-Extraction Specialist
 Fable of the Mirror-Breaker
 Fact or Fiction
 Faithless Looting
 Fastbond
 Fatal Push
 Field of the Dead
+Fiend Artisan
 Fiery Islet
 Figure of Destiny
 Finale of Devastation
 Fireblast
-Firebolt
 Flickerwisp
 Flooded Strand
 Force of Negation
@@ -159,19 +160,15 @@ Force of Will
 Fractured Identity
 Frantic Search
 Fury
-Fyndhorn Elves
 Gaea's Cradle
 Garruk Relentless
 Garruk Wildspeaker
-Geist of Saint Traft
-General Ferrous Rokiric
-Gideon, Ally of Zendikar
-Gideon Blackblade
 Gideon Jura
+Gideon, Ally of Zendikar
 Gilded Drake
-Gilded Lotus
 Gitaxian Probe
 Giver of Runes
+Gix, Yawgmoth Praetor
 Glen Elendra Archmage
 Glorybringer
 Goblin Bombardment
@@ -183,8 +180,8 @@ Godless Shrine
 Goldspan Dragon
 Golgari Signet
 Golos, Tireless Pilgrim
-Gonti, Lord of Luxury
 Grave Titan
+Graveyard Trespasser
 Green Sun's Zenith
 Grief
 Grim Lavamancer
@@ -192,7 +189,6 @@ Grim Monolith
 Griselbrand
 Grist, the Hunger Tide
 Gruul Signet
-Halana and Alena, Partners
 Hallowed Fountain
 Hangarback Walker
 Hazoret the Fervent
@@ -223,8 +219,8 @@ Inspiring Vantage
 Intrepid Adversary
 Iona, Shield of Emeria
 Izzet Signet
-Jace, the Mind Sculptor
 Jace, Vryn's Prodigy
+Jace, the Mind Sculptor
 Jetmir's Garden
 Jokulhaups
 Joraga Treespeaker
@@ -238,21 +234,25 @@ Kiki-Jiki, Mirror Breaker
 Kitchen Finks
 Knight of Autumn
 Knight of the Reliquary
+Kodama's Reach
 Kogla, the Titan Ape
 Kolaghan's Command
+Koma, Cosmos Serpent
 Koth of the Hammer
+Krark, the Thumbless
 Kroxa, Titan of Death's Hunger
 Kuldotha Forgemaster
 Laelia, the Blade Reforged
 Land Tax
 Lavaclaw Reaches
+Ledger Shredder
 Leonin Relic-Warder
 Leovold, Emissary of Trest
 Library of Alexandria
 Life from the Loam
+Light Up the Stage
 Lightning Bolt
 Lightning Helix
-Light Up the Stage
 Liliana of the Veil
 Liliana, the Last Hope
 Lingering Souls
@@ -260,6 +260,7 @@ Lion Sash
 Lion's Eye Diamond
 Llanowar Elves
 Lodestone Golem
+Loran of the Third Path
 Lotus Bloom
 Lotus Petal
 Lurrus of the Dream-Den
@@ -271,20 +272,23 @@ Mana Crypt
 Mana Drain
 Mana Flare
 Mana Leak
-Manamorphose
 Mana Tithe
 Mana Vault
+Manamorphose
 Marsh Flats
 Massacre Wurm
 Memory Deluge
 Memory Jar
+Meria, Scholar of Antiquity
 Mesmeric Fiend
 Metalworker
+Mind Twist
 Mind's Desire
 Mindslaver
-Mind Twist
+Minsc & Boo, Timeless Heroes
 Mirari's Wake
 Miscalculation
+Mishra's Bauble
 Mishra's Factory
 Mishra's Workshop
 Misty Rainforest
@@ -303,13 +307,12 @@ Murderous Rider
 Murktide Regent
 Mutavault
 Myr Battlesphere
-Mystical Tutor
 Mystic Confluence
+Mystical Tutor
 Nahiri, the Harbinger
 Narset, Parter of Veils
 Natural Order
 Necromancy
-Nighthawk Scavenger
 Night's Whisper
 Nissa, Vastwood Seer
 Nissa, Who Shakes the World
@@ -319,7 +322,6 @@ Nurturing Peatland
 Oath of Druids
 Oblivion Ring
 Oblivion Stone
-Ob Nixilis, the Adversary
 Oko, Thief of Crowns
 Olivia, Crimson Bride
 Omnath, Locus of Creation
@@ -336,8 +338,8 @@ Palinchron
 Parallax Wave
 Past in Flames
 Path to Exile
-Pestermite
 Pest Infestation
+Pestermite
 Phantasmal Image
 Phyrexian Metamorph
 Phyrexian Revoker
@@ -348,7 +350,6 @@ Polluted Delta
 Polukranos, World Eater
 Ponder
 Porcelain Legionnaire
-Portent
 Preordain
 Primeval Titan
 Prismatic Vista
@@ -379,6 +380,7 @@ Retrofitter Foundry
 Riftwing Cloudskate
 Rishadan Port
 Rofellos, Llanowar Emissary
+Rolling Earthquake
 Runaway Steam-Kin
 Sacred Foundry
 Sakura-Tribe Elder
@@ -390,9 +392,7 @@ Scavenging Ooze
 Scrapheap Scrounger
 Scrubland
 Seachrome Coast
-Sea Gate Stormcaller
 Seasoned Pyromancer
-Sedgemoor Witch
 Seething Song
 Selesnya Signet
 Selfless Spirit
@@ -400,6 +400,7 @@ Sensei's Divining Top
 Shallow Grave
 Shark Typhoon
 Shelldock Isle
+Sheoldred, the Apocalypse
 Show and Tell
 Showdown of the Skalds
 Shriekmaw
@@ -414,29 +415,30 @@ Smuggler's Copter
 Snapcaster Mage
 Sneak Attack
 Snuff Out
-Solitude
 Sol Ring
+Solitude
 Soulfire Grand Master
 Sower of Temptation
 Spara's Headquarters
 Spectral Procession
 Spell Pierce
+Spell Queller
 Spellseeker
 Sphinx of the Steel Wind
 Spirebluff Canal
 Splinter Twin
 Steam Vents
+Steel Seraph
 Stomping Ground
 Stoneforge Mystic
 Strip Mine
 Student of Warfare
 Sulfuric Vortex
+Sun Titan
 Sunbaked Canyon
 Sundering Titan
-Sun Titan
 Survival of the Fittest
 Suspicious Stowaway
-Swift Reconfiguration
 Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
@@ -445,20 +447,19 @@ Sylvan Caryatid
 Sylvan Library
 Taiga
 Takenuma, Abandoned Mire
-Tamiyo, Compleated Sage
 Tangle Wire
 Teferi, Hero of Dominaria
 Teferi, Time Raveler
 Temple Garden
+Temporary Lockdown
 Tendrils of Agony
 Terastodon
 Tezzeret the Seeker
 Thalia, Guardian of Thraben
 Thassa's Oracle
-The Reality Chip
 The Scarab God
-Thespian's Stage
 The Wandering Emperor
+Thespian's Stage
 Thieving Skydiver
 Thirst for Discovery
 Thoughtseize
@@ -470,11 +471,13 @@ Through the Breach
 Thundermaw Hellkite
 Tidehollow Sculler
 Time Spiral
-Timetwister
 Time Walk
 Time Warp
+Timeless Lotus
+Timetwister
 Tinker
 Tireless Tracker
+Titania, Voice of Gaea
 Tolarian Academy
 Toski, Bearer of Secrets
 Tovolar's Huntmaster
@@ -489,15 +492,14 @@ Ugin, the Spirit Dragon
 Ulamog, the Ceaseless Hunger
 Ulamog, the Infinite Gyre
 Umezawa's Jitte
-Unburial Rites
 Underground Sea
 Underworld Breach
 Unholy Heat
 Unlicensed Hearse
 Upheaval
 Uro, Titan of Nature's Wrath
-Urza, Lord High Artificer
 Urza's Saga
+Urza, Lord High Artificer
 Usher of the Fallen
 Utopia Sprawl
 Vampire Hexmage
@@ -507,8 +509,6 @@ Venser, Shaper Savant
 Verdant Catacombs
 Vindicate
 Volcanic Island
-Volrath's Stronghold
-Voltaic Visionary
 Vraska, Golgari Queen
 Vryn Wingmare
 Walking Ballista
