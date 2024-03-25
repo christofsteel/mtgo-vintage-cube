@@ -231,7 +231,6 @@ Kaldra Compleat
 Karakas
 Kari Zev, Skyship Raider
 Karn Liberated
-Karn, Scion of Urza
 Karplusan Forest
 Kenrith, the Returned King
 Ketria Triome
@@ -242,6 +241,7 @@ Knight of the Reliquary
 Kogla, the Titan Ape
 Kolaghan's Command
 Koma, Cosmos Serpent
+Laelia, the Blade Reforged
 Leonin Relic-Warder
 Leovold, Emissary of Trest
 Library of Alexandria
