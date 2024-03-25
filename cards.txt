@@ -1,13 +1,14 @@
 Abrade
-Acidic Slime
 Adanto Vanguard
 Adeline, Resplendent Cathar
 Aetherflux Reservoir
+Agatha's Soul Cauldron
 Ancestral Recall
 Ancient Tomb
 Andúril, Flame of the West
 Animate Dead
 Arbor Elf
+Arc Trail
 Archon of Cruelty
 Arid Mesa
 Armageddon
@@ -15,7 +16,6 @@ Ashen Rider
 Assassin's Trophy
 Atraxa, Grand Unifier
 Augur of Autumn
-Avenger of Zendikar
 Badlands
 Balance
 Baleful Mastery
@@ -26,7 +26,6 @@ Batterskull
 Bayou
 Bazaar of Baghdad
 Birds of Paradise
-Birgi, God of Storytelling
 Birthing Pod
 Bitter Reunion
 Bitterblossom
@@ -39,7 +38,6 @@ Bloodchief's Thirst
 Bloodstained Mire
 Bloodtithe Harvester
 Blooming Marsh
-Blue Sun's Zenith
 Bolas's Citadel
 Bomat Courier
 Bone Shards
@@ -47,7 +45,6 @@ Bonecrusher Giant
 Boon-Bringer Valkyrie
 Boseiju, Who Endures
 Botanical Sanctum
-Braids, Arisen Nightmare
 Brain Freeze
 Brainstorm
 Brazen Borrower
@@ -83,7 +80,6 @@ Crop Rotation
 Crucible of Worlds
 Cruel Ultimatum
 Cryptic Command
-Crystalline Giant
 Custodi Lich
 Dack Fayden
 Damn
@@ -109,14 +105,12 @@ Dire Fleet Daredevil
 Dismember
 Displacer Kitten
 Dragon's Rage Channeler
-Dragonlord Atarka
 Dream Halls
 Duress
 Echo of Eons
 Elder Gargaroth
 Elesh Norn, Grand Cenobite
 Elite Spellbinder
-Elspeth Conquers Death
 Elspeth, Knight-Errant
 Elspeth, Sun's Champion
 Elvish Mystic
@@ -162,18 +156,16 @@ Force of Negation
 Force of Vigor
 Force of Will
 Forth Eorlingas!
-Foundry Inspector
 Fractured Identity
 Frantic Search
-Frost Titan
 Fury
 Gaea's Cradle
 Garruk Wildspeaker
-Gideon Jura
 Gideon, Ally of Zendikar
 Gitaxian Probe
 Giver of Runes
 Gix, Yawgmoth Praetor
+Glimmer Lens
 Glorybringer
 Goblin Guide
 Goblin Rabblemaster
@@ -202,7 +194,6 @@ High Tide
 Horizon Canopy
 Hornet Queen
 Hullbreaker Horror
-Huntmaster of the Fells
 Hymn to Tourach
 Ignoble Hierarch
 Imperial Recruiter
@@ -220,7 +211,6 @@ Iona, Shield of Emeria
 Jace, Vryn's Prodigy
 Jace, the Mind Sculptor
 Jadar, Ghoulcaller of Nephalia
-Jeska's Will
 Jetmir's Garden
 Joraga Treespeaker
 Kaldra Compleat
@@ -236,6 +226,7 @@ Kitchen Finks
 Kitesail Freebooter
 Knight of Autumn
 Knight of the Reliquary
+Kogla and Yidaro
 Kogla, the Titan Ape
 Kolaghan's Command
 Kroxa, Titan of Death's Hunger
@@ -250,6 +241,7 @@ Life from the Loam
 Life/Death
 Light Up the Stage
 Lightning Bolt
+Lightning Greaves
 Liliana of the Veil
 Liliana, the Last Hope
 Lingering Souls
@@ -259,6 +251,7 @@ Llanowar Elves
 Loran of the Third Path
 Lotus Petal
 Lurrus of the Dream-Den
+Lórien Revealed
 Magda, Brazen Outlaw
 Magma Opus
 Mana Confluence
@@ -268,7 +261,6 @@ Mana Flare
 Mana Leak
 Mana Vault
 Manamorphose
-March of Otherworldly Light
 Marsh Flats
 Massacre Wurm
 Memory Jar
@@ -277,6 +269,7 @@ Mind's Desire
 Mindslaver
 Mine Collapse
 Minsc & Boo, Timeless Heroes
+Mirage Mirror
 Miscalculation
 Misery's Shadow
 Mishra's Bauble
@@ -310,10 +303,10 @@ Night's Whisper
 Nissa, Ascended Animist
 Nissa, Who Shakes the World
 Noble Hierarch
-Noxious Gearhulk
 Nurturing Peatland
 Oath of Druids
 Oko, Thief of Crowns
+Oliphaunt
 Omnath, Locus of Creation
 Oona's Prowler
 Ophiomancer
@@ -324,6 +317,7 @@ Orcish Lumberjack
 Otawara, Soaring City
 Otharri, Suns' Glory
 Oust
+Outland Liberator
 Overgrown Tomb
 Palace Jailer
 Palantír of Orthanc
@@ -334,6 +328,7 @@ Pentad Prism
 Pest Infestation
 Pestermite
 Phantasmal Image
+Phyrexian Fleshgorger
 Phyrexian Metamorph
 Phyrexian Revoker
 Pia and Kiran Nalaar
@@ -344,6 +339,7 @@ Porcelain Legionnaire
 Portal to Phyrexia
 Preordain
 Primeval Titan
+Prismatic Ending
 Prismatic Vista
 Putrid Imp
 Pyretic Ritual
@@ -382,6 +378,7 @@ Scavenging Ooze
 Scrapwork Mutt
 Scrubland
 Seachrome Coast
+Seal of Removal
 Seasoned Pyromancer
 Seething Song
 Selfless Spirit
@@ -390,7 +387,7 @@ Serra Paragon
 Sevinne's Reclamation
 Shallow Grave
 Shark Typhoon
-Shelldock Isle
+Sheoldred's Edict
 Sheoldred, the Apocalypse
 Showdown of the Skalds
 Sigarda, Font of Blessings
@@ -405,7 +402,6 @@ Snuff Out
 Sol Ring
 Solemn Simulacrum
 Solitude
-Soul Transfer
 Soulherder
 Sower of Temptation
 Spara's Headquarters
@@ -415,6 +411,7 @@ Spellseeker
 Sphinx of the Steel Wind
 Spirebluff Canal
 Splinter Twin
+Squee, Dubious Monarch
 Steam Vents
 Steel Seraph
 Stomping Ground
@@ -428,10 +425,11 @@ Sunbaked Canyon
 Sundering Titan
 Survival of the Fittest
 Suspicious Stowaway
-Sword of Fire and Ice
+Svyelun of Sea and Sky
 Swords to Plowshares
 Sylvan Caryatid
 Sylvan Library
+Sylvan Safekeeper
 Taiga
 Talisman of Conviction
 Talisman of Creativity
@@ -462,7 +460,6 @@ Third Path Iconoclast
 Thirst for Discovery
 Thoughtseize
 Thraben Inspector
-Thragtusk
 Thran Dynamo
 Through the Breach
 Thrun, Breaker of Silence
@@ -485,6 +482,7 @@ Treachery
 Treasure Cruise
 Trinket Mage
 Triplicate Titan
+Troll of Khazad-dûm
 Tropical Island
 Tundra
 Turnabout
@@ -495,6 +493,7 @@ Ulvenwald Oddity
 Umezawa's Jitte
 Underground Sea
 Underworld Breach
+Unexpectedly Absent
 Upheaval
 Urborg, Tomb of Yawgmoth
 Uro, Titan of Nature's Wrath
@@ -525,6 +524,7 @@ Windswept Heath
 Wishclaw Talisman
 Wooded Foothills
 Woodfall Primus
+Workshop Warchief
 Worldspine Wurm
 Wrath of God
 Wrenn and Realmbreaker
